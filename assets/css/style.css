@@ -14424,7 +14424,7 @@ body {
   right: -150px;
   width: 748.516px;
   height: 472.8px;
-  background-image: url(../img/testimonial/pattern2-1.html);
+  background-image: url(../img/testimonial/pattern2-1.php);
 }
 .testi-box-two:hover .auther-info .name {
   color: var(--white-color);

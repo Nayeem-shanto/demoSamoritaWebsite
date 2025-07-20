@@ -494,10 +494,10 @@ if($dataV >= 51){
           $counter.find('.message').css('display', 'block');
         } else {
           // Output the result in elements
-          s$('.day').html(days + ' ')
-          s$('.hour').html(hours + ' ')
-          s$('.minute').html(minutes + ' ')
-          s$('.seconds').html(seconds + ' ')
+          s$('.day').php(days + ' ')
+          s$('.hour').php(hours + ' ')
+          s$('.minute').php(minutes + ' ')
+          s$('.seconds').php(seconds + ' ')
         }
       }, 1000);
     })

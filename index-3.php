@@ -1,0 +1,2082 @@
+<!DOCTYPE html>
+<html class="no-js" lang="zxx">
+  <!-- Mirrored from html.vecurosoft.com/medixi/demo/index-4.php by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 19 Jan 2025 09:12:58 GMT -->
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <title>MH SAMORITA MEDICAL COLLEGE & HOSPITAL</title>
+    <meta name="author" content="Vecuro" />
+    <meta
+      name="description"
+      content="MH Samorita Medical College and Hospital"
+    />
+    <meta
+      name="keywords"
+      content="MH Samorita Medical College and Hospital"
+    />
+    <meta name="robots" content="INDEX,FOLLOW" />
+
+    <!-- Mobile Specific Metas -->
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+
+    <!--==============================
+	   Google Web Fonts
+	============================== -->
+    <link rel="preconnect" href="https://fonts.gstatic.com/" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;700&amp;family=Quicksand:wght@400;700&amp;family=Roboto:wght@400;500;700&amp;display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- Favicons - Place favicon.ico in the root directory -->
+    <link
+      rel="shortcut icon"
+      href="assets/img/favicon.ico"
+      type="image/x-icon"
+    />
+    <link rel="icon" href="assets/img/favicon.ico" type="image/x-icon" />
+
+    <!--==============================
+	    All CSS File
+	============================== -->
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
+    <!-- <link rel="stylesheet" href="assets/css/app.min.css"> -->
+    <!-- Fontawesome Icon -->
+    <link rel="stylesheet" href="assets/css/fontawesome.min.css" />
+    <!-- Layerslider -->
+    <link rel="stylesheet" href="assets/css/layerslider.min.css" />
+    <!-- jQuery DatePicker -->
+    <link rel="stylesheet" href="assets/css/jquery.datetimepicker.min.css" />
+    <!-- Magnific Popup -->
+    <link rel="stylesheet" href="assets/css/magnific-popup.min.css" />
+    <!-- Slick Slider -->
+    <link rel="stylesheet" href="assets/css/slick.min.css" />
+    <!-- Animate CSS -->
+    <link rel="stylesheet" href="assets/css/animate.min.css" />
+    <!-- Theme Custom CSS -->
+    <link rel="stylesheet" href="assets/css/style.css" />
+  </head>
+
+  <body class="home-four">
+    <!--[if lte IE 9]>
+      <p class="browserupgrade">
+        You are using an <strong>outdated</strong> browser. Please
+        <a href="https://browsehappy.com/">upgrade your browser</a> to improve
+        your experience and security.
+      </p>
+    <![endif]-->
+
+    <!--********************************
+   		Code Start From Here 
+	******************************** -->
+
+    <!--==============================
+     Preloader
+  ==============================-->
+    <div class="preloader">
+      <button class="vs-btn preloaderCls">Cancel Preloader</button>
+      <div class="preloader-inner">
+        <svg width="88px" height="108px" viewBox="0 0 54 64">
+          <defs></defs>
+          <g
+            id="Page-1"
+            stroke="none"
+            stroke-width="1"
+            fill="none"
+            fill-rule="evenodd"
+          >
+            <path
+              class="beat-loader"
+              d="M0.5,38.5 L16,38.5 L19,25.5 L24.5,57.5 L31.5,7.5 L37.5,46.5 L43,38.5 L53.5,38.5"
+              id="Path-2"
+              stroke-width="2"
+            ></path>
+          </g>
+        </svg>
+      </div>
+    </div>
+    <!--==============================
+    Mobile Menu
+  ============================== -->
+    <div class="vs-menu-wrapper">
+      <div class="vs-menu-area text-center">
+        <button class="vs-menu-toggle"><i class="fal fa-times"></i></button>
+        <div class="mobile-logo">
+          <a href="index.php"
+            ><img src="samorita.png" alt="MH SAMORITA HOSPITAL"
+          /></a>
+        </div>
+        <form action="#" class="mobile-menu-form">
+          <input type="text" class="form-control" placeholder="Search..." />
+          <button type="submit"><i class="fas fa-search"></i></button>
+        </form>
+        <div class="vs-mobile-menu">
+          <ul>
+            <li class="menu-item-has-children">
+              <a href="index.php">Home</a>
+              <ul class="sub-menu">
+                <li><a href="index.php">Home One</a></li>
+                <li><a href="index-2.php">Home Two</a></li>
+                <li><a href="index-3.php">Home Three</a></li>
+                <li><a href="index-4.php">Home Four </a></li>
+                <li><a href="index-5.php">Home Five</a></li>
+                <li>
+                  <a href="index-6.php"
+                    >Home Six <span class="new-label">New</span></a
+                  >
+                </li>
+                <li>
+                  <a href="index-7.php"
+                    >Home Seven <span class="new-label">New</span></a
+                  >
+                </li>
+                <li>
+                  <a href="index-8.php"
+                    >Home Eight <span class="new-label">New</span></a
+                  >
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a href="about.php">About Us</a>
+            </li>
+            <li class="menu-item-has-children">
+              <a href="service.php">Services</a>
+              <ul class="sub-menu">
+                <li><a href="service.php">Services</a></li>
+                <li><a href="service-details.php">Services Details</a></li>
+              </ul>
+            </li>
+            <li class="menu-item-has-children">
+              <a href="blog.php">Blog</a>
+              <ul class="sub-menu">
+                <li><a href="blog.php">Blog</a></li>
+                <li><a href="blog-details.php">Blog Details</a></li>
+              </ul>
+            </li>
+            <li class="menu-item-has-children">
+              <a href="#">Pages</a>
+              <ul class="sub-menu">
+                <li>
+                  <a href="shop.php"
+                    >Our Shop <span class="new-label">New</span></a
+                  >
+                </li>
+                <li>
+                  <a href="shop-details.php"
+                    >Shop Details <span class="new-label">New</span></a
+                  >
+                </li>
+                <li>
+                  <a href="cart.php"
+                    >Shopping Cart <span class="new-label">New</span></a
+                  >
+                </li>
+                <li>
+                  <a href="checkout.php"
+                    >Checkout <span class="new-label">New</span></a
+                  >
+                </li>
+                <li><a href="team.php">Team</a></li>
+                <li><a href="team-details.php">Team Details</a></li>
+                <li><a href="project.php">Projects</a></li>
+                <li><a href="appointment.php">Appointment</a></li>
+                <li><a href="error.php">Error Page</a></li>
+              </ul>
+            </li>
+            <li>
+              <a href="contact.php">Contact Us</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <!--==============================
+        Header Area
+    ==============================-->
+    <header class="header-wrapper header-layout4">
+      <div class="header-top">
+        <div class="container">
+          <div class="row justify-content-between align-items-center">
+            <div class="col-md-auto">
+              <div class="header-top-links">
+                <ul>
+                  <li>
+                    <a href="#"
+                      ><i class="far fa-map-marker-alt"></i>117 Love Rd
+                      ,Tejgaon, Dhaka 1208, Bangladesh</a
+                    >
+                  </li>
+                  <li><a href="#"><i class="far fa-clock"></i>Everyday: 24/7</a></li>
+                  <li><a href="#">Emergency</a></li>
+                  <li><a href="#">Ambulance Service</a></li>
+                  <li><a href="index-4.php">Hospital</a></li>
+                </ul>
+              </div>
+            </div>
+            <div class="col-auto d-none d-md-block">
+              <span class="social-title d-none d-lg-inline-block"
+                >Get In Touch:</span
+              >
+              <div class="header-social2">
+                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                <a href="#"><i class="fab fa-twitter"></i></a>
+                <a href="#"><i class="fab fa-linkedin-in"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="menu-top">
+        <div class="container">
+          <div class="row justify-content-between align-items-center">
+            <div class="col">
+              <div class="header-logo">
+                <a href="index.php"
+                  ><img src="assets/img/logo/Samorita-logo-top.png" alt="Logo"
+                /></a>
+              </div>
+            </div>
+            <div class="col-auto d-none d-lg-block">
+              <button class="search-btn2">
+                <i class="far fa-search"></i>Search Keyword
+              </button>
+            </div>
+            <div class="col-auto">
+              <div class="header-help">
+                <span class="header-help__title">Need some help?</span>
+                <a href="contact.php" class="vs-btn style5">Find Doctor</a>
+                <a href="contact.php" class="vs-btn style5">Appointment</a>
+              </div>
+            </div>
+            <div class="col-auto d-none d-md-block">
+              <div class="infobox-style1">
+                <div class="infobox-icon">
+                  <i class="fas fa-mobile-android-alt"></i>
+                </div>
+                <div class="media-body">
+                  <span class="infobox-label">hotline emergency</span>
+                  <a href="tel:+89012562156" class="infobox-link"
+                    >02-88788080</a
+                  >
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- Sticky Active -->
+      <div class="sticky-wrap">
+        <div class="sticky-active">
+          <div class="container">
+            <div class="row align-items-center">
+              <div class="col py-2 py-lg-0">
+                <div class="menu-area">
+                  <nav class="main-menu menu-style3 d-none d-lg-block">
+                    <ul>
+                      <li class="">
+                        <a href="index.php"><span class="has-new-label"
+                            >Home <!-- <span class="new-label">New</span> --></span
+                          ></a>
+                        <!-- <ul class="menu-pages">
+                          <li>
+                            <a href="index.php">
+                              <img
+                                src="assets/img/pages/index.jpg"
+                                alt="image"
+                              />
+                              Home One
+                            </a>
+                          </li>
+                          <li>
+                            <a href="index-2.php">
+                              <img
+                                src="assets/img/pages/index-2.jpg"
+                                alt="image"
+                              />
+                              Home Two
+                            </a>
+                          </li>
+                          <li>
+                            <a href="index-3.php">
+                              <img
+                                src="assets/img/pages/index-3.jpg"
+                                alt="image"
+                              />
+                              Home Three
+                            </a>
+                          </li>
+                          <li>
+                            <a href="index-4.php">
+                              <img
+                                src="assets/img/pages/index-4.jpg"
+                                alt="image"
+                              />
+                              Home Four
+                            </a>
+                          </li>
+                          <li>
+                            <a href="index-5.php">
+                              <img
+                                src="assets/img/pages/index-5.jpg"
+                                alt="image"
+                              />
+                              Home Five
+                            </a>
+                          </li>
+                          <li>
+                            <a href="index-6.php">
+                              <img
+                                src="assets/img/pages/index-6.jpg"
+                                alt="image"
+                              />
+                              Home Six <span class="new-label">New</span>
+                            </a>
+                          </li>
+                          <li>
+                            <a href="index-7.php">
+                              <img
+                                src="assets/img/pages/index-7.jpg"
+                                alt="image"
+                              />
+                              Home Seven <span class="new-label">New</span>
+                            </a>
+                          </li>
+                          <li>
+                            <a href="index-8.php">
+                              <img
+                                src="assets/img/pages/index-8.jpg"
+                                alt="image"
+                              />
+                              Home Eight <span class="new-label">New</span>
+                            </a>
+                          </li>
+                        </ul>-->
+                      </li>
+                      <li class="menu-item-has-children mega-menu-wrap">
+                        <a href="about.php">About Us</a>
+                        <ul class="sub-menu">
+                          <li><a href="service.php">Governing Body</a></li>
+                          <li><a href="service.php">Academic Council</a></li>
+                          <li><a href="service.php">Administrative</a></li>
+                          <li><a href="service.php">BMDC</a></li>
+                          
+                        </ul>
+                      </li>
+                      <li class="menu-item-has-children">
+                        <a href="service.php">Departments</a>
+                        <ul class="sub-menu">
+                          <li><a href="service.php">Anatomy</a></li>
+                          <li><a href="service.php">Biochemistry</a></li>
+                          <li><a href="service.php">Forensic</a></li>
+                          <li><a href="service.php">Community</a></li>
+                          
+                        </ul>
+                      </li>
+                      <li class="menu-item-has-children">
+                        <a href="blog.php">Academics</a>
+                        <ul class="sub-menu">
+                          <li><a href="blog.php">MBBS</a></li>
+                          <li><a href="blog-details.php">Dental</a></li>
+                          <li><a href="blog-details.php">Nursing</a></li>
+                        </ul>
+                      </li>
+                      <!-- <li class="menu-item-has-children mega-menu-wrap">
+                        <a href="#"
+                          ><span class="has-new-label"
+                            >Pages <span class="new-label">New</span></span
+                          ></a
+                        >
+                        <ul class="mega-menu">
+                          <li>
+                            <a href="shop.php">Pagelist 1</a>
+                            <ul>
+                              <li><a href="index.php">Home One</a></li>
+                              <li><a href="index-2.php">Home Two</a></li>
+                              <li><a href="index-3.php">Home Three</a></li>
+                              <li><a href="index-4.php">Home Four </a></li>
+                              <li><a href="index-5.php">Home Five </a></li>
+                              <li>
+                                <a href="index-6.php"
+                                  >Home Six
+                                  <span class="new-label">New</span></a
+                                >
+                              </li>
+                              <li>
+                                <a href="index-7.php"
+                                  >Home Seven
+                                  <span class="new-label">New</span></a
+                                >
+                              </li>
+                              <li>
+                                <a href="index-8.php"
+                                  >Home Eight
+                                  <span class="new-label">New</span></a
+                                >
+                              </li>
+                            </ul>
+                          </li>
+                          <li>
+                            <a href="#">Pagelist 2</a>
+                            <ul>
+                              <li><a href="about.php">About Us</a></li>
+                              <li><a href="service.php">Services</a></li>
+                              <li>
+                                <a href="service-details.php"
+                                  >Services Details</a
+                                >
+                              </li>
+                              <li><a href="team.php">Team</a></li>
+                              <li>
+                                <a href="team-details.php">Team Details</a>
+                              </li>
+                            </ul>
+                          </li>
+                          <li>
+                            <a href="#">Pagelist 3</a>
+                            <ul>
+                              <li><a href="project.php">Projects</a></li>
+                              <li>
+                                <a href="shop.php"
+                                  >Our Shop
+                                  <span class="new-label">New</span></a
+                                >
+                              </li>
+                              <li>
+                                <a href="shop-details.php"
+                                  >Shop Details
+                                  <span class="new-label">New</span></a
+                                >
+                              </li>
+                              <li>
+                                <a href="cart.php"
+                                  >Shopping Cart
+                                  <span class="new-label">New</span></a
+                                >
+                              </li>
+                              <li>
+                                <a href="checkout.php"
+                                  >Checkout
+                                  <span class="new-label">New</span></a
+                                >
+                              </li>
+                            </ul>
+                          </li>
+                          <li>
+                            <a href="#">Pagelist 4</a>
+                            <ul>
+                              <li><a href="blog.php">Blog</a></li>
+                              <li>
+                                <a href="blog-details.php">Blog Details</a>
+                              </li>
+                              <li>
+                                <a href="appointment.php">Appointment</a>
+                              </li>
+                              <li><a href="contact.php">Contact Us</a></li>
+                              <li><a href="error.php">Error Page</a></li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </li> -->
+                      <li>
+                        <a href="contact.php">Admission</a>
+                        <ul class="sub-menu">
+                          <li><a href="blog.php">Eligibility</a></li>
+                          <li><a href="blog-details.php">Application of Procedure</a></li>
+                          
+                        </ul>
+                      </li>
+                      <li>
+                        <a href="contact.php">Faculty</a>
+                        <ul class="sub-menu">
+                          <li><a href="blog.php">Clinical</a>
+                            <ul class="sub-menu">
+                              <li><a href="service.php">Obstetrics & Gynecology</a></li>
+                              <li><a href="service.php">General Surgery</a></li>
+                              <li><a href="service.php">Cardiology & CCU</a></li>
+                              <li><a href="service.php">ENT & Head Neck Surgery</a></li>
+                              <li><a href="service.php">Orthopedics Surgery</a></li>
+                              <li><a href="service.php">Anesthesiology</a></li>
+                              <li><a href="service.php">Dermatology</a></li>
+                              <li><a href="service.php">Medicine</a></li>
+                              <li><a href="service.php">Ophthalmology</a></li>
+                              <li><a href="service.php">Radiology</a></li>
+                              <li><a href="service.php">Pediatric</a></li>
+                              <li><a href="service.php">Urology</a></li>
+                              <li><a href="service.php">Nephrology</a></li>
+                              <li><a href="service.php">Psychiatry</a></li>
+                              <li><a href="service.php">Dentistry</a></li>
+                            </ul>
+                          </li>
+                          <li><a href="blog-details.php">Para Clinical</a>
+                          <ul class="sub-menu">
+                            <li><a href="service.php">Anatomy</a></li>
+                            <li><a href="service.php">Physiology</a></li>
+                            <li><a href="service.php">Biochemistry</a></li>
+                          </ul>
+                          </li>
+                          <li><a href="blog-details.php">Pre Clinical</a>
+                          <ul class="sub-menu">
+                            <li><a href="service.php">Community Medicine</a></li>
+                            <li><a href="service.php">Pharmacology</a></li>
+                            <li><a href="service.php">Pathology</a></li>
+                            <li><a href="service.php">Microbiology</a></li>
+                            <li><a href="service.php">Forensic Medicine</a></li>
+                          </ul>
+                          </li>
+                        </ul>
+                      </li>
+                      <li>
+                        <a href="journal.php">Journal</a>
+                        <!-- <ul class="sub-menu">
+                          <li><a href="blog.php">PHOTO GALLERY</a></li>
+                          <li><a href="blog-details.php">VIDEO GALLERY</a></li>
+                        </ul> -->
+
+                      </li>
+                      <li>
+                        <a href="contact.php">Foreign Students</a>
+                      </li>
+                      
+                    </ul>
+                  </nav>
+                  <button class="vs-menu-toggle d-inline-block d-lg-none">
+                    <i class="fas fa-bars"></i>
+                  </button>
+                </div>
+              </div>
+              <div class="col-auto d-block d-lg-none">
+                <button class="search-btn2">
+                  <i class="far fa-search"></i>Search Keyword
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+    <!--==============================
+      Hero Area
+    ==============================-->
+    <section class="vs-hero-wrapper position-relative">
+      <div
+        class="vs-hero-carousel"
+        data-navprevnext="true"
+        data-height="800"
+        data-container="1900"
+        data-slidertype="responsive"
+      >
+        <div class="ls-slide" data-ls="duration: 113000; transition2d: 5;">
+          <img
+            src="assets/img/hero/h-bg-2-1.jpg"
+            alt="Hero Image"
+            class="ls-bg"
+          />
+
+          <h1
+            class="text-title ls-l ls-responsive"
+            data-ls-mobile="left: 100px; top: 120px; font-size: 120px;"
+            data-ls-tablet="left: 100px; top: 80px; font-size: 92px;"
+            data-ls-laptop="left: 100px; top: 120px; font-size: 82px;"
+            style="left: 335px; top: 208px; font-size: 72px; font-weight: 700"
+            data-ls="delayin: 600; easingin: easeInOutSine; texttransitionin: true; textstartatin: transitioninstart; textdurationin: 2000; texttypein: words_asc; textshiftin: 200; textoffsetyin: -100; offsetyout: -100; durationout: 2000; "
+          >
+          Educating Today
+          </h1>
+
+          <h1
+            class="text-theme ls-l ls-responsive"
+            data-ls-mobile="left: 100px;  top: 285px; font-size: 120px;"
+            data-ls-tablet="left: 100px; top: 210px; font-size: 92px;"
+            data-ls-laptop="left: 100px; top: 230px; font-size: 82px;"
+            style="left: 335px; top: 290px; font-size: 72px; font-weight: 700"
+            data-ls="delayin: 0; easingin: easeInOutSine; texttransitionin: true; textstartatin: transitioninstart; textdurationin: 2000; texttypein: words_asc; textshiftin: 200; textoffsetyin: -100; offsetyout: -100; durationout: 2000; "
+          >
+          Healing Tomorrow
+          </h1>
+
+          <p
+            class="ls-l text-title ls-responsive ls-hide-sm"
+            data-ls-mobile="left: 100px; "
+            data-ls-tablet=" left: 100px; top: 360px; font-size: 34px; width: 1000px; line-height: 52px;"
+            data-ls-laptop="left: 100px; top: 380px; font-size: 26px; width: 800px; line-height: 48px;"
+            style="
+              left: 335px;
+              top: 400px;
+              width: 605px;
+              font-size: 16px;
+              font-weight: 400;
+              white-space: normal;
+              letter-spacing: 0.02em;
+              line-height: 28px;
+            "
+            data-ls="delayin: 800; texttransitionin: true; textstartatin: transitioninstart; texttypein: lines_asc; textshiftin: 100; textoffsetyin: 100; textdurationin: 2000; offsetyout: 100; durationout: 2000; "
+          >
+            Conveniently drive go forward architectures with future-proof growth
+            strategies. Energistically supply low-risk high-yield process
+            improvements for mission-critical testing procedures
+          </p>
+
+          <div class="ls-btn ls-l ls-hide-md" style="top: 50%; left: 75%">
+            <a
+              href="https://www.youtube.com/watch?v=_sI_Ps7JSEk"
+              class="play-btn popup-video style3"
+              ><i class="fas fa-play"></i
+            ></a>
+          </div>
+
+          <div
+            class="ls-btn ls-l ls-responsive"
+            data-ls-mobile="left: 100px; "
+            data-ls-tablet="left: 100px; top: 580px;"
+            data-ls-laptop="left: 100px; top: 580px;"
+            style="left: 335px; top: 518px"
+            data-ls="offsetyin: 200; durationin: 2000; delayin: 1400; offsetyout: 300; durationout: 2000; offsetyout: 100; durationout: 2000; "
+          >
+           
+          </div>
+        </div>
+        <div class="ls-slide" data-ls="duration: 113000; transition2d: 5;">
+          <img
+            src="assets/img/hero/h-bg-2-2.jpg"
+            alt="Hero Image"
+            class="ls-bg"
+          />
+          <h1
+            class="text-title ls-l ls-responsive"
+            data-ls-mobile="left: 100px; top: 120px; font-size: 120px;"
+            data-ls-tablet="left: 100px; top: 80px; font-size: 92px;"
+            data-ls-laptop="left: 100px; top: 120px; font-size: 82px;"
+            style="left: 335px; top: 208px; font-size: 72px; font-weight: 700"
+            data-ls="delayin: 600; easingin: easeInOutSine; texttransitionin: true; textstartatin: transitioninstart; textdurationin: 2000; texttypein: words_asc; textshiftin: 200; textoffsetyin: -100; offsetyout: -100; durationout: 2000; "
+          >
+          Healing with Knowledge
+          </h1>
+          <h1
+            class="text-theme ls-l ls-responsive"
+            data-ls-mobile="left: 100px;  top: 285px; font-size: 120px;"
+            data-ls-tablet="left: 100px; top: 210px; font-size: 92px;"
+            data-ls-laptop="left: 100px; top: 230px; font-size: 82px;"
+            style="left: 335px; top: 290px; font-size: 72px; font-weight: 700"
+            data-ls="delayin: 0; easingin: easeInOutSine; texttransitionin: true; textstartatin: transitioninstart; textdurationin: 2000; texttypein: words_asc; textshiftin: 200; textoffsetyin: -100; offsetyout: -100; durationout: 2000; "
+          >
+          Leading with Compassion
+          </h1>
+          <p
+            class="ls-l text-title ls-responsive ls-hide-sm"
+            data-ls-mobile="left: 100px; "
+            data-ls-tablet=" left: 100px; top: 360px; font-size: 34px; width: 1000px; line-height: 52px;"
+            data-ls-laptop="left: 100px; top: 380px; font-size: 26px; width: 800px; line-height: 48px;"
+            style="
+              left: 335px;
+              top: 400px;
+              width: 605px;
+              font-size: 16px;
+              font-weight: 400;
+              white-space: normal;
+              letter-spacing: 0.02em;
+              line-height: 28px;
+            "
+            data-ls="delayin: 800; texttransitionin: true; textstartatin: transitioninstart; texttypein: lines_asc; textshiftin: 100; textoffsetyin: 100; textdurationin: 2000; offsetyout: 100; durationout: 2000; "
+          >
+            Conveniently drive go forward architectures with future-proof growth
+            strategies. Energistically supply low-risk high-yield process
+            improvements for mission-critical testing procedures
+          </p>
+          
+          <div class="ls-btn ls-l ls-hide-md" style="top: 50%; left: 75%">
+            <a
+              href="https://www.youtube.com/watch?v=_sI_Ps7JSEk"
+              class="play-btn popup-video style3"
+              ><i class="fas fa-play"></i
+            ></a>
+          </div>
+          <div
+            class="ls-btn ls-l ls-responsive"
+            data-ls-mobile="left: 100px; "
+            data-ls-tablet="left: 100px; top: 580px;"
+            data-ls-laptop="left: 100px; top: 580px;"
+            style="left: 335px; top: 518px"
+            data-ls="offsetyin: 200; durationin: 2000; delayin: 1400; offsetyout: 300; durationout: 2000; offsetyout: 100; durationout: 2000; "
+          >
+            <a href="service.php" class="vs-btn style2"
+              >View All Services<i class="fas fa-bolt"></i
+            ></a>
+          </div>
+        </div>
+        <div class="ls-slide" data-ls="duration: 113000; transition2d: 5;">
+          <img
+            src="assets/img/hero/h-bg-2-3.jpg"
+            alt="Hero Image"
+            class="ls-bg"
+          />
+          <h1
+            class="text-title ls-l ls-responsive"
+            data-ls-mobile="left: 100px; top: 120px; font-size: 120px;"
+            data-ls-tablet="left: 100px; top: 80px; font-size: 92px;"
+            data-ls-laptop="left: 100px; top: 120px; font-size: 82px;"
+            style="left: 335px; top: 208px; font-size: 72px; font-weight: 700"
+            data-ls="delayin: 600; easingin: easeInOutSine; texttransitionin: true; textstartatin: transitioninstart; textdurationin: 2000; texttypein: words_asc; textshiftin: 200; textoffsetyin: -100; offsetyout: -100; durationout: 2000; "
+          >
+          Empowering Minds
+          </h1>
+          <h1
+            class="text-theme ls-l ls-responsive"
+            data-ls-mobile="left: 100px;  top: 285px; font-size: 120px;"
+            data-ls-tablet="left: 100px; top: 210px; font-size: 92px;"
+            data-ls-laptop="left: 100px; top: 230px; font-size: 82px;"
+            style="left: 335px; top: 290px; font-size: 72px; font-weight: 700"
+            data-ls="delayin: 0; easingin: easeInOutSine; texttransitionin: true; textstartatin: transitioninstart; textdurationin: 2000; texttypein: words_asc; textshiftin: 200; textoffsetyin: -100; offsetyout: -100; durationout: 2000; "
+          >
+          Revolutionizing Medicine
+          </h1>
+          <p
+            class="ls-l text-title ls-responsive ls-hide-sm"
+            data-ls-mobile="left: 100px; "
+            data-ls-tablet=" left: 100px; top: 360px; font-size: 34px; width: 1000px; line-height: 52px;"
+            data-ls-laptop="left: 100px; top: 380px; font-size: 26px; width: 800px; line-height: 48px;"
+            style="
+              left: 335px;
+              top: 400px;
+              width: 605px;
+              font-size: 16px;
+              font-weight: 400;
+              white-space: normal;
+              letter-spacing: 0.02em;
+              line-height: 28px;
+            "
+            data-ls="delayin: 800; texttransitionin: true; textstartatin: transitioninstart; texttypein: lines_asc; textshiftin: 100; textoffsetyin: 100; textdurationin: 2000; offsetyout: 100; durationout: 2000; "
+          >
+            Conveniently drive go forward architectures with future-proof growth
+            strategies. Energistically supply low-risk high-yield process
+            improvements for mission-critical testing procedures
+          </p>
+          <div class="ls-btn ls-l ls-hide-md" style="top: 50%; left: 75%">
+            <a
+              href="https://www.youtube.com/watch?v=_sI_Ps7JSEk"
+              class="play-btn popup-video style3"
+              ><i class="fas fa-play"></i
+            ></a>
+          </div>
+          <div
+            class="ls-btn ls-l ls-responsive"
+            data-ls-mobile="left: 100px; "
+            data-ls-tablet="left: 100px; top: 580px;"
+            data-ls-laptop="left: 100px; top: 580px;"
+            style="left: 335px; top: 518px"
+            data-ls="offsetyin: 200; durationin: 2000; delayin: 1400; offsetyout: 300; durationout: 2000; offsetyout: 100; durationout: 2000; "
+          >
+            <a href="service.php" class="vs-btn style2"
+              >View All Services<i class="fas fa-bolt"></i
+            ></a>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!--==============================
+    About Area
+    ==============================-->
+    <section class="vs-about-wrapper position-relative space-top">
+      <div class="icon-shape3">
+        <img src="assets/img/icons/icon-1-3.png" alt="Icon Image" />
+      </div>
+      <div class="container">
+        <div class="row flex-row-reverse">
+          <div class="col-lg-6 mb-40 mb-lg-0">
+            <div class="about-img2 position-relative">
+              <img
+                src="assets/img/about/about-3-1.jpg"
+                class="wow fadeIn"
+                data-wow-delay="0.3s"
+                alt="About Image"
+              />
+              <div
+                class="doctor-box position-absolute end-0 top-50 translate-middle-y wow fadeIn"
+                data-wow-delay="0.3s"
+              >
+                <span class="icon-btn style3"><i class="fal fa-user"></i></span>
+                <p class="h5 mb-1">24 Hour Doctor</p>
+                <p class="mb-0 fs-xs">Rredibly lever other's pandem tailers</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-6 align-self-center mb-20 mb-lg-0">
+            <div class="about-content mb-50">
+              <span class="sec-subtitle text-theme h3 mb-2 mb-sm-0"
+                >Medical & General Care!</span
+              >
+              <h2 class="h1 mb-3">Get Amazing Treatment</h2>
+              <div class="row">
+                <div class="col-xl-10">
+                  <p class="mb-4">
+                    Rapidiously evisculate user-centric functionalities for
+                    highly efficient interfaces. Competently leverage other's
+                    scalable technology before synergistic manufactured
+                    products.
+                  </p>
+                </div>
+              </div>
+              <div class="media-style1">
+                <div class="media-icon"><i class="fas fa-phone"></i></div>
+                <div class="media-body">
+                  <h3 class="media-title">CALL ANYTIME 24/7</h3>
+                  <p class="media-text">
+                    <a href="tel:+4412345996">+44-1234-5996</a>
+                  </p>
+                </div>
+              </div>
+              <a href="about.php" class="vs-btn">Learn More</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!--==============================
+    Service Area
+    ==============================-->
+    <section
+      class="vs-service-wrapper space-top space-md-bottom"
+      data-bg-src="assets/img/bg/bg-6.jpg"
+    >
+      <div class="container">
+        <div class="row text-center justify-content-center">
+          <div
+            class="col-md-10 col-lg-8 col-xl-6 wow fadeInUp"
+            data-wow-delay="0.3s"
+          >
+            <div class="section-title">
+              <div class="sec-icon">
+                <i class="flaticon-ecg"></i>
+              </div>
+              <h2 class="h1">Get Our Services</h2>
+              <p>
+                Proactively revolutionize granular customer service after
+                pandemic internal or "organic" sources istinctively impact
+                proactive human
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="row vs-carousel wow fadeIn"
+          data-wow-delay="0.3s"
+          data-slide-show="3"
+        >
+          <div class="col-xl-4 mb-25">
+            <div class="service-box">
+              <div class="sr-img">
+                <img
+                  src="assets/img/service/sr-2-1.jpg"
+                  alt="Service Image"
+                  class="w-100"
+                />
+              </div>
+              <div class="sr-icon">
+                <i class="flaticon-computer-mouse"></i>
+              </div>
+              <div class="sr-content">
+                <h3 class="h4">
+                  <a class="text-reset" href="service.php"
+                    >Medical Advices & Checkup</a
+                  >
+                </h3>
+                <p class="fs-xs">
+                  Continually evisculate goal-oriented portals rather than
+                  prospective channels. excellent customize life
+                </p>
+              </div>
+              <a href="service.php" class="icon-btn style4"
+                ><i class="far fa-long-arrow-alt-right"></i
+              ></a>
+            </div>
+          </div>
+          <div class="col-xl-4 mb-25">
+            <div class="service-box">
+              <div class="sr-img">
+                <img
+                  src="assets/img/service/sr-2-2.jpg"
+                  alt="Service Image"
+                  class="w-100"
+                />
+              </div>
+              <div class="sr-icon">
+                <i class="flaticon-blood-pressure"></i>
+              </div>
+              <div class="sr-content">
+                <h3 class="h4">
+                  <a class="text-reset" href="service.php"
+                    >Cardiovascular for Women's</a
+                  >
+                </h3>
+                <p class="fs-xs">
+                  Continually evisculate goal-oriented portals rather than
+                  prospective channels. excellent customize life
+                </p>
+              </div>
+              <a href="service.php" class="icon-btn style4"
+                ><i class="far fa-long-arrow-alt-right"></i
+              ></a>
+            </div>
+          </div>
+          <div class="col-xl-4 mb-25">
+            <div class="service-box">
+              <div class="sr-img">
+                <img
+                  src="assets/img/service/sr-2-3.jpg"
+                  alt="Service Image"
+                  class="w-100"
+                />
+              </div>
+              <div class="sr-icon">
+                <i class="flaticon-stethoscope-1"></i>
+              </div>
+              <div class="sr-content">
+                <h3 class="h4">
+                  <a class="text-reset" href="service.php"
+                    >Heart Checkup or Cardiovascular</a
+                  >
+                </h3>
+                <p class="fs-xs">
+                  Continually evisculate goal-oriented portals rather than
+                  prospective channels. excellent customize life
+                </p>
+              </div>
+              <a href="service.php" class="icon-btn style4"
+                ><i class="far fa-long-arrow-alt-right"></i
+              ></a>
+            </div>
+          </div>
+          <div class="col-xl-4 mb-25">
+            <div class="service-box">
+              <div class="sr-img">
+                <img
+                  src="assets/img/service/sr-2-4.jpg"
+                  alt="Service Image"
+                  class="w-100"
+                />
+              </div>
+              <div class="sr-icon">
+                <i class="flaticon-quality-of-life"></i>
+              </div>
+              <div class="sr-content">
+                <h3 class="h4">
+                  <a class="text-reset" href="service.php"
+                    >Laboratory & Pathology Drag</a
+                  >
+                </h3>
+                <p class="fs-xs">
+                  Continually evisculate goal-oriented portals rather than
+                  prospective channels. excellent customize life
+                </p>
+              </div>
+              <a href="service.php" class="icon-btn style4"
+                ><i class="far fa-long-arrow-alt-right"></i
+              ></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!--==============================
+    Accordion Area
+    ==============================-->
+    <section class="vs-accordion-wrapper space">
+      <div class="container">
+        <div class="row">
+          <div class="col-xl-6 pb-10 pb-xl-0 mb-50 mb-xl-0">
+            <div class="about-content">
+              <span class="sec-subtitle text-theme h3 mb-0"
+                >Medical &amp; General Care!</span
+              >
+              <h2 class="h1 mb-3">We’re Here For You</h2>
+              <!-- Tab Area -->
+              <ul
+                class="nav about-tab-nav mb-3 mb-xl-4 mt-xl-4 pb-3 pt-4"
+                id="myTab"
+                role="tablist"
+              >
+                <li class="nav-item" role="presentation">
+                  <button
+                    class="nav-link vs-btn active"
+                    id="menu1-tab"
+                    data-bs-toggle="tab"
+                    data-bs-target="#menu1"
+                    type="button"
+                    role="tab"
+                    aria-controls="menu1"
+                    aria-selected="true"
+                  >
+                    100% Confidential
+                  </button>
+                </li>
+                <li class="nav-item" role="presentation">
+                  <button
+                    class="nav-link vs-btn"
+                    id="menu2-tab"
+                    data-bs-toggle="tab"
+                    data-bs-target="#menu2"
+                    type="button"
+                    role="tab"
+                    aria-controls="menu2"
+                    aria-selected="false"
+                  >
+                    Full Satisfaction
+                  </button>
+                </li>
+              </ul>
+              <div class="tab-content" id="aboutTab">
+                <div
+                  class="tab-pane fade show active"
+                  id="menu1"
+                  role="tabpanel"
+                  aria-labelledby="menu1-tab"
+                >
+                  <p>
+                    Proactively revolutionize granular customer service after
+                    pandemic internal or "organic" sources. Distinctively impact
+                    proactive human capital rather than client-centered
+                    benefits.
+                  </p>
+                  <div class="row pt-3">
+                    <div class="col-sm-auto mb-30 mb-md-0">
+                      <img
+                        src="assets/img/about/ab-tab-1-1.jpg"
+                        alt="Tab Image"
+                      />
+                    </div>
+                    <div class="col-sm-auto align-self-center">
+                      <ul class="about-list list-unstyled text-title mb-0">
+                        <li>Don't bother typing “lorem ipsum”</li>
+                        <li>One brave soul did take a stab at</li>
+                        <li>Here is the classic lorem passage</li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="tab-pane fade"
+                  id="menu2"
+                  role="tabpanel"
+                  aria-labelledby="menu2-tab"
+                >
+                  <p>
+                    Lorem ipsum began as scrambled, nonsensical Latin derived
+                    from Cicero's 1st-century BC text De Finibus Bonorum et
+                    Malorum frequency with which letters occur in English, which
+                    is why
+                  </p>
+                  <div class="row pt-3">
+                    <div class="col-auto mb-30 mb-md-0">
+                      <img
+                        src="assets/img/about/ab-tab-1-2.jpg"
+                        alt="Tab Image"
+                      />
+                    </div>
+                    <div class="col-auto align-self-center">
+                      <ul class="about-list list-unstyled text-title mb-0">
+                        <li>In particular, the garbled words of</li>
+                        <li>McClintock's eye for detail certainly</li>
+                        <li>Creation timelines for the standard</li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-xl-6">
+            <div class="vs-accordion accordion" id="vsaccordion">
+              <div class="accordion-item">
+                <h2 class="accordion-header">
+                  <button
+                    class="accordion-button"
+                    type="button"
+                    data-bs-toggle="collapse"
+                    data-bs-target="#collapse1"
+                    aria-expanded="true"
+                    aria-controls="collapse1"
+                  >
+                    Uniquely optimize reliable models before wireless results
+                    ofessionally impact progressive core.
+                  </button>
+                </h2>
+                <div
+                  id="collapse1"
+                  class="accordion-collapse collapse show"
+                  data-bs-parent="#vsaccordion"
+                >
+                  <div class="accordion-body">
+                    <p>
+                      Professionally impact distributed data via value-added
+                      experiences. Proacti incentivize 24/365 applications
+                      whereas turnkey total linkage. whiteboard multifunctional
+                      channels with interoperable value.
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header">
+                  <button
+                    class="accordion-button collapsed"
+                    type="button"
+                    data-bs-toggle="collapse"
+                    data-bs-target="#collapse2"
+                    aria-expanded="false"
+                    aria-controls="collapse2"
+                  >
+                    Lorem ipsum is placeholder text commonly used in the
+                    graphic, print, and publishing industries for
+                  </button>
+                </h2>
+                <div
+                  id="collapse2"
+                  class="accordion-collapse collapse"
+                  data-bs-parent="#vsaccordion"
+                >
+                  <div class="accordion-body">
+                    <p>
+                      Professionally impact distributed data via value-added
+                      experiences. Proacti incentivize 24/365 applications
+                      whereas turnkey total linkage. whiteboard multifunctional
+                      channels with interoperable value.
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header">
+                  <button
+                    class="accordion-button collapsed"
+                    type="button"
+                    data-bs-toggle="collapse"
+                    data-bs-target="#collapse3"
+                    aria-expanded="false"
+                    aria-controls="collapse3"
+                  >
+                    From its medieval origins to the digital era, learn
+                    everything there is to know about the ubiquitous
+                  </button>
+                </h2>
+                <div
+                  id="collapse3"
+                  class="accordion-collapse collapse"
+                  data-bs-parent="#vsaccordion"
+                >
+                  <div class="accordion-body">
+                    <p>
+                      Professionally impact distributed data via value-added
+                      experiences. Proacti incentivize 24/365 applications
+                      whereas turnkey total linkage. whiteboard multifunctional
+                      channels with interoperable value.
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header">
+                  <button
+                    class="accordion-button collapsed"
+                    type="button"
+                    data-bs-toggle="collapse"
+                    data-bs-target="#collapse4"
+                    aria-expanded="false"
+                    aria-controls="collapse4"
+                  >
+                    Lorem ipsum began as scrambled, nonsensical Latin derived
+                    from Cicero's 1st-century BC text De Finibus
+                  </button>
+                </h2>
+                <div
+                  id="collapse4"
+                  class="accordion-collapse collapse"
+                  data-bs-parent="#vsaccordion"
+                >
+                  <div class="accordion-body">
+                    <p>
+                      Professionally impact distributed data via value-added
+                      experiences. Proacti incentivize 24/365 applications
+                      whereas turnkey total linkage. whiteboard multifunctional
+                      channels with interoperable value.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- Middle Box Area -->
+    <section
+      class="vs-middle-box-wrapper middle-box-layout1"
+      data-sec-pos="bottom-half"
+      data-pos-for="#team"
+    >
+      <div class="container">
+        <div class="row">
+          <div
+            class="col-lg-6 col-xl-6 mb-30 mb-lg-0 wow fadeInUp"
+            data-wow-delay="0.3s"
+          >
+            <div
+              class="vs-middle-box d-md-flex text-center text-md-start bg-theme"
+            >
+              <div class="media-icon mb-20 mb-md-0 mr-20">
+                <img src="assets/img/icons/icon-1-4.png" alt="Icon" />
+              </div>
+              <div class="media-body align-self-center">
+                <span class="text-white fs-xs">Health Services</span>
+                <h4 class="text-white mb-0">
+                  Health Services & Medical Facilities
+                </h4>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-6 col-xl-6 wow fadeInUp" data-wow-delay="0.3s">
+            <div
+              class="vs-middle-box d-md-flex text-center text-md-start"
+              data-bg-color="#cdf8ff"
+            >
+              <div class="media-icon mb-20 mb-md-0 mr-20">
+                <img src="assets/img/icons/icon-1-2.png" alt="Icon" />
+              </div>
+              <div class="media-body align-self-center">
+                <span class="text-theme fs-xs">Relax Mind</span>
+                <h4 class="text-title mb-0">
+                  Known the truth for Peace of Mind
+                </h4>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!--==============================
+    Team Area
+    ==============================-->
+    <section class="vs-team-wrapper team-layout2 space" id="team">
+      <div
+        class="parallax"
+        data-parallax-image="assets/img/bg/bg-shape-5.jpg"
+      ></div>
+      <div class="container">
+        <div class="row gx-30 justify-content-center">
+          <div
+            class="col-md-9 col-lg-7 col-xl-5 wow fadeIn"
+            data-wow-delay="0.3s"
+          >
+            <div class="section-title mb-xl-4 text-center text-xl-start">
+              <h2 class="h1 text-white">Experts Doctors</h2>
+              <p class="text-white mb-35">
+                Proactively revolutionize granular customer service after
+                pandemic internal or "organic" sources proactive human capital
+                rather.
+              </p>
+              <a href="appointment.php" class="vs-btn style2 hover-white"
+                >Make Appointment<i class="far fa-calendar-alt"></i
+              ></a>
+            </div>
+          </div>
+          <div class="col-xl-1"></div>
+          <div class="col-xl-3 col-lg-4 col-md-6">
+            <div class="team-box mb-30">
+              <div class="team-img">
+                <a href="team-details.php"
+                  ><img src="assets/img/team/t-2-1.jpg" class="w-100" alt=""
+                /></a>
+              </div>
+              <div class="team-content bg-theme">
+                <h3 class="name h4 text-white mb-0">
+                  <a class="text-reset" href="team-details.php">David Smith</a>
+                </h3>
+                <span class="degi fs-sm text-white">Specialist</span>
+              </div>
+            </div>
+          </div>
+          <div class="col-xl-3 col-lg-4 col-md-6">
+            <div class="team-box mb-30">
+              <div class="team-img">
+                <a href="team-details.php"
+                  ><img src="assets/img/team/t-2-2.jpg" class="w-100" alt=""
+                /></a>
+              </div>
+              <div class="team-content bg-theme">
+                <h3 class="name h4 text-white mb-0">
+                  <a class="text-reset" href="team-details.php">Vivi Marian</a>
+                </h3>
+                <span class="degi fs-sm text-white">Osteopathic</span>
+              </div>
+            </div>
+          </div>
+          <div class="col-xl-3 col-lg-4 col-md-6">
+            <div class="team-box mb-30">
+              <div class="team-img">
+                <a href="team-details.php"
+                  ><img src="assets/img/team/t-2-3.jpg" class="w-100" alt=""
+                /></a>
+              </div>
+              <div class="team-content bg-theme">
+                <h3 class="name h4 text-white mb-0">
+                  <a class="text-reset" href="team-details.php"
+                    >Farhan Moris</a
+                  >
+                </h3>
+                <span class="degi fs-sm text-white">Pediatrician</span>
+              </div>
+            </div>
+          </div>
+          <div class="col-xl-3 col-lg-4 col-md-6">
+            <div class="team-box mb-30">
+              <div class="team-img">
+                <a href="team-details.php"
+                  ><img src="assets/img/team/t-2-4.jpg" class="w-100" alt=""
+                /></a>
+              </div>
+              <div class="team-content bg-theme">
+                <h3 class="name h4 text-white mb-0">
+                  <a class="text-reset" href="team-details.php"
+                    >Jerzzy Lamot</a
+                  >
+                </h3>
+                <span class="degi fs-sm text-white">Surgeon</span>
+              </div>
+            </div>
+          </div>
+          <div class="col-xl-3 col-lg-4 col-md-6">
+            <div class="team-box mb-30">
+              <div class="team-img">
+                <a href="team-details.php"
+                  ><img src="assets/img/team/t-2-5.jpg" class="w-100" alt=""
+                /></a>
+              </div>
+              <div class="team-content bg-theme">
+                <h3 class="name h4 text-white mb-0">
+                  <a class="text-reset" href="team-details.php"
+                    >Peter Parker</a
+                  >
+                </h3>
+                <span class="degi fs-sm text-white">Osteopathic</span>
+              </div>
+            </div>
+          </div>
+          <div class="col-xl-3 col-lg-4 col-md-6">
+            <div class="team-box mb-30">
+              <div class="team-img">
+                <a href="team-details.php"
+                  ><img src="assets/img/team/t-2-6.jpg" class="w-100" alt=""
+                /></a>
+              </div>
+              <div class="team-content bg-theme">
+                <h3 class="name h4 text-white mb-0">
+                  <a class="text-reset" href="team-details.php">Mors Jons</a>
+                </h3>
+                <span class="degi fs-sm text-white">Surgeon</span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="text-center">
+          <div class="notice-bar fs-xs bg-white mt-30 text-center">
+            <p class="text-title">
+              <i class="fal fa-exclamation-circle text-theme me-2"></i>
+              Delivering tomorrow’s health care for your family.
+              <a href="contact.php"
+                ><strong>View Doctor’s Timetable</strong
+                ><i class="far fa-long-arrow-right ms-2"></i
+              ></a>
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!--==============================
+    Appointment Form Area 
+    ==============================-->
+    <section class="appointment-wrapper space-top space-md-bottom">
+      <div class="container">
+        <div class="row">
+          <div class="col-xl-6 mb-30">
+            <div class="about-content">
+              <span class="sec-subtitle text-theme h3 mb-2 mb-sm-0"
+                >Medical &amp; General Care!</span
+              >
+              <h2 class="h1 mb-3">We’re Here For You</h2>
+              <div class="row">
+                <div class="col-xl-10 mb-md-2 pb-md-1">
+                  <p class="mb-md-4">
+                    Proactively revolutionize granular customer service after
+                    pandemic internal or "organic" sources. Distinctively impact
+                    proactive human capital rather than client-centered
+                    benefits.
+                  </p>
+                </div>
+                <div class="col-md-6 col-lg-5 col-xl-4">
+                  <ul class="vs-list list-unstyled text-title">
+                    <li>99% success rate</li>
+                    <li>100% Confidential</li>
+                    <li>Affordable Fees</li>
+                  </ul>
+                </div>
+                <div class="col-md-6 col-lg-5 col-xl-5">
+                  <ul class="vs-list list-unstyled text-title">
+                    <li>Free Consultation</li>
+                    <li>Expert surveillance agents</li>
+                    <li>Over 50 years experience</li>
+                  </ul>
+                </div>
+              </div>
+              <ul
+                class="offer-counter counter-list list-unstyled"
+                data-offer-date="12/08/2024"
+              >
+                <li>
+                  <div class="day count-number">00</div>
+                  <span class="count-name">Days</span>
+                </li>
+                <li>
+                  <div class="hour count-number">00</div>
+                  <span class="count-name">Hours</span>
+                </li>
+                <li>
+                  <div class="minute count-number">00</div>
+                  <span class="count-name">Minutes</span>
+                </li>
+                <li>
+                  <div class="seconds count-number">00</div>
+                  <span class="count-name">Seconds</span>
+                </li>
+              </ul>
+              <div class="vs-code-box mt-20">
+                Use Code: <span class="text-theme">Native</span>
+              </div>
+            </div>
+          </div>
+          <div class="col-xl-6 mb-30 pt-30 pt-xl-0">
+            <form
+              action="#"
+              class="form-wrap1 bg-white wow fadeInUp"
+              data-wow-delay="0.3s"
+            >
+              <div class="form-title-box bg-title">
+                <div class="row justify-content-between align-items-center">
+                  <div class="col-auto">
+                    <h2 class="h4 mb-1 text-white">Book An Appointment</h2>
+                    <p class="mb-0 text-white-light">
+                      Please Call Us To Ensure
+                    </p>
+                  </div>
+                  <div class="col-auto d-none d-sm-block">
+                    <a href="tel:0088123456789" class="ripple-icon style2"
+                      ><i class="fas fa-phone"></i
+                    ></a>
+                  </div>
+                </div>
+              </div>
+              <div class="form-box">
+                <div class="row">
+                  <div class="col-xl-6 form-group">
+                    <select class="form-select style2">
+                      <option hidden disabled selected>Select Services</option>
+                      <option>Aerospace Medicine</option>
+                      <option>Bariatric Surgery</option>
+                      <option>Infectious Diseases</option>
+                      <option>Laboratory Medicine</option>
+                    </select>
+                  </div>
+                  <div class="col-xl-6 form-group">
+                    <select class="form-select style2">
+                      <option hidden disabled selected>Choose Doctor</option>
+                      <option>Aerospace Medicine</option>
+                      <option>Bariatric Surgery</option>
+                      <option>Infectious Diseases</option>
+                      <option>Laboratory Medicine</option>
+                    </select>
+                  </div>
+                  <div class="col-xl-6 form-group">
+                    <input
+                      type="text"
+                      class="form-control style2"
+                      placeholder="Your Name"
+                    />
+                    <i class="fal small fa-user"></i>
+                  </div>
+                  <div class="col-xl-6 form-group">
+                    <input
+                      type="email"
+                      class="form-control style2"
+                      placeholder="Email Address"
+                    />
+                    <i class="fal small fa-envelope"></i>
+                  </div>
+                  <div class="col-xl-6 form-group">
+                    <input
+                      type="number"
+                      class="form-control style2"
+                      placeholder="Your Phone"
+                    />
+                    <i class="fal small fa-phone"></i>
+                  </div>
+                  <div class="col-xl-6 form-group">
+                    <input
+                      type="text"
+                      class="dateTime-pick form-control style2"
+                      placeholder="Select Date & Time"
+                    />
+                    <i class="fal small fa-calendar-alt"></i>
+                  </div>
+                  <div class="col-xl-12 text-center">
+                    <button type="submit" class="vs-btn style2">
+                      Make Appointment<i class="far fa-calendar-alt"></i>
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!--==============================
+    Testimonial Area
+    ==============================-->
+    <section class="testimonial-wrapper space-top space-md-bottom">
+      <div
+        class="parallax"
+        data-parallax-image="assets/img/bg/bg-shape-6.jpg"
+      ></div>
+      <div class="container">
+        <div class="row text-center justify-content-center">
+          <div
+            class="col-md-10 col-lg-8 col-xl-6 wow fadeInUp"
+            data-wow-delay="0.3s"
+          >
+            <div class="section-title">
+              <div class="sec-icon">
+                <i class="flaticon-ecg"></i>
+              </div>
+              <h2 class="h1">Our Patient Says</h2>
+              <p>
+                Proactively revolutionize granular customer service after
+                pandemic internal or "organic" sources istinctively impact
+                proactive human
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="position-relative">
+          <div
+            class="d-none d-md-block bg-top-right position-absolute start-0 top-0 w-100 h-100"
+            data-bg-src="assets/img/bg/testimonial-shape-1.png"
+          ></div>
+          <div class="row gx-30 mb-30 mb-lg-0">
+            <div class="col-md-5 col-lg-4 col-xl-3 z-index-common">
+              <div
+                class="avater-slider-box vs-carousel"
+                data-slide-show="1"
+                data-md-slide-show="1"
+                data-fade="true"
+                data-asnavfor=".testimonail-desc-slide"
+              >
+                <div class="avater-slider">
+                  <div class="avater">
+                    <img
+                      src="assets/img/author/author-3-1.jpg"
+                      alt="Author Image"
+                    />
+                  </div>
+                  <h3 class="mb-0 h4 font-body">Mr. David Smith</h3>
+                  <span class="fs-xs">Customer</span>
+                </div>
+                <div class="avater-slider">
+                  <div class="avater">
+                    <img
+                      src="assets/img/author/author-3-2.jpg"
+                      alt="Author Image"
+                    />
+                  </div>
+                  <h3 class="mb-0 h4 font-body">Mr. Jons Smith</h3>
+                  <span class="fs-xs">Member</span>
+                </div>
+                <div class="avater-slider">
+                  <div class="avater">
+                    <img
+                      src="assets/img/author/author-3-3.jpg"
+                      alt="Author Image"
+                    />
+                  </div>
+                  <h3 class="mb-0 h4 font-body">Jerzzy Lamot</h3>
+                  <span class="fs-xs">Manager</span>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-7 col-lg-8 col-xl-8 align-self-center">
+              <div class="pl-30 no-pl-md mt-2 mt-md-0 position-relative">
+                <div class="testimonail-quote">
+                  <img src="assets/img/bg/quote-icon.png" alt="quote" />
+                </div>
+                <div
+                  class="vs-carousel testimonail-desc-slide text-center text-md-start"
+                  data-dots="true"
+                  data-slide-show="1"
+                  data-md-slide-show="1"
+                  data-asnavfor=".avater-slider-box"
+                >
+                  <div class="testimonail-desc">
+                    <div class="testi-rating">
+                      <div
+                        class="star-rating"
+                        role="img"
+                        aria-label="Rated 5.00 out of 5"
+                      >
+                        <span style="width: 100%"
+                          >Rated <strong class="rating">5.00</strong> out of
+                          5</span
+                        >
+                      </div>
+                    </div>
+                    <p class="mb-0 testi-text">
+                      Objectively unleash resource maximizing networks vis-a-vis
+                      parallel services. Continually parallel task real-time
+                      users without global sources. Credibly provide access to
+                      parallel resources whereas worldwide.
+                    </p>
+                  </div>
+                  <div class="testimonail-desc">
+                    <div class="testi-rating">
+                      <div
+                        class="star-rating"
+                        role="img"
+                        aria-label="Rated 5.00 out of 5"
+                      >
+                        <span style="width: 100%"
+                          >Rated <strong class="rating">5.00</strong> out of
+                          5</span
+                        >
+                      </div>
+                    </div>
+                    <p class="mb-0 testi-text">
+                      OLorem ipsum dolor sit amet, consectetur adipiscing elit.
+                      Nam hendrerit nisi sed sollicitudin pellentesque. Nunc
+                      posuere purus rhoncus pulvinar aliquam. Ut aliquet
+                      tristique nisl vitae volutpat. Nulla aliquet.
+                    </p>
+                  </div>
+                  <div class="testimonail-desc">
+                    <div class="testi-rating">
+                      <div
+                        class="star-rating"
+                        role="img"
+                        aria-label="Rated 5.00 out of 5"
+                      >
+                        <span style="width: 100%"
+                          >Rated <strong class="rating">5.00</strong> out of
+                          5</span
+                        >
+                      </div>
+                    </div>
+                    <p class="mb-0 testi-text">
+                      Nick Richardson described the translation “like extreme
+                      Mallarmé, or a Burroughsian cut-up, or a paragraph of
+                      Finnegans Wake. Bits of it have surprising power: the
+                      desperate insistence on loving hitch and, an
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!--==============================
+    Blog Area
+    ==============================-->
+    <section class="vs-blog-wrapper space-md-bottom space-top">
+      <div class="container">
+        <div class="row text-center justify-content-center">
+          <div
+            class="col-md-10 col-lg-8 col-xl-6 wow fadeInUp"
+            data-wow-delay="0.3s"
+          >
+            <div class="section-title">
+              <div class="sec-icon">
+                <i class="flaticon-ecg"></i>
+              </div>
+              <h2 class="h1">Latest Posts</h2>
+              <p>
+                Proactively revolutionize granular customer service after
+                pandemic internal or "organic" sources istinctively impact
+                proactive human
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="row vs-carousel wow fadeIn"
+          data-wow-delay="0.3s"
+          data-slide-show="3"
+          data-lg-slide-show="2"
+        >
+          <div class="col-xl-4">
+            <div class="vs-blog blog-card">
+              <div class="blog-img">
+                <img
+                  src="assets/img/blog/b-1-1.jpg"
+                  alt="Blog Image"
+                  class="w-100"
+                />
+                <div class="blog-date">
+                  <div class="day">22</div>
+                  Jan 2023
+                </div>
+              </div>
+              <div class="blog-content">
+                <div class="blog-meta">
+                  <a href="blog.php"
+                    ><i class="far fa-folder"></i>Mental Health</a
+                  >
+                  <a href="blog.php"><i class="fal fa-user"></i>David Smith</a>
+                </div>
+                <h3 class="blog-title h5 font-body lh-base">
+                  <a href="blog.php"
+                    >Services enable process is tobe after user-centric schemas
+                    now</a
+                  >
+                </h3>
+                <a href="blog.php" class="link-btn"
+                  >Read More<i class="far fa-long-arrow-right"></i
+                ></a>
+              </div>
+            </div>
+          </div>
+          <div class="col-xl-4">
+            <div class="vs-blog blog-card">
+              <div class="blog-img">
+                <img
+                  src="assets/img/blog/b-1-2.jpg"
+                  alt="Blog Image"
+                  class="w-100"
+                />
+                <div class="blog-date">
+                  <div class="day">23</div>
+                  Mar 2023
+                </div>
+              </div>
+              <div class="blog-content">
+                <div class="blog-meta">
+                  <a href="blog.php"><i class="far fa-folder"></i>Therapy</a>
+                  <a href="blog.php"><i class="fal fa-user"></i>Vivi Marian</a>
+                </div>
+                <h3 class="blog-title h5 font-body lh-base">
+                  <a href="blog.php"
+                    >From its medieval origins to the digital era everything
+                    there</a
+                  >
+                </h3>
+                <a href="blog.php" class="link-btn"
+                  >Read More<i class="far fa-long-arrow-right"></i
+                ></a>
+              </div>
+            </div>
+          </div>
+          <div class="col-xl-4">
+            <div class="vs-blog blog-card">
+              <div class="blog-img">
+                <img
+                  src="assets/img/blog/b-1-3.jpg"
+                  alt="Blog Image"
+                  class="w-100"
+                />
+                <div class="blog-date">
+                  <div class="day">28</div>
+                  Dec 2023
+                </div>
+              </div>
+              <div class="blog-content">
+                <div class="blog-meta">
+                  <a href="blog.php"
+                    ><i class="far fa-folder"></i>Acupressure
+                  </a>
+                  <a href="blog.php"><i class="fal fa-user"></i>Moris John</a>
+                </div>
+                <h3 class="blog-title h5 font-body lh-base">
+                  <a href="blog.php"
+                    >Latin derived from Cicero's 1st-century BC text De Fini now
+                    with</a
+                  >
+                </h3>
+                <a href="blog.php" class="link-btn"
+                  >Read More<i class="far fa-long-arrow-right"></i
+                ></a>
+              </div>
+            </div>
+          </div>
+          <div class="col-xl-4">
+            <div class="vs-blog blog-card">
+              <div class="blog-img">
+                <img
+                  src="assets/img/blog/b-1-4.jpg"
+                  alt="Blog Image"
+                  class="w-100"
+                />
+                <div class="blog-date">
+                  <div class="day">22</div>
+                  Jan 2023
+                </div>
+              </div>
+              <div class="blog-content">
+                <div class="blog-meta">
+                  <a href="blog.php"
+                    ><i class="far fa-folder"></i>Mental Health</a
+                  >
+                  <a href="blog.php"><i class="fal fa-user"></i>David Smith</a>
+                </div>
+                <h3 class="blog-title h5 font-body lh-base">
+                  <a href="blog.php"
+                    >Creation timelines the standard lorem ipsum passage vary</a
+                  >
+                </h3>
+                <a href="blog.php" class="link-btn"
+                  >Read More<i class="far fa-long-arrow-right"></i
+                ></a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!--==============================
+    Brand Area
+    ==============================-->
+    <div class="vs-brand-wrapper space-md bg-light">
+      <div class="container">
+        <div class="wow fadeInUp" data-wow-delay="0.3s">
+          <div
+            class="row vs-carousel text-center"
+            data-slide-show="5"
+            data-lg-slide-show="4"
+            data-md-slide-show="3"
+            data-sm-slide-show="3"
+            data-xs-slide-show="1"
+          >
+            <div class="col-auto">
+              <div class="brand">
+                <img src="assets/img/brand/brand-1-1.svg" alt="Brand Image" />
+              </div>
+            </div>
+            <div class="col-auto">
+              <div class="brand">
+                <img src="assets/img/brand/brand-1-2.svg" alt="Brand Image" />
+              </div>
+            </div>
+            <div class="col-auto">
+              <div class="brand">
+                <img src="assets/img/brand/brand-1-3.svg" alt="Brand Image" />
+              </div>
+            </div>
+            <div class="col-auto">
+              <div class="brand">
+                <img src="assets/img/brand/brand-1-4.svg" alt="Brand Image" />
+              </div>
+            </div>
+            <div class="col-auto">
+              <div class="brand">
+                <img src="assets/img/brand/brand-1-5.svg" alt="Brand Image" />
+              </div>
+            </div>
+            <div class="col-auto">
+              <div class="brand">
+                <img src="assets/img/brand/brand-1-6.svg" alt="Brand Image" />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--==============================
+			Footer Area
+	==============================-->
+  <footer
+  class="footer-wrapper footer-layout2"
+  data-bg-src="assets/img/bg/footer-bg-2-1.jpg"
+>
+  <div class="footer-shape1"></div>
+  <div class="widget-area">
+    <div class="container">
+      <div class="row gx-0 gy-4">
+        <div class="col-lg-4 widget-column">
+          <div class="widget footer-widget">
+            <div class="vs-widget-about">
+              <div class="footer-logo">
+                <img src="assets/img/logo/Samorita-logoo.png" alt="logo" />
+              </div>
+              <p class="footer-text">
+                Lorem ipsum dolor sit amet, consectet eiusmod tempor
+                incididunt ut labore e rem ipsum dolor sit amet.
+              </p>
+              <a href="#" class="vs-btn style6">Appointment</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4 widget-column">
+          <div class="widget footer-widget widget_nav_menu">
+            <h3 class="widget_title">Quick Links</h3>
+            <div class="menu-all-pages-container">
+              <ul class="menu">
+                <li><a href="#">Becoming a Patient</a></li>
+                <li><a href="#">Patient Stories</a></li>
+                <li><a href="#">Treatments</a></li>
+                <li><a href="#">Our Consultants</a></li>
+                <li><a href="#">Before & After Gallery</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4 widget-column">
+          <div class="widget footer-widget">
+            <h3 class="widget_title">Contact Us</h3>
+            <div class="vs-widget-about">
+              <div class="media-style2">
+                <div class="media-icon">
+                  <i class="fal fa-phone-alt"></i>
+                </div>
+                <div class="media-body">
+                  <span class="media-label"></span>
+                  <p class="media-text">02-8878080-89 <br />02-8878080</p>
+                </div>
+              </div>
+              <div class="media-style2">
+                <div class="media-icon">
+                  <i class="fas fa-envelope"></i>
+                </div>
+                <div class="media-body">
+                  <span class="media-label">Support Email</span>
+                  <p class="media-text">
+                    <a
+                      class="text-inherit"
+                      href="mailto:info@mhsamorita.edu.bd"
+                      >info@mhsamorita.edu.bd</a
+                    >
+                  </p>
+                </div>
+              </div>
+              <div class="media-style2">
+                <div class="media-icon">
+                  <i class="fas fa-map-marker-alt"></i>
+                </div>
+                <div class="media-body">
+                  <p class="media-text">
+                    117 Love Rd ,Tejgaon, Dhaka 1208, Bangladesh
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Subscribe form -->
+  <!--<form action="#" class="subscribe-form1">
+<div class="container">
+  <div class="form-inner">
+    <div class="row align-items-center">
+      <div class="col-lg-auto col-xl-6">
+        <p class="form-title">
+          <i class="fas fa-envelope-open-text"></i>Subscribe Newsletter
+          and Get New Updates
+        </p>
+      </div>
+      <div class="col-lg col-xl-6">
+        <div class="form-group">
+          <input
+            type="text"
+            class="form-control"
+            placeholder="Enter your email..."
+          />
+          <button class="vs-btn style7" type="submit">Subscribe</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</form>-->
+  <div class="copyright-wrap">
+    <div class="container">
+      <div
+        class="row align-items-center justify-content-center justify-content-lg-between"
+      >
+        <div class="col-auto text-center text-md-end">
+          <p class="mb-0 text-white">
+            Copyright <i class="fal fa-copyright"></i> 2025
+            <a class="text-white" href="index.php"
+              >Planet Information Technology Solutions Limited</a
+            >. All rights reserved
+            <!-- <a
+          class="text-white"
+          href="https://themeforest.net/user/vecuro_themes"
+          >Vecuro</a -->
+          </p>
+        </div>
+        <div class="col-auto d-none d-lg-block">
+          <ul class="footer-bottom-menu">
+            <li><a href="#">Facebook</a></li>
+            <li><a href="#">Twitter</a></li>
+            <li><a href="#">Google+</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+    <!--********************************
+			Code End  Here 
+	******************************** -->
+
+    <!-- Scroll To Top -->
+    <a href="#" class="scrollToTop scroll-bottom style2"
+      ><i class="fas fa-arrow-alt-up"></i
+    ></a>
+
+    <!--==============================
+        All Js File
+    ============================== -->
+    <!-- Jquery -->
+    <script src="assets/js/vendor/jquery-3.6.0.min.js"></script>
+    <!-- Slick Slider -->
+    <script src="assets/js/slick.min.js"></script>
+    <!-- <script src="assets/js/app.min.js"></script> -->
+    <!-- Layerslider -->
+    <script src="assets/js/layerslider.utils.js"></script>
+    <script src="assets/js/layerslider.transitions.js"></script>
+    <script src="assets/js/layerslider.kreaturamedia.jquery.js"></script>
+    <!-- Bootstrap -->
+    <script src="assets/js/bootstrap.min.js"></script>
+    <!-- jQuery Datepicker -->
+    <script src="assets/js/jquery.datetimepicker.min.js"></script>
+    <!-- Magnific Popup -->
+    <script src="assets/js/jquery.magnific-popup.min.js"></script>
+    <!-- Isotope Filter -->
+    <script src="assets/js/imagesloaded.pkgd.min.js"></script>
+    <script src="assets/js/isotope.pkgd.min.js"></script>
+    <!-- Parallax Scroll -->
+    <script src="assets/js/universal-parallax.min.js"></script>
+    <!-- WOW Animation -->
+    <script src="assets/js/wow.min.js"></script>
+    <!-- Custom Carousel -->
+    <script src="assets/js/vscustom-carousel.min.js"></script>
+    <!-- Form Js -->
+    <script src="assets/js/ajax-mail.js"></script>
+    <!-- Main Js File -->
+    <script src="assets/js/main.js"></script>
+  </body>
+
+  <!-- Mirrored from html.vecurosoft.com/medixi/demo/index-3.php by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 19 Jan 2025 09:17:35 GMT -->
+</html>

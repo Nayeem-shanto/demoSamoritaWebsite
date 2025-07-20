@@ -1,0 +1,171 @@
+<section class="bg-light2 space-top space-md-bottom">
+      <div class="container">
+        <div
+          class="section-title text-center wow fadeInUp"
+          data-wow-delay="0.3s"
+        >
+          <h2 class="sec-title h1">
+            Meet Our Team & Medical Expert Board  
+          </h2>
+          <!-- <p class="sec-text">
+            Search or browse by hospital, treatment or consultant to see what
+            can do for you
+          </p>
+          <div class="sec-icon2">
+            <img src="assets/img/icon/sec-icon-754.png" alt="icon" />
+          </div> -->
+        </div>
+        <div
+          class="row vs-carousel wow fadeInUp"
+          data-wow-delay="0.4s"
+          data-slide-show="3"
+        >
+        <div class="col-xl-4 team-style1">
+            <div class="team-img">
+              <img src="assets/img/team/team-5-2.png" alt="team"  />
+              <div class="team-shape"></div>
+            </div>
+            <div class="team-content">
+              <h3 class="team-name">
+                <a href="team-details8.php" class="text-inherit">Prof. Md Abdul Jalil Ansari</a>
+              </h3>
+              <span class="team-degi">Professor, Medicine Allied Department & Endocrinology</span>
+              <div class="team-links">
+                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                <a href="#"><i class="fab fa-twitter"></i></a>
+                <a href="#"><i class="fab fa-google"></i></a>
+              </div>
+            </div>
+          </div>
+          <div class="col-xl-4 team-style1">
+            <div class="team-img">
+              <img
+                src="assets/img/team/mamun_iqbal_sir.jpg"
+                alt="team"
+              />
+              <div class="team-shape"></div>
+            </div>
+            <div class="team-content">
+              <h3 class="team-name">
+                <a href="dr.mamuniqbal.php" class="text-inherit"
+                  >Prof. Dr. S. M. Mamun Iqbal</a
+                >
+              </h3>
+              <span class="team-degi"
+                >Angiogram, angioplasty ( stenting), pacemaker, noninvasive
+                diagnostic ( Echocardiogram, ETT, Holter monitoring)</span
+              >
+              <div class="team-links">
+                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                <a href="#"><i class="fab fa-twitter"></i></a>
+                <a href="#"><i class="fab fa-google"></i></a>
+              </div>
+            </div>
+          </div>
+          <div class="col-xl-4 team-style1">
+            <div class="team-img">
+              <img src="assets/img/team/Sabbir-Quadir.png" alt="team" />
+              <div class="team-shape"></div>
+            </div>
+            <div class="team-content">
+              <h3 class="team-name">
+                <a href="team-details2.php" class="text-inherit">Pro. Dr. Md. Sabbir Quadir</a>
+              </h3>
+              <span class="team-degi">Opthamology</span>
+              <div class="team-links">
+                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                <a href="#"><i class="fab fa-twitter"></i></a>
+                <a href="#"><i class="fab fa-google"></i></a>
+              </div>
+            </div>
+          </div>
+          <div class="col-xl-4 team-style1">
+            <div class="team-img">
+              <img src="assets/img/team/Ummay_Kawsar.png" alt="team" />
+              <div class="team-shape"></div>
+            </div>
+            <div class="team-content">
+              <h3 class="team-name">
+                <a href="team-details3.php" class="text-inherit">Pro. Dr. Ummay Kawsar</a>
+              </h3>
+              <span class="team-degi">Opthamology</span>
+              <div class="team-links">
+                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                <a href="#"><i class="fab fa-twitter"></i></a>
+                <a href="#"><i class="fab fa-google"></i></a>
+              </div>
+            </div>
+          </div>
+          <div class="col-xl-4 team-style1">
+            <div class="team-img">
+              <img src="assets/img/team/SupriyaSarkar.png" alt="team" />
+              <div class="team-shape"></div>
+            </div>
+            <div class="team-content">
+              <h3 class="team-name">
+                <a href="team-details4.php" class="text-inherit">Dr. Supriya Sarkar</a>
+              </h3>
+              <span class="team-degi">Assistant Professor(cc)</span>
+              <div class="team-links">
+                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                <a href="#"><i class="fab fa-twitter"></i></a>
+                <a href="#"><i class="fab fa-google"></i></a>
+              </div>
+            </div>
+          </div>
+<div class="col-xl-4 team-style1">
+            <div class="team-img">
+              <img src="assets/img/team/team-5-1.png" alt="team" />
+              <div class="team-shape"></div>
+            </div>
+            <div class="team-content">
+              <h3 class="team-name">
+                <a href="team-details7.php" class="text-inherit">Dr. Sabrina Momin</a>
+              </h3>
+              <span class="team-degi">Assistant Professor</span>
+              <div class="team-links">
+                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                <a href="#"><i class="fab fa-twitter"></i></a>
+                <a href="#"><i class="fab fa-google"></i></a>
+              </div>
+            </div>
+          </div>
+<div class="col-xl-4 team-style1">
+            <div class="team-img">
+              <img src="assets/img/team/team-5-2.png" alt="team" />
+              <div class="team-shape"></div>
+            </div>
+            <div class="team-content">
+              <h3 class="team-name">
+                <a href="team-details5.php" class="text-inherit">Dr. MD. Sekender Ali</a>
+              </h3>
+              <span class="team-degi">Associate Professor</span>
+              <div class="team-links">
+                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                <a href="#"><i class="fab fa-twitter"></i></a>
+                <a href="#"><i class="fab fa-google"></i></a>
+              </div>
+            </div>
+          </div>
+<div class="col-xl-4 team-style1">
+            <div class="team-img">
+              <img src="assets/img/team/team-5-2.png" alt="team" />
+              <div class="team-shape"></div>
+            </div>
+            <div class="team-content">
+              <h3 class="team-name">
+                <a href="team-details6.php" class="text-inherit">Dr. Mohammad Faisal Ibn Kabir</a>
+              </h3>
+              <span class="team-degi">Associate Professor, Cardialogy</span>
+              <div class="team-links">
+                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                <a href="#"><i class="fab fa-twitter"></i></a>
+                <a href="#"><i class="fab fa-google"></i></a>
+              </div>
+            </div>
+          </div>
+
+
+        </div>
+      </div>
+    </section>
