@@ -64,7 +64,7 @@
                 <tbody>
                   <tr>
                     <td>Saturday - Thursday:</td>
-                    <td>8.00 am - 2.30 pm</td>
+                    <td>10.00 am - 1.00 pm</td>
                   </tr>
                   <tr>
                     <td>Room No:</td>
@@ -81,52 +81,29 @@
           <div class="col-lg-7">
             <div class="team-content">
               <h2 class="mb-0 mt-n2">Prof. Dr. S. M. Mamun Iqbal</h2>
-              <p class="text-theme fs-xs">Professor (CC) & Department Head <br>Department of Cardiology</p>
+              <p class="text-theme fs-xs">Professor (CC) & Consultant <br>Department of Cardiology</p>
               <div style="text-align: justify;">
                 <p class="fs-md text-title">
-                Prof. Dr. S. M. Mamun Iqbal is a distinguished cardiologist with
-                over 11 years of experience in interventional cardiology. He
-                currently serves as a Professor of Cardiology at M H Samorita
-                Hospital & Medical College in Dhaka, Bangladesh, where he leads
-                the cardiology department, overseeing patient care, academic
-                programs, and clinical research.
+                Dr. S. M. Mamun Iqbal is a skilled and highly qualified cardiologist with more than 12 years of clinical experience. He is known for his patient-focused approach and clinical excellence in the treatment of heart diseases. With both local and international qualifications, including MRCP (UK), he offers evidence-based care for a wide range of cardiovascular conditions. His calm and analytical method of diagnosis has earned him the trust of patients and colleagues alike.
               </p>
               <p class="fs-md text-title">
-                Dr. Iqbal obtained his MBBS from Dhaka Medical College and later
-                earned his MD in Cardiology from Bangabandhu Sheikh Mujib
-                Medical University. His professional journey includes extensive
-                experience in managing complex cardiac cases, performing over
-                1,500 percutaneous coronary interventions (PCI), including
-                high-risk and primary PCI cases. He is credited with several
-                pioneering procedures in this institute, such as the first
-                ultra-low contrast left main PCI and the first alcohol septal
-                ablation.
-              </p>
-              <p class="fs-md text-title">
-                A Fellow of the Royal College of Physicians and Surgeons of
-                Glasgow (FRCP), the Society for Cardiovascular Angiography and
-                Interventions (FSCAI), and a Member of the Royal College of
-                Physicians (MRCP, UK), Dr. Iqbal actively contributes to medical
-                education and research. He has received multiple accolades,
-                including the Best-Case Award at TCTAP 2018. His commitment to
-                advancing cardiology is reflected in his contributions to
-                international conferences, research publications, and mentorship
-                of future medical professionals.
+                He completed his MBBS from Dhaka Medical College. He earned his MD in Cardiology from Bangladesh Medical University (BMU) and later achieved his MRCP from the Royal College of Physicians (UK). Currently, he is working as a Consultant in the Department of Cardiology at MH Samorita Hospital & Medical College, Dhaka.
               </p>
               </div>
               <table class="member-table" >
                 <tbody style="background-color: #f3f6f7;">
                   <tr>
                     <th><strong>Specialty</strong></th>
-                    <td>Cardiology</td>
+                    <td>Cardiology (Clinical & Interventional)</td>
                   </tr>
                   <tr>
                     <th><strong>Degrees</strong></th>
                     <td>
                       <ul class="member-info-list">
                         <li>MBBS.</li>
-                        <li>MRCP.</li>
-                        <li>MD.</li>
+                        <li>MD (Cardiology).</li>
+                        <li>MRCP (UK).</li>
+                        <li>FRCP (Glasgow).</li>
                       </ul>
                     </td>
                   </tr>
@@ -134,17 +111,22 @@
                     <th><strong>Areas of Expertise</strong></th>
                     <td>
                       <ul class="member-info-list">
-                        <li>Angiogram.</li>
-                        <li>Angioplasty(Stenting).</li>
-                        <li>Pacemaker.</li>
-                        <li>Noninvasive diagnostic(Echocardiogram, ETT, Holter Monitoring).</li>
-                        <li> Echocardiogram.</li>
+                        <li>Angiogram and Angioplasty (Stenting), Pacemaker Implantation</li>
+                        <li>Hypertension and ischemic heart disease</li>
+                        <li>Heart failure and cardiomyopathy</li>
+                        <li>Chest pain, palpitations and syncope evaluation</li>
+                        <li>Arrhythmia management and ECG interpretation</li>
+                        <li>Echocardiography and cardiac imaging</li>
+                        <li>Lipid and cholesterol disorders</li>
+                        <li>Post-stent and post-heart attack follow-up</li>
+                        <li>Preoperative cardiac clearance</li>
+                        <li>Preventive cardiology and lifestyle counseling</li>
                       </ul>
                     </td>
                   </tr>
                   <tr>
                     <th><strong>Academic Qualification</strong></th>
-                    <td>DMC, BSMMU, Royal College of Physicians (UK), Royal College of Physicians & Surgeon, Glasgow</td>
+                    <td>He Completed MBBS from Dhaka Medical College. He earned his MD in Cardiology from Bangladesh Medical University (BMU) and later achieved his MRCP from the Royal College of Physicians (UK)</td>
                   </tr>
                 </tbody>
               </table>

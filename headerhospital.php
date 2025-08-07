@@ -247,8 +247,9 @@
             </div>
             <div class="col-auto">
               <div class="header-help">
-                <a href="contact.php"><span class="header-help__title">Need some help?</span></a>
+                <!-- <a href="contact.php"><span class="header-help__title">Need some help?</span></a> -->
                 
+                <a href="facilities.php" class="vs-btn style1">Facilities</a>
                 <a href="finddoctor.php" class="vs-btn style1">Find Doctor</a>
                 
                  <a href="appointment.php" class="vs-btn style2"

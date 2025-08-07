@@ -32,9 +32,9 @@
         formMessages.addClass('error');
         // Set the message text.
         if (data.responseText !== '') {
-          formMessages.php(data.responseText);
+          formMessages.html(data.responseText);
         } else {
-          formMessages.php('Oops! An error occured and your message could not be sent.');
+          formMessages.html('Oops! An error occured and your message could not be sent.');
         }
       });
     };

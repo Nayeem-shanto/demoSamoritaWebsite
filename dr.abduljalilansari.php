@@ -133,7 +133,7 @@
                 data-wow-delay="0.3s"
                 data-bg-color="#f3f6f7"
               >
-                <!-- <div
+                <div
                   class="form-title-box bg-title"
                   data-bg-src="assets/img/bg/bg-shape-9.jpg"
                 >
@@ -207,7 +207,7 @@
                         Make Appointment<i class="far fa-calendar-alt"></i>
                       </button>
                     </div>
-                  </div> -->
+                  </div>
                 </div>
               </form>
             </div>

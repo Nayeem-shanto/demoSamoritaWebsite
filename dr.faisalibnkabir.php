@@ -1,140 +1,135 @@
-<?php include 'headerhospital.php';?>
-    <!--==============================
+<?php include 'headerhospital.php'; ?>
+<!--==============================
     Breadcumb
 ============================== -->
-    <div class="breadcumb-wrapper">
-      <div
-        class="parallax"
-        data-parallax-image="assets/img/breadcurmb/cardiology.jpg"
-      ></div>
-      <div class="container z-index-common">
-        <div class="breadcumb-content">
-          <h1 class="breadcumb-title">Department of Cardiology</h1>
-          
-          <div class="breadcumb-menu-wrap">
-            <i class="far fa-home-lg"></i>
-            <ul class="breadcumb-menu">
-              <li><a href="index.php">Home</a></li>
-              <li class="active">Doctors Details</li>
-            </ul>
-          </div>
-        </div>
+<div class="breadcumb-wrapper">
+  <div
+    class="parallax"
+    data-parallax-image="assets/img/breadcurmb/cardiology.jpg"></div>
+  <div class="container z-index-common">
+    <div class="breadcumb-content">
+      <h1 class="breadcumb-title">Department of Cardiology</h1>
+
+      <div class="breadcumb-menu-wrap">
+        <i class="far fa-home-lg"></i>
+        <ul class="breadcumb-menu">
+          <li><a href="index.php">Home</a></li>
+          <li class="active">Doctors Details</li>
+        </ul>
       </div>
     </div>
-    <!--==============================
+  </div>
+</div>
+<!--==============================
     Team Details
     ==============================-->
-    <section class="vs-details-wrapper space-top space-md-bottom">
-      <div class="container">
-        <div class="row gx-40">
-          <div class="col-lg-5">
-            <div
-              class="member-header mb-40 overflow-hidden rounded-3 position-relative"
-            >
-              <div class="member-details-img">
-                <img
-                  src="assets/img/team/avatar-details-profile.png"
-                  alt="Member Image"
-                  class="w-100"
-                />
-              </div>
-
-              <div class="member-angle-links">
-                <div class="shape">
-                  <img src="assets/img/bg/member-shape.png" alt="Shape" />
-                </div>
-                
-                
-              </div>
-
-              <a href="https://verify.bmdc.org.bd/" class="certifate-link"
-                ><span style="color: #07ccec; :hover {color: #FFFFFF;}">BMDC Registration Number : A- 38191 </span><i
-                  class="far fa-chevron-circle-right"
-                ></i
-              ></a>
-            </div>
-
-            <div
-              class="team-schedule bg-smoke wow fadeInUp"
-              data-wow-delay="0.3s"
-            >
-              <h3 class="h4 border-title">Time Schedule</h3>
-              <table class="team-schedule-table">
-                <tbody>
-                  <tr>
-                    <td>Saturday - Thursday:</td>
-                    <td>10.00 am - 1.00 pm</td>
-                  </tr>
-                  <tr>
-                    <td>Room No:</td>
-                    <td>N/A</td>
-                  </tr>
-                
-                </tbody>
-              </table>
-              <a href="tel:66925682596" class="vs-btn style2"
-                >+88 02 8878080<i class="fas fa-phone"></i
-              ></a>
-            </div>
+<section class="vs-details-wrapper space-top space-md-bottom">
+  <div class="container">
+    <div class="row gx-40">
+      <div class="col-lg-5">
+        <div
+          class="member-header mb-40 overflow-hidden rounded-3 position-relative">
+          <div class="member-details-img">
+            <img
+              src="assets/img/team/avatar-details-profile.png"
+              alt="Member Image"
+              class="w-100" />
           </div>
-          <div class="col-lg-7">
-            <div class="team-content">
-              <h2 class="mb-0 mt-n2">Dr. Mohammad Faisal Ibn Kabir</h2>
-              <p class="text-theme fs-xs">Associate Professor<br>Department of Cardiology</p>
-              <div style="text-align: justify;">
-                <p class="fs-md text-title">
-                Dr. Mohammad Faisal Ibn Kabir is an experienced and academically accomplished cardiologist with a strong background in both clinical cardiology and teaching. With over 15 years of experience, he is known for his structured and evidence-based approach to diagnosing and managing cardiovascular diseases. As an Associate Professor in the Department of Cardiology, he actively contributes to medical education, clinical research and patient care.
-              </p>
-              <p class="fs-md text-title">
-                He completed his MBBS from a reputed medical college in Bangladesh, followed by a Diploma in Cardiology (D-CARD) and then MD in Cardiology from Bangladesh Medical University (BMU). He currently serves as an Associate Professor in the Department of Cardiology at MH Samorita Hospital & Medical College.
-              </p>
-              </div>
-              <table class="member-table" >
-                <tbody style="background-color: #f3f6f7;">
-                  <tr>
-                    <th><strong>Specialty</strong></th>
-                    <td>Cardiology</td>
-                  </tr>
-                  <tr>
-                    <th><strong>Degrees</strong></th>
-                    <td>
-                      <ul class="member-info-list">
-                        <li>MBBS.</li>
-                        <li>FCPS.</li>
-                        <li>D-CARD.</li>
-                        <li>MD (Cardiology).</li>
-                      </ul>
-                    </td>
-                  </tr>
-                  <tr>
-                    <th><strong>Areas of Expertise</strong></th>
-                    <td>
-                      <ul class="member-info-list">
-                        <li>Ischemic heart disease and chest pain evaluation</li>
-                        <li>Hypertension and cardiovascular risk reduction</li>
-                        <li>Heart failure and cardiomyopathy</li>
-                        <li>Rhythm disorders (arrhythmias, palpitations)</li>
-                        <li>Echocardiography and stress testing</li>
-                        <li>Valvular heart disease</li>
-                        <li>Preoperative cardiac assessment</li>
-                        <li>Lifestyle and preventive cardiology</li>
-                        <li>Long-term care for post-stent or post-MI patients</li>
-                      </ul>
-                    </td>
-                  </tr>
-                  <tr>
-                    <th style="text-align: justify;"><strong>Academic Qualification</strong></th>
-                    <td>He completed his MBBS from a reputed medical college in Bangladesh, followed by a Diploma in Cardiology (D-CARD) and then MD in Cardiology from Bangladesh Medical University (BMU).</td>
-                  </tr>
-                </tbody>
-              </table>
-              <form
-                action="#"
-                class="form-wrap1 shadow-none mb-30 rounded-3 overflow-hidden wow fadeInUp"
-                data-wow-delay="0.3s"
-                data-bg-color="#f3f6f7"
-              >
-                <!-- <div
+
+          <div class="member-angle-links">
+            <div class="shape">
+              <img src="assets/img/bg/member-shape.png" alt="Shape" />
+            </div>
+
+
+          </div>
+
+          <a href="https://verify.bmdc.org.bd/" class="certifate-link"><span style="color: #07ccec; :hover {color: #FFFFFF;}">BMDC Registration Number : A- 38191 </span><i
+              class="far fa-chevron-circle-right"></i></a>
+        </div>
+
+        <div
+          class="team-schedule bg-smoke wow fadeInUp"
+          data-wow-delay="0.3s">
+          <h3 class="h4 border-title">Time Schedule</h3>
+          <table class="team-schedule-table">
+            <tbody>
+              <tr>
+                <td>Saturday - Thursday:</td>
+                <td>9.00 am - 3.00 pm</td>
+              </tr>
+              <tr>
+                <td></td>
+                <td>8.00 pm - 10.00 pm</td>
+              </tr>
+              <tr>
+                <td>Room No:</td>
+                <td>N/A</td>
+              </tr>
+
+            </tbody>
+          </table>
+          <a href="tel:66925682596" class="vs-btn style2">+88 02 8878080<i class="fas fa-phone"></i></a>
+        </div>
+      </div>
+      <div class="col-lg-7">
+        <div class="team-content">
+          <h2 class="mb-0 mt-n2">Dr. Mohammad Faisal Ibn Kabir</h2>
+          <p class="text-theme fs-xs">Associate Professor<br>Department of Cardiology</p>
+          <div style="text-align: justify;">
+            <p class="fs-md text-title">
+              Dr. Mohammad Faisal Ibn Kabir is an experienced and academically accomplished cardiologist with a strong background in both clinical cardiology and teaching. With over 15 years of experience, he is known for his structured and evidence-based approach to diagnosing and managing cardiovascular diseases. As an Associate Professor in the Department of Cardiology, he actively contributes to medical education, clinical research and patient care.
+            </p>
+            <p class="fs-md text-title">
+              He completed his MBBS from a reputed medical college in Bangladesh, followed by FCPS in Medicine and MD in Cardiology. Then he has completed a one-year fellowship in Cardiovascular Intervention from Beijing, China. He currently serves as an Associate Professor in the Department of Cardiology at MH Samorita Hospital & Medical College.
+            </p>
+          </div>
+          <table class="member-table">
+            <tbody style="background-color: #f3f6f7;">
+              <tr>
+                <th><strong>Specialty</strong></th>
+                <td>Cardiology</td>
+              </tr>
+              <tr>
+                <th><strong>Degrees</strong></th>
+                <td>
+                  <ul class="member-info-list">
+                    <li>FELLOSHIP IN CARDIOVASCULAR INTERVENTION (BEIJING, CHINA).</li>
+                    <li>MD (CARDIOLOGY).</li>
+                    <li>FCPS (MEDICINE).</li>
+                    <li>MBBS (DMC).</li>
+                  </ul>
+                </td>
+              </tr>
+              <tr>
+                <th><strong>Areas of Expertise</strong></th>
+                <td>
+                  <ul class="member-info-list">
+                    <li>Ischemic heart disease and chest pain evaluation and treatment including coronary angiogram and stenting</li>
+                    <li>Hypertension and cardiovascular risk reduction</li>
+                    <li>Heart failure and cardiomyopathy</li>
+                    <li>Rhythm disorders (arrhythmias, palpitations)</li>
+                    <li>Echocardiography and stress testing</li>
+                    <li>Valvular and congenital heart disease</li>
+                    <li>Preoperative cardiac assessment</li>
+                    <li>Lifestyle and preventive cardiology</li>
+                    <li>Long-term care for post-stent or post-MI patients</li>
+                    <li>Evaluation and treatment of pulmonary Hypertension</li>
+                  </ul>
+                </td>
+              </tr>
+              <tr>
+                <th style="text-align: justify;"><strong>Academic Qualification</strong></th>
+                <td>He completed his MBBS from a reputed Medical College in Bangladesh, followed by FCPS in Medicine and then MD in Cardiology. He completed a one-year fellowship in Cardiovascular Intervention from Beijing, China.</td>
+              </tr>
+            </tbody>
+          </table>
+          <form
+            action="#"
+            class="form-wrap1 shadow-none mb-30 rounded-3 overflow-hidden wow fadeInUp"
+            data-wow-delay="0.3s"
+            data-bg-color="#f3f6f7">
+            <!-- <div
                   class="form-title-box bg-title"
                   data-bg-src="assets/img/bg/bg-shape-9.jpg"
                 >
@@ -209,11 +204,11 @@
                       </button>
                     </div>
                   </div> -->
-                </div>
-              </form>
-            </div>
-          </div>
         </div>
+        </form>
       </div>
-    </section>
-    <?php include 'footerhospital.php';?>
+    </div>
+  </div>
+  </div>
+</section>
+<?php include 'footerhospital.php'; ?>
