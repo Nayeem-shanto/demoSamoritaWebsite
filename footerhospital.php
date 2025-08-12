@@ -180,6 +180,19 @@
     <script src="assets/js/ajax-mail.js"></script>
     <!-- Main Js File -->
     <script src="assets/js/main.js"></script>
+
+    <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js"></script>
+    <script>
+        var $grid = $('.filter-active').isotope({
+            itemSelector: '.filter-item',
+            layoutMode: 'fitRows'
+        });
+
+        $('#filterDropdown').on('change', function () {
+            var filterValue = $(this).val();
+            $grid.isotope({ filter: filterValue });
+        });
+    </script>
   </body>
 
 </body>
