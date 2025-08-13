@@ -22,7 +22,7 @@
 
 
     <main>
-        <section>
+        <section style="max-width: 1440px; margin:0 auto;">
             <div>
                 <h3>Discharge Guide</h3>
                 <ul>
@@ -68,7 +68,7 @@
             </div>
         </section>
 
-        <section>
+        <section style="max-width: 1440px; margin:0 auto;">
             <h3>CHECKLIST TO FOLLOW WHEN LEAVING</h3>
                 <p>Going home is a happy time for you, but still care to remember the following issues before leaving the hospital:</p>
 
@@ -84,7 +84,7 @@
 
         </section>
 
-        <section>
+        <section style="max-width: 1440px; margin:0 auto;">
             <h3>CHECK-OUT TIME</h3>
             <ul>
                 <li>Check-out time is <strong>12:00 noon</strong> (grace time at admission is 2 hours and at discharge is 1 hour).</li>
@@ -94,7 +94,7 @@
 
         </section>
 
-        <section>
+        <section style="max-width: 1440px; margin:0 auto;">
             <h3>A NOTE FOR PATIENTS UNDER INSURANCE COVERAGE</h3>
             <p>
                Please be prepared to pay the cost of charges not covered by your insurance policy. Please keep copy of the hospital bill and all other papers given to you by your caregivers to help you in filling your insurance claim. 
