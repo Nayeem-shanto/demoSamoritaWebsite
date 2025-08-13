@@ -21,7 +21,7 @@
     </div>
 
 <!-- Department details section start -->
-    <section style="margin:auto;  padding-left: 150px; padding-right: 150px; background-image: url(./assets/img/bg/bg-shape-8.jpg);">
+    <section style="margin:auto;  padding-left: 150px; padding-right: 150px">
       <section>
         <div style="text-align: justify;">
           <p>
@@ -66,7 +66,7 @@
 <!-- Doctor list -->
 
 <!-- team-section-two -->
-     <section class="team-section-ten space space-md-bottom" style="background-image: url(./assets/img/bg/bg-8.jpg);">
+     <section class="team-section-ten space space-md-bottom">
        <div class="title-area-four text-center wow fadeInUp" data-wow-delay="400ms">
             <span class="sub-title8"><h3>Meet Our Team and Medical<br> Expert Board</h3></span>
         </div>
@@ -222,20 +222,14 @@
       </section>
     <!-- End team-section-two -->
 
-    <section style="padding-left: 150px; padding-right: 150px; background-image: url(./assets/img/bg/bg-shape-8.jpg);">
+    <section style="padding-left: 150px; padding-right: 150px;">
 <section style="text-align: justify;">
-      <div>
-        <h3>Academic and Research Role</h3>
-        <p >
-          As part of a teaching hospital, the department plays a vital role in educating medical students through clinical exposure, case discussions, and lectures. It also engages in research focusing on common dermatologic conditions, emerging treatments, and public skin health awareness.
-        </p>
-      </div>
     </section>
 
     <section>
-         <section>
+         <section style="display: flex; justify-content: center; color:#27477d">
       <div>
-        <h3>Patient Care Highlights</h3>
+        <h3 style="text-align: center; text-decoration:underline">Patient Care Highlights</h3>
         <div>
           <ul style="list-style-type: square;">
             <li>Diagnosis and treatment of eczema, acne, psoriasis, and fungal infections.</li>
@@ -247,20 +241,6 @@
             <li>Skin cancer screening and minor surgical procedures.</li>
         </ul>
         </div>
-      </div>
-    </section>
-
-    <section>
-      <div>
-        <h3>Contact & Appointment</h3>
-        <DIV>
-          <ul style="list-style-type: square;">
-          <li>🕐 OPD Hours: Sunday – Thursday, 9:00 AM – 5:00 PM</li>
-          <li>📞 Department Hotline: +88 02 8878080</li>
-          <li>📍 Location: 117 Love Rd ,Tejgaon, Dhaka 1208, Bangladesh, MH Samorita Medical College & Hospital</li>
-          <li><a href="appointment.php">📅 Book an Appointment</a></li>
-          </ul>
-        </DIV>
       </div>
     </section>
     </section>

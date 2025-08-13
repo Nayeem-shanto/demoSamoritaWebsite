@@ -214,9 +214,9 @@
     </section> -->
 
 
-  <section style="display: flex; justify-content: center; background-image: url(./assets/img/bg/bg-shape-8.jpg); color:#27477d">
+  <section style="display: flex; justify-content: center; color:#27477d">
     <div>
-      <h3 style="text-decoration: underline;">Patient Care Highlights</h3>
+      <h3 style="text-decoration: underline; text-align:center">Patient Care Highlights</h3>
       <div>
         <ul style="list-style-type: square;">
           <li>🕐 OPD Hours: Sunday – Thursday, 9:00 AM – 5:00 PM</li>

@@ -2,7 +2,7 @@
 <?php include 'breadcrumb-gyne.php';?>
 
 <!-- Department details section start -->
-    <section style="margin:auto;  padding-left: 150px; padding-right: 150px; background-image: url(./assets/img/bg/bg-shape-8.jpg); color: black;">
+    <section style="margin:auto;  padding-left: 150px; padding-right: 150px; color: black;">
       <section>
         <div style="text-align: justify; color: black;">
           <p style="color: black;">
@@ -63,7 +63,7 @@
 
 <!-- team-section-two -->
  
-    <section class="team-section-ten space space-md-bottom" style="background-image: url(./assets/img/bg/bg-8.jpg);">
+    <section class="team-section-ten space space-md-bottom">
         <div class="title-area-four text-center wow fadeInUp" data-wow-delay="400ms">
             <span class="sub-title8"><h3>Meet Our Team and Medical<br> Expert Board</h3></span>
         </div>
@@ -295,7 +295,7 @@
     <section style="padding-left: 150px; padding-right: 150px;">
 
 
-    <section style="background-image: url(./assets/img/bg/bg-shape-8.jpg); display: flex; justify-content: center;">
+    <section style="display: flex; justify-content: center;">
       <div style="color: black; font-size: large;">
         <h3 style="text-decoration: underline; text-align: center;">Patient Care Highlights</h3>
         <div>
