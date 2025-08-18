@@ -21,18 +21,15 @@
     </div>
 
 <!-- Department details section start -->
-    <section style="margin:auto;  padding-left: 150px; padding-right: 150px">
-      <section>
-        <div style="text-align: justify;">
-          <p>
+    <section class="department-header-container">
+        <div>
+          <p class="department-description">
             The Department of Dermatology at MH Samorita Medical College and Hospital offers specialized care for a wide range of skin, hair, and nail conditions. Our expert dermatologists provide accurate diagnosis and effective treatment using modern techniques and evidence-based practices. We focus on both medical and cosmetic dermatology, ensuring patient safety, comfort, and satisfaction.
           </p>
         </div>
-    </section>
-
-    <section style="display: flex; justify-content: space-around;">
+    <section class="service-facilities-container">
         <section>
-      <h3 style="text-align: center; text-decoration: underline;">Core Services</h3>
+      <h3 class="core-services">Core Services</h3>
       <div>
         <ul style="list-style-type: square;">
             <li>General dermatology consultation</li>
@@ -48,7 +45,7 @@
     </section>
 
     <section>
-      <h3 style="text-align: center; text-decoration: underline;">Facilities & Technology</h3>
+      <h3 class="facilities-and-technology">Facilities & Technology</h3>
       <div>
         <ul style="list-style-type: square;">
             <li>Dedicated dermatology outpatient clinic</li>
@@ -222,29 +219,20 @@
       </section>
     <!-- End team-section-two -->
 
-    <section style="padding-left: 150px; padding-right: 150px;">
-<section style="text-align: justify;">
-    </section>
-
-    <section>
-         <section style="display: flex; justify-content: center; color:#27477d">
-      <div>
-        <h3 style="text-align: center; text-decoration:underline">Patient Care Highlights</h3>
-        <div>
-          <ul style="list-style-type: square;">
+    
+    <section class="patient-care-highlight-container">
+      <h3 class="patient-care-title">Patient Care Highlights</h3>
+          <ul class="patient-care-highlight-list">
             <li>Diagnosis and treatment of eczema, acne, psoriasis, and fungal infections.</li>
             <li>Management of hair loss and scalp disorders.</li>
             <li>Skin allergy testing and treatment.</li>
             <li>Nail diseases and infections.</li>
-            <li>Cosmetic procedures (chemical peels, laser therapy, etc.).</li>
+            <li>Cosmetic procedures (chemical peels, laser therapy, etc.)</li>
             <li>Care for chronic skin diseases like vitiligo and dermatitis.</li>
             <li>Skin cancer screening and minor surgical procedures.</li>
         </ul>
-        </div>
-      </div>
-    </section>
     </section>
    
-    </section>
+
 
 <?php include 'footerhospital.php';?>

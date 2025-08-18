@@ -22,18 +22,15 @@
 </div>
 
 <!-- Department details section start -->
-<section style="margin:auto;  padding-left: 150px; padding-right: 150px;">
-  <section>
-    <div style="text-align: justify;">
-      <p>
-        The Department of ENT & Head Neck Surgery at MH Samorita Medical College and Hospital specializes in comprehensive care for diseases and disorders affecting the ear, nose, throat, and head and neck region. Our expert surgeons and physicians provide advanced medical and surgical treatments with a focus on patient comfort and optimal outcomes. We manage a broad range of conditions from routine ENT issues to complex head and neck surgeries using the latest technologies and evidence-based practices.
+<section class="department-header-container">
+    <div>
+      <p class="department-description">
+        The Department of <span class="dept-name-bold">ENT & Head Neck Surgery</span> at MH Samorita Medical College and Hospital specializes in comprehensive care for diseases and disorders affecting the ear, nose, throat, and head and neck region. Our expert surgeons and physicians provide advanced medical and surgical treatments with a focus on patient comfort and optimal outcomes. We manage a broad range of conditions from routine ENT issues to complex head and neck surgeries using the latest technologies and evidence-based practices.
       </p>
     </div>
-  </section>
-
-  <section class="coreServices&Facilities d-flex flex-sm-column flex-md-row justify-content-between ">
+  <section class="service-facilities-container">
     <section>
-      <h3 style="text-align: center; text-decoration: underline;">Core Services</h3>
+      <h3 class="core-services">Core Services</h3>
       <div>
         <ul style="list-style-type: square;">
           <li>Diagnosis and treatment of ear, nose, throat, and head & neck disorders</li>
@@ -48,7 +45,7 @@
     </section>
 
     <section>
-      <h3 style="text-align: center; text-decoration: underline;">Facilities & Technology</h3>
+      <h3 class="facilities-and-technology">Facilities & Technology</h3>
       <div>
         <ul style="list-style-type: square;">
           <li>Modern ENT outpatient clinics with specialized consultation rooms</li>
@@ -224,24 +221,14 @@
 </section>
 <!-- End team-section-two -->
 
-<section style="padding-left: 150px; padding-right: 150px;">
-  <!-- <section style="text-align: justify;">
-      <div>
-        <h3>Academic and Research Role</h3>
-        <p >
-          As part of a teaching hospital, the department plays a vital role in educating medical students through clinical exposure, case discussions, and lectures. It also engages in research focusing on common dermatologic conditions, emerging treatments, and public skin health awareness.
-        </p>
-      </div>
-    </section> -->
+ 
 
-  <section style="margin: 0 auto; width: 90%; max-width: 1140px; padding: 20px; display: flex; flex-direction: column; align-items: center;">
-    <h3 style="text-align: center; text-decoration: underline; margin-bottom: 20px;">
+  <section class="patient-care-highlight-container">
+    <h3 class="patient-care-title">
       Patient Care Highlights
     </h3>
-
-    <div>
-      <ul style="list-style-type: square; color:#27477d">
-        <li>🕐 <strong>OPD Hours:</strong> Sunday – Thursday, 9:00 AM – 5:00 PM</li>
+      <ul class="patient-care-highlight-list">
+        <li><strong>OPD Hours:</strong> Sunday – Thursday, 9:00 AM – 5:00 PM</li>
         <li>Comprehensive care for adults and children with ENT and head & neck conditions</li>
         <li>24/7 emergency care for ENT trauma and infections</li>
         <li>Minimally invasive surgical techniques ensuring faster recovery</li>
@@ -249,12 +236,7 @@
         <li>Hearing aid fitting and auditory rehabilitation</li>
         <li>Collaboration with speech and language therapists for holistic patient care</li>
       </ul>
-    </div>
   </section>
-
-
-</section>
-
 </section>
 
 <?php include 'footerhospital.php'; ?>
