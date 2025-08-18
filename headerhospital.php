@@ -37,6 +37,8 @@
     <!--==============================
 	    All CSS File
 	============================== -->
+  <!-- custom css related link -->
+   <link rel="stylesheet" href="./assets/css/mystyle.css">
     <!-- Bootstrap -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
     <!-- <link rel="stylesheet" href="assets/css/app.min.css"> -->
@@ -54,6 +56,9 @@
     <link rel="stylesheet" href="assets/css/animate.min.css" />
     <!-- Theme Custom CSS -->
     <link rel="stylesheet" href="assets/css/style.css" />
+
+    
+    
 
   </head>
 
@@ -369,9 +374,6 @@
                         <ul class="sub-menu">
                           <li><a href="chairmanmessage.php">Chairman Message</a></li>
                           <li><a href="missionvision.php">Mission & Vision</a></li>
-                          <li>
-                            <a href="qualityimprovementplan.php">Quality Improvement Plan</a>
-                          </li>
                         </ul>
                       </li>
                      

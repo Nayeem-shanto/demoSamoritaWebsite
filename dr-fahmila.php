@@ -127,7 +127,7 @@
                   </tr>
                   <tr>
                     <th><strong>Academic Qualification</strong></th>
-                    <td>MBBS from Mymensingh Medical College, DCH (Diploma in Child Health) from BSMMU, and FCPS (Paediatrics) from the Bangladesh College of Physicians and Surgeons (BCPS).</td>
+                    <td>MBBS from Mymensingh Medical College, DCH (Diploma in Child Health) from BMU, and FCPS (Paediatrics) from the Bangladesh College of Physicians and Surgeons (BCPS).</td>
                   </tr>
                 </tbody>
               </table>

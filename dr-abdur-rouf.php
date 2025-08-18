@@ -122,7 +122,7 @@
                   </tr>
                   <tr>
                     <th><strong>Academic Qualification</strong></th>
-                    <td>MBBS from Dhaka Medical College, DCH (Diploma in Child Health) from BSMMU, FCPS (Paediatrics) from the Bangladesh College of Physicians and Surgeons, and MD (Paediatrics) from Bangladesh Medical University (BMU).</td>
+                    <td>MBBS from Dhaka Medical College, DCH (Diploma in Child Health) from BMU, FCPS (Paediatrics) from the Bangladesh College of Physicians and Surgeons, and MD (Paediatrics) from Bangladesh Medical University (BMU).</td>
                   </tr>
                 </tbody>
               </table>

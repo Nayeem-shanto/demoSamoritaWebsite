@@ -21,21 +21,18 @@
 </div>
 
 <!-- Department details section start -->
-<section style="margin:auto;  padding-left: 150px; padding-right: 150px; color:#27477d;">
-  <section>
-    <div style="text-align: justify;">
-      <p style="color:#27477d">
-        The Department of Cardiology at MH Samorita Medical College & Hospital is a center of excellence for
+<section class="department-header-container">
+    <div>
+      <p class="department-description">
+        The Department of <span class="dept-name-bold">Cardiology</span> at MH Samorita Medical College & Hospital is a center of excellence for
         the diagnosis, treatment, and prevention of cardiovascular diseases. Our team of highly qualified cardiologists,
         supported by skilled medical professionals and advanced diagnostic technology, is dedicated to delivering
         comprehensive cardiac care to both inpatients and outpatients. We offer a full spectrum of cardiac services, including non-invasive, interventional, and preventive cardiology, in a patient-focused, compassionate environment. Our cardiology department also plays an integral role in academic activities, contributing to the training of future medical professionals.
       </p>
     </div>
-  </section>
-
-  <section style="display: flex; justify-content: space-around; ">
+  <section class="service-facilities-container">
     <section>
-      <h3><u>Core Services</u></h3>
+      <h3 class="core-services">Core Services</h3>
       <div>
         <ul style="list-style-type: square;">
           <li>Cardiac Consultation & Risk Assessment.</li>
@@ -55,7 +52,7 @@
 
 
     <section>
-      <h3><u>Facilities & Technology</u></h3>
+      <h3 class="facilities-and-technology">Facilities & Technology</h3>
       <div>
         <ul style="list-style-type: square;">
           <li>Fully equipped Cardiac Catheterization Laboratory (Cath Lab).</li>
@@ -200,36 +197,18 @@
 </section>
 <!-- End team-section-two -->
 
-<section style="padding-left: 150px; padding-right: 150px; background-image: url(./assets/img/bg/bg-shape-8.jpg);">
-  <!-- <section>
-      <div>
-        <h3 style="text-align: justify;">Academic and Research Role</h3>
-        <p >
-          The department is actively involved in undergraduate teaching, postgraduate training (if applicable), 
-          and ongoing medical research. Students gain hands-on experience in labor wards, gynecological OT, 
-          and outpatient clinics under close supervision.
-          Regular seminars, workshops, and case presentations are held to enhance learning and clinical reasoning skills.
-        </p>
-      </div>
-    </section> -->
-
-
-  <section style="display: flex; justify-content: center; color:#27477d">
-    <div>
-      <h3 style="text-decoration: underline; text-align:center">Patient Care Highlights</h3>
-      <div>
-        <ul style="list-style-type: square;">
-          <li>🕐 OPD Hours: Sunday – Thursday, 9:00 AM – 5:00 PM</li>
-          <li>Comprehensive cardiac evaluation for all age groups</li>
-          <li>Emergency care for heart attacks and cardiac events</li>
-          <li>Non-invasive cardiac diagnostics</li>
-          <li>Long-term management for chronic heart conditions</li>
-          <li>Patient education and cardiac rehabilitation guidance</li>
-          <li>Multidisciplinary team approach for complex cardiac cases</li>
-        </ul>
-      </div>
-    </div>
-  </section>
+<section class="patient-care-highlight-container">
+  <h3 class="patient-care-title">Patient Care Highlights</h3>
+  <ul class="patient-care-highlight-list">
+    <li>OPD Hours: Sunday – Thursday, 9:00 AM – 5:00 PM.</li>
+    <li>Comprehensive cardiac evaluation for all age groups.</li>
+    <li>Emergency care for heart attacks and cardiac events.</li>
+    <li>Non-invasive cardiac diagnostics.</li>
+    <li>Long-term management for chronic heart conditions.</li>
+    <li>Patient education and cardiac rehabilitation guidance.</li>
+    <li>Multidisciplinary team approach for complex cardiac cases.</li>
+  </ul>
+  <!-- <section style="display: flex; justify-content: center; color:#27477d"> -->
 </section>
 
 <?php include 'footerhospital.php'; ?>

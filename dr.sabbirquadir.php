@@ -143,7 +143,7 @@
                   </tr>
                   <tr>
                     <th><strong>University</strong></th>
-                    <td>DMC, BSMMU, Royal College of Physicians (UK), Royal College of Physicians & Surgeon, Glasgow</td>
+                    <td>DMC, BMU, Royal College of Physicians (UK), Royal College of Physicians & Surgeon, Glasgow</td>
                   </tr>
                 </tbody>
               </table>

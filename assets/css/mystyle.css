@@ -1,0 +1,91 @@
+/* Styles for chairman message page */
+.chairman-message {
+    margin: 50px 200px;
+    padding: 30px;
+    font-size: large;
+    background-image: url(./assets/img/bg/bg-shape-8.jpg);
+    text-align: justify;
+}
+
+/* All department page related styles */
+.department-header-container{
+    max-width: 1400px;
+    margin: 0 auto; 
+       color:#27477d;
+}
+.dept-name-bold{
+    font-size: x-large;
+}
+.department-description{
+    text-align: justify;
+    color: #27477d;
+}
+.service-facilities-container{
+    display: flex; 
+    justify-content: space-around;
+}
+.core-services{
+    text-decoration: underline;
+}
+.facilities-and-technology{
+    text-decoration: underline;
+}
+.patient-care-highlight-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #27477d;  
+    gap: 50px; 
+}
+
+.patient-care-highlight-list{
+    list-style: none;
+    color: #27477d;
+    border: 2px solid #27477d ;
+    border-radius: 25px;
+    padding: 20px;
+    text-align: start;
+    
+    
+}
+.patient-care-highlight-list:hover{
+    background-color: azure;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Responsive designs */
+
+/* responsive for chairman message page */
+@media (max-width: 576px) {
+    
+    .chairman-message{
+        margin: 0;
+    }
+
+    /* responsive for all department page */
+    .department-header-container{
+    width: auto;
+    margin: 20px;      
+}
+.service-facilities-container{
+    flex-direction: column;
+}
+
+
+.patient-care-highlight-container{
+    flex-direction: column;
+    margin: 2px;
+}
+}
+    
