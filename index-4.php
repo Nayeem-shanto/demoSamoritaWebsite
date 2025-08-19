@@ -231,7 +231,7 @@
           <img
             width="703"
             height="709"
-            src="assets/img/hero/hero-4-1.png"
+            src="assets/img/hero/jalisirandmamunsir.png"
             class="ls-l ls-hide-phone ls-img-layer"
             alt="hero-img"
             style="
@@ -497,7 +497,7 @@
           <img
             width="703"
             height="709"
-            src="assets/img/hero/hero-4-2.png"
+            src="assets/img/hero/sirajsiranddilipsir.png"
             class="ls-l ls-hide-phone ls-img-layer"
             alt="hero image"
             style="

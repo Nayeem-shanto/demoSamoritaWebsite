@@ -3,7 +3,7 @@
     margin: 50px 200px;
     padding: 30px;
     font-size: large;
-    background-image: url(./assets/img/bg/bg-shape-8.jpg);
+    background-image: url("../img/bg/bg-shape-1.jpg");
     text-align: justify;
 }
 
@@ -11,6 +11,7 @@
 .department-header-container{
     max-width: 1400px;
     margin: 0 auto; 
+    padding: 10px;
        color:#27477d;
 }
 .dept-name-bold{
