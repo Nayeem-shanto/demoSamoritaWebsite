@@ -37,7 +37,7 @@
     <!--==============================
 	    All CSS File
 	============================== -->
-  <!-- custom css related link -->
+  <!--My custom css related link -->
    <link rel="stylesheet" href="./assets/css/mystyle.css">
     <!-- Bootstrap -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css" />

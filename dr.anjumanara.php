@@ -45,12 +45,6 @@
                 </div>
 
               </div>
-
-              <a href="https://verify.bmdc.org.bd/" class="certifate-link"
-                ><span style="color: #07ccec; :hover {color: #FFFFFF;}">BMDC Registration Number: </span><i
-                  class="far fa-chevron-circle-right"
-                ></i
-              ></a>
             </div>
 
             <div

@@ -53,6 +53,52 @@
     background-color: azure;
 }
 
+/* Discharge guide page styles */
+.discharge-guide-container{
+    max-width: 1400px;
+    margin: 0 auto;
+    text-align: justify;
+    color: #27477d;
+}
+.discharge-guide-title-for-all-section{
+    border: 1px solid black;
+    text-align: center;
+    padding: 5px;
+}
+.discharge-guide-list-style{
+    max-width: 1300px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+
+/* Impatient facilities */
+.impatient-facilities-container{
+    max-width: 1400px;
+    margin: 0 auto;
+    text-align: justify;
+    color: #27477d;
+}
+.title-of-all-heading{
+    text-align: center;
+}
+.bed-and-room{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 50px;
+    border: 1px solid black;
+    padding: 20px;
+}
+.hospital-bed-image{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    
+}
+
+
 
 
 
