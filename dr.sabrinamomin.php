@@ -1,143 +1,130 @@
-<?php include 'headerhospital.php';?>
-    <!--==============================
+<?php include 'headerhospital.php'; ?>
+<!--==============================
     Breadcumb
 ============================== -->
-    <div class="breadcumb-wrapper">
-      <div
-        class="parallax"
-        data-parallax-image="assets/img/breadcurmb/breadcurmb-1-1.jpg"
-      ></div>
-      <div class="container z-index-common">
-        <div class="breadcumb-content">
-          <h1 class="breadcumb-title" style="color: whitesmoke;"></h1>
-          <div class="breadcumb-menu-wrap">
-            <i class="far fa-home-lg"></i>
-            <ul class="breadcumb-menu">
-              <li><a href="index-4.php">Home</a></li>
-              <li><a href="alldoctor.php">Doctor Details</a></li>
-              
-            </ul>
-          </div>
-        </div>
+<div class="breadcumb-wrapper">
+  <div
+    class="parallax"
+    data-parallax-image="assets/img/breadcurmb/breadcurmb-1-1.jpg"></div>
+  <div class="container z-index-common">
+    <div class="breadcumb-content">
+      <h1 class="breadcumb-title" style="color: whitesmoke;"></h1>
+      <div class="breadcumb-menu-wrap">
+        <i class="far fa-home-lg"></i>
+        <ul class="breadcumb-menu">
+          <li><a href="index-4.php">Home</a></li>
+          <li><a href="alldoctor.php">Doctor Details</a></li>
+
+        </ul>
       </div>
     </div>
-    <!--==============================
+  </div>
+</div>
+<!--==============================
     Team Details
     ==============================-->
-    <section class="vs-details-wrapper space-top space-md-bottom">
-      <div class="container">
-        <div class="row gx-40">
-          <div class="col-lg-5">
-            <div
-              class="member-header mb-40 overflow-hidden rounded-3 position-relative"
-            >
-              <div class="member-details-img">
-                <img
-                  src="assets/img/team/female-details.jpg"
-                  alt="Member Image"
-                  class="w-100"
-                />
-                <!-- <img
+<section class="vs-details-wrapper space-top space-md-bottom">
+  <div class="container">
+    <div class="row gx-40">
+      <div class="col-lg-5">
+        <div
+          class="member-header mb-40 overflow-hidden rounded-3 position-relative">
+          <div class="member-details-img">
+            <img
+              src="assets/img/team/female-details.jpg"
+              alt="Member Image"
+              class="w-100" />
+            <!-- <img
                   src="assets/img/team/avatar-details-profile.png"
                   alt="Member Image"
                   class="w-100"
                 /> -->
-              </div>
-
-              <div class="member-angle-links">
-                <div class="shape">
-                  <img src="assets/img/bg/member-shape.png" alt="Shape" />
-                </div>
-
-              </div>
-
-              <a href="#" class="certifate-link"
-                ><span style="color: #07ccec; :hover {color: #FFFFFF;}">BMDC Registration Number: A-52418 </span><i
-                  class="far fa-chevron-circle-right"
-                ></i
-              ></a>
-            </div>
-
-            <div
-              class="team-schedule bg-smoke wow fadeInUp"
-              data-wow-delay="0.3s"
-            >
-              <h3 class="h4 border-title">Time Schedule</h3>
-              <table class="team-schedule-table">
-                <tbody>
-                  <tr>
-                    <td>Saturday - Thursday</td>
-                    <td>11.00 AM - 1.00 PM</td>
-                  </tr>
-                  <tr>
-                    <td>Room No:</td>
-                    <td>N/A</td>
-                  </tr>
-                  
-                  
-                
-                </tbody>
-              </table>
-              <a href="tel:66925682596" class="vs-btn style2"
-                >+88 02 8878080<i class="fas fa-phone"></i
-              ></a>
-            </div>
           </div>
-          <div class="col-lg-7">
-            <div class="team-content">
-              <h2 class="mb-0 mt-n2">Dr. Sabrina Momin</h2>
-              <h3 class="text-theme fs-xs">Assistant Professor (CC)<br> Department of Medicine</h3>
-              <p class="fs-md text-title" style="text-align: justify;">
-                Dr. Sabrina Momin is a respected and experienced physician specializing in Internal Medicine. With over 15 years of clinical and academic experience, she is known for her expertise in diagnosing complex medical conditions and managing chronic illnesses with a patient-centered approach. Her calm, thorough and evidence-based treatment plans have made her a trusted name in medicine.
-              </p>
-              <p class="fs-md text-title" style="text-align: justify;">
-               She earned her MBBS from Dhaka Medical College and went on to complete her FCPS in Medicine from the Bangladesh College of Physicians and Surgeons (BCPS). Currently, she is an Associate Professor in the Department of Medicine at MH Samorita Hospital & Medical College, where she is involved in clinical instruction, undergraduate and postgraduate education, and internal medicine consultations.
-              </p>
-              
-              <table class="member-table" style="background-color: #f3f6f7;">
-                <tbody>
-                  <tr>
-                    <th><strong>Speciality</strong></th>
-                    <td>Internal Medicine</td>
-                  </tr>
-                  <tr>
-                    <th><strong>Degrees</strong></th>
-                    <td>
-                      <ul class="member-info-list">
-                        <li>MBBS.</li>
-                        <li>FCPS (Medicine).</li>
-                  </tr>
-                  <tr>
-                    <th><strong>Areas of Expertise</strong></th>
-                    <td>
-                      <ul class="member-info-list">
-                          <li>Diabetes & endocrine disorders</li>
-                          <li>Hypertension & heart disease</li>
-                          <li>Liver & gastrointestinal diseases</li>
-                          <li>Respiratory conditions (asthma, COPD, infections)</li>
-                          <li>Thyroid and metabolic issues</li>
-                          <li>Kidney and urinary tract disorders</li>
-                          <li>Neurological conditions (e.g. stroke, neuropathy)</li>
-                          <li>Infectious diseases (dengue, typhoid, TB)</li>
-                          <li>Rheumatologic conditions</li>
-                          <li>Women’s health in internal medicine</li>
 
-                      </ul>
-                    </td>
-                  </tr>
-                  <tr>
-                    <th><strong>Academic Qualification</strong></th>
-                    <td>MBBS from Dhaka Medical College and went on to complete her FCPS in Medicine from the Bangladesh College of Physicians and Surgeons (BCPS).
-                  </tr>
-                </tbody>
-              </table>
-              <form
-                action="#"
-                class="form-wrap1 shadow-none mb-30 rounded-3 overflow-hidden wow fadeInUp"
-                data-wow-delay="0.3s"
-                data-bg-color="#f3f6f7"
-              >
-                <!-- <div
+          <div class="member-angle-links">
+            <div class="shape">
+              <img src="assets/img/bg/member-shape.png" alt="Shape" />
+            </div>
+
+          </div>
+
+          <a href="#" class="certifate-link"><span style="color: #07ccec; :hover {color: #FFFFFF;}">BMDC Registration Number: A-52418 </span><i
+              class="far fa-chevron-circle-right"></i></a>
+        </div>
+
+        <div
+          class="team-schedule bg-smoke wow fadeInUp"
+          data-wow-delay="0.3s">
+          <h3 class="h4 border-title">Time Schedule</h3>
+          <table class="team-schedule-table">
+            <tbody>
+              <tr>
+                <td>Saturday - Thursday</td>
+                <td>11.00 AM - 1.00 PM</td>
+              </tr>
+              <tr>
+                <td>Room No:</td>
+                <td>320</td>
+              </tr>
+
+
+
+            </tbody>
+          </table>
+          <a href="tel:66925682596" class="vs-btn style2">+88 02 8878080<i class="fas fa-phone"></i></a>
+        </div>
+      </div>
+      <div class="col-lg-7">
+        <div class="team-content">
+          <h2 class="mb-0 mt-n2">Asst. Prof. Dr. Sabrina Momin</h2>
+          <h3 class="text-theme fs-xs">Assistant Professor<br> Department of Medicine</h3>
+          <p class="fs-md text-title" style="text-align: justify;">
+            <strong>Asst. Prof. Dr. Sabrina Momin</strong> is a respected and experienced physician specializing in Internal Medicine. With over 16 years of clinical and academic experience, she is known for her expertise in diagnosing complex medical conditions and managing chronic illnesses with a patient-centered approach. Her calm, thorough and evidence-based treatment plans have made her a trusted name in medicine. Earlier she worked in different hospitals in Dhaka i.e. Evercare Hospital, United Hospital Limited.
+          </p>
+
+
+          <table class="member-table" style="background-color: #f3f6f7;">
+            <tbody>
+              <tr>
+                <th><strong>Speciality</strong></th>
+                <td>Internal Medicine</td>
+              </tr>
+              <tr>
+                <th><strong>Degrees</strong></th>
+                <td>
+                  <ul class="member-info-list">
+                    <li>MBBS – Dhaka Medical College, University of Dhaka.</li>
+                    <li>FCPS (Medicine) – Bangladesh College of Physicians & Surgeons (BCPS).</li>
+                    <li>MRCP – Royal College of Physicians, UK</li>
+                    <li>CCD – BIRDEM</li>
+              </tr>
+              <tr>
+                <th><strong>Areas of Expertise</strong></th>
+                <td>
+                  <ul class="member-info-list">
+                    <li>Diabetes & endocrine disorders</li>
+                    <li>Hypertension & heart disease</li>
+                    <li>Liver & gastrointestinal diseases</li>
+                    <li>Respiratory conditions (asthma, COPD, infections)</li>
+                    <li>Thyroid and metabolic issues</li>
+                    <li>Kidney and urinary tract disorders</li>
+                    <li>Neurological conditions (e.g. stroke, neuropathy)</li>
+                    <li>Infectious diseases (dengue, typhoid, TB)</li>
+                    <li>Rheumatologic conditions</li>
+                    <li>Women’s health in internal medicine</li>
+                    <li>Palliative Care</li>
+
+                  </ul>
+                </td>
+              </tr>            
+            </tbody>
+          </table>
+          <form
+            action="#"
+            class="form-wrap1 shadow-none mb-30 rounded-3 overflow-hidden wow fadeInUp"
+            data-wow-delay="0.3s"
+            data-bg-color="#f3f6f7">
+            <!-- <div
                   class="form-title-box bg-title"
                   data-bg-src="assets/img/bg/bg-shape-9.jpg"
                 >
@@ -212,11 +199,11 @@
                       </button>
                     </div>
                   </div> -->
-                </div>
-              </form>
-            </div>
-          </div>
         </div>
+        </form>
       </div>
-    </section>
-    <?php include 'footerhospital.php';?>
+    </div>
+  </div>
+  </div>
+</section>
+<?php include 'footerhospital.php'; ?>
