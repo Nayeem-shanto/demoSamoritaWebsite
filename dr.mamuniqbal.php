@@ -1,142 +1,128 @@
-<?php include 'headerhospital.php';?>
-    <!--==============================
+<?php include 'headerhospital.php'; ?>
+<!--==============================
     Breadcumb
 ============================== -->
-    <div class="breadcumb-wrapper">
-      <div
-        class="parallax"
-        data-parallax-image="assets/img/breadcurmb/cardiology.jpg"
-      ></div>
-      <div class="container z-index-common">
-        <div class="breadcumb-content">
-          <h1 class="breadcumb-title">Department of Cardiology</h1>
-          <div class="breadcumb-menu-wrap">
-            <i class="far fa-home-lg"></i>
-            <ul class="breadcumb-menu">
-              <li><a href="index.php">Home</a></li>
-              <li class="active">Doctors Details</li>
-            </ul>
-          </div>
-        </div>
+<div class="breadcumb-wrapper">
+  <div
+    class="parallax"
+    data-parallax-image="assets/img/breadcurmb/cardiology.jpg"></div>
+  <div class="container z-index-common">
+    <div class="breadcumb-content">
+      <h1 class="breadcumb-title">Department of Cardiology</h1>
+      <div class="breadcumb-menu-wrap">
+        <i class="far fa-home-lg"></i>
+        <ul class="breadcumb-menu">
+          <li><a href="index.php">Home</a></li>
+          <li class="active">Doctors Details</li>
+        </ul>
       </div>
     </div>
-    <!--==============================
+  </div>
+</div>
+<!--==============================
     Team Details
     ==============================-->
-    <section class="vs-details-wrapper space-top space-md-bottom">
-      <div class="container">
-        <div class="row gx-40">
-          <div class="col-lg-5">
-            <div
-              class="member-header mb-40 overflow-hidden rounded-3 position-relative"
-            >
-              <div class="member-details-img">
-                <img
-                  src="assets/img/team/mamun_iqbal_sir.jpg"
-                  alt="Member Image"
-                  class="w-100"
-                />
-              </div>
+<section class="vs-details-wrapper space-top space-md-bottom">
+  <div class="container">
+    <div class="row gx-40">
+      <div class="col-lg-5">
+        <div
+          class="member-header mb-40 overflow-hidden rounded-3 position-relative">
+          <div class="member-details-img">
+            <img
+              src="assets/img/team/mamun_iqbal_sir.jpg"
+              alt="Member Image"
+              class="w-100" />
+          </div>
 
-              <div class="member-angle-links">
-                <div class="shape">
-                  <img src="assets/img/bg/member-shape.png" alt="Shape" />
-                </div>
-                <span class="middle-icon">
-                    <!-- <i class="fas fa-share-alt"></i> -->
-                </span>
-                <!-- <a href="#"><i class="fab fa-facebook-f"></i></a>
+          <div class="member-angle-links">
+            <div class="shape">
+              <img src="assets/img/bg/member-shape.png" alt="Shape" />
+            </div>
+            <span class="middle-icon">
+              <!-- <i class="fas fa-share-alt"></i> -->
+            </span>
+            <!-- <a href="#"><i class="fab fa-facebook-f"></i></a>
                 <a href="#"><i class="fab fa-twitter"></i></a>
                 <a href="#"><i class="fab fa-google"></i></a>
                 <a href="#"><i class="fab fa-linkedin-in"></i></a> -->
-              </div>
-
-              <a href="https://verify.bmdc.org.bd/" class="certifate-link"><span style="color: #07ccec; :hover {color: #FFFFFF;}">BMDC Registration Number: A-40986 </span>
-                <i class="far fa-chevron-circle-right"></i></a>
-            </div>
-
-            <div
-              class="team-schedule bg-smoke wow fadeInUp"
-              data-wow-delay="0.3s"
-            >
-              <h3 class="h4 border-title">Time Schedule</h3>
-              <table class="team-schedule-table">
-                <tbody>
-                  <tr>
-                    <td>Saturday - Thursday:</td>
-                    <td>10.00 am - 1.00 pm</td>
-                  </tr>
-                  <tr>
-                    <td>Room No:</td>
-                    <td>601</td>
-                  </tr>
-                
-                </tbody>
-              </table>
-              <a href="tel:66925682596" class="vs-btn style2"
-                >+88 02 8878080<i class="fas fa-phone"></i
-              ></a>
-            </div>
           </div>
-          <div class="col-lg-7">
-            <div class="team-content">
-              <h2 class="mb-0 mt-n2">Prof. Dr. S. M. Mamun Iqbal</h2>
-              <p class="text-theme fs-xs">Professor (CC) & Consultant <br>Department of Cardiology</p>
-              <div style="text-align: justify;">
-                <p class="fs-md text-title">
-                Dr. S. M. Mamun Iqbal is a skilled and highly qualified cardiologist with more than 12 years of clinical experience. He is known for his patient-focused approach and clinical excellence in the treatment of heart diseases. With both local and international qualifications, including MRCP (UK), he offers evidence-based care for a wide range of cardiovascular conditions. His calm and analytical method of diagnosis has earned him the trust of patients and colleagues alike.
-              </p>
-              <p class="fs-md text-title">
-                He completed his MBBS from Dhaka Medical College. He earned his MD in Cardiology from Bangladesh Medical University (BMU) and later achieved his MRCP from the Royal College of Physicians (UK). Currently, he is working as a Consultant in the Department of Cardiology at MH Samorita Hospital & Medical College, Dhaka.
-              </p>
-              </div>
-              <table class="member-table" >
-                <tbody style="background-color: #f3f6f7;">
-                  <tr>
-                    <th><strong>Specialty</strong></th>
-                    <td>Cardiology (Clinical & Interventional)</td>
-                  </tr>
-                  <tr>
-                    <th><strong>Degrees</strong></th>
-                    <td>
-                      <ul class="member-info-list">
-                        <li>MBBS.</li>
-                        <li>MD (Cardiology).</li>
-                        <li>MRCP (UK).</li>
-                        <li>FRCP (Glasgow).</li>
-                      </ul>
-                    </td>
-                  </tr>
-                  <tr>
-                    <th><strong>Areas of Expertise</strong></th>
-                    <td>
-                      <ul class="member-info-list">
-                        <li>Angiogram and Angioplasty (Stenting), Pacemaker Implantation</li>
-                        <li>Hypertension and ischemic heart disease</li>
-                        <li>Heart failure and cardiomyopathy</li>
-                        <li>Chest pain, palpitations and syncope evaluation</li>
-                        <li>Arrhythmia management and ECG interpretation</li>
-                        <li>Echocardiography and cardiac imaging</li>
-                        <li>Lipid and cholesterol disorders</li>
-                        <li>Post-stent and post-heart attack follow-up</li>
-                        <li>Preoperative cardiac clearance</li>
-                        <li>Preventive cardiology and lifestyle counseling</li>
-                      </ul>
-                    </td>
-                  </tr>
-                  <tr>
-                    <th><strong>Academic Qualification</strong></th>
-                    <td>He Completed MBBS from Dhaka Medical College. He earned his MD in Cardiology from Bangladesh Medical University (BMU) and later achieved his MRCP from the Royal College of Physicians (UK)</td>
-                  </tr>
-                </tbody>
-              </table>
-              <form
-                action="#"
-                class="form-wrap1 shadow-none mb-30 rounded-3 overflow-hidden wow fadeInUp"
-                data-wow-delay="0.3s"
-                data-bg-color="#f3f6f7"
-              >
-                <!-- <div
+
+          <a href="https://verify.bmdc.org.bd/" class="certifate-link"><span style="color: #07ccec; :hover {color: #FFFFFF;}">BMDC Registration Number: A-40986 </span>
+            <i class="far fa-chevron-circle-right"></i></a>
+        </div>
+
+        <div
+          class="team-schedule bg-smoke wow fadeInUp"
+          data-wow-delay="0.3s">
+          <h3 class="h4 border-title">Time Schedule</h3>
+          <table class="team-schedule-table">
+            <tbody>
+              <tr>
+                <td>Saturday - Thursday:</td>
+                <td>10.00 am - 1.00 pm</td>
+              </tr>
+              <tr>
+                <td>Room No:</td>
+                <td>601</td>
+              </tr>
+
+            </tbody>
+          </table>
+          <a href="tel:66925682596" class="vs-btn style2">+88 02 8878080<i class="fas fa-phone"></i></a>
+        </div>
+      </div>
+      <div class="col-lg-7">
+        <div class="team-content">
+          <h2 class="mb-0 mt-n2">Prof. Dr. S M. Mamun Iqbal</h2>
+          <p class="text-theme fs-xs">Vice Principal <br> Professor (CC)<br>Department of Cardiology</p>
+          <div style="text-align: justify;">
+            <p class="fs-md text-title">
+              <strong>Prof. Dr. S. M. Mamun Iqbal</strong> is a skilled and highly qualified cardiologist with more than 12 years of clinical experience. He is known for his patient-focused approach and clinical excellence in the treatment of heart diseases. With both local and international qualifications, including MRCP (UK), he offers evidence-based care for a wide range of cardiovascular conditions. His calm and analytical method of diagnosis has earned him the trust of patients and colleagues alike.
+            </p>
+          </div>
+          <table class="member-table">
+            <tbody style="background-color: #f3f6f7;">
+              <tr>
+                <th><strong>Specialty</strong></th>
+                <td>Cardiology (Clinical & Interventional)</td>
+              </tr>
+              <tr>
+                <th><strong>Degrees</strong></th>
+                <td>
+                  <ul class="member-info-list">
+                    <li>MBBS – Dhaka Medical College, University of Dhaka.</li>
+                    <li>MD (Cardiology) – Bangladesh Medical University (BMU).</li>
+                    <li>MRCP - Royal College of Physicians, Glasgow, UK.</li>
+                    <li>FRCP - Royal College of Physicians, Glasgow, UK.</li>
+                  </ul>
+                </td>
+              </tr>
+              <tr>
+                <th><strong>Areas of Expertise</strong></th>
+                <td>
+                  <ul class="member-info-list">
+                    <li>Angiogram and angioplasty (stenting), pacemaker implantation</li>
+                    <li>Hypertension and ischemic heart disease</li>
+                    <li>Heart failure and cardiomyopathy</li>
+                    <li>Evaluation of chest pain, palpitations and syncope</li>
+                    <li>Arrhythmia management and ECG interpretation</li>
+                    <li>Echocardiography and cardiac imaging</li>
+                    <li>Lipid and cholesterol disorders</li>
+                    <li>Post-stent and post-heart attack follow-up</li>
+                    <li>Preoperative cardiac clearance</li>
+                    <li>Preventive cardiology and lifestyle counseling</li>
+                  </ul>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <form
+            action="#"
+            class="form-wrap1 shadow-none mb-30 rounded-3 overflow-hidden wow fadeInUp"
+            data-wow-delay="0.3s"
+            data-bg-color="#f3f6f7">
+            <!-- <div
                   class="form-title-box bg-title"
                   data-bg-src="assets/img/bg/bg-shape-9.jpg"
                 >
@@ -211,11 +197,11 @@
                       </button>
                     </div>
                   </div> -->
-                </div>
-              </form>
-            </div>
-          </div>
         </div>
+        </form>
       </div>
-    </section>
-    <?php include 'footerhospital.php';?>
+    </div>
+  </div>
+  </div>
+</section>
+<?php include 'footerhospital.php'; ?>
