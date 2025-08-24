@@ -60,7 +60,7 @@
               </tr>
               <tr>
                 <td>Room No:</td>
-                <td>N/A</td>
+                <td>604</td>
               </tr>
 
             </tbody>
@@ -70,14 +70,11 @@
       </div>
       <div class="col-lg-7">
         <div class="team-content">
-          <h2 class="mb-0 mt-n2">Dr. Ahmed Mostofa Zaman</h2>
+          <h2 class="mb-0 mt-n2">Asst. Prof. Dr. Ahmed Mostofa Zaman</h2>
           <p class="text-theme fs-xs">Assistant Professor (CC)<br>Department of Cardiology</p>
           <div style="text-align: justify;">
             <p class="fs-md text-title">
-              Dr. Ahmed Mostofa Zaman is a promising and dedicated cardiologist with growing expertise in the management of heart diseases. As an Assistant Professor (Current Charge) in the Department of Cardiology at MH Samorita Hospital & Medical College, he plays a vital role in both clinical services and academic activities. He is committed to providing evidence-based care and has a strong interest in non-invasive and interventional cardiology and preventive heart health.
-            </p>
-            <p class="fs-md text-title">
-              He completed his MBBS from a reputed institution in Bangladesh, followed by a Diploma in Cardiology (D-CARD) and later obtained his MRCP (UK) from Royal College of Physicians, UK. Dr. Zaman is actively involved in teaching, ward supervision and patient consultations.
+              <strong>Asst. Prof. Dr. Ahmed Mostofa Zaman</strong> is a promising and dedicated cardiologist with growing expertise in the management of heart diseases. As an Assistant Professor (Current Charge) in the Department of Cardiology at MH Samorita Hospital & Medical College, he plays a vital role in both clinical services and academic activities. He is committed to providing evidence-based care and has a strong interest in non-invasive and interventional cardiology and preventive heart health. Dr. Zaman is actively involved in teaching, ward supervision and patient consultations.
             </p>
           </div>
           <table class="member-table">
@@ -90,9 +87,9 @@
                 <th><strong>Degrees</strong></th>
                 <td>
                   <ul class="member-info-list">
-                    <li>MBBS.</li>
-                    <li>D-CARD (NICVD).</li>
-                    <li>MRCP (UK).</li>                   
+                    <li>MBBS – Rajshahi Medical College, University of Rajshahi</li>
+                    <li>D-CARD – NICVD </li>
+                    <li>MRCP - Royal College of Physicians, London, UK</li>
                   </ul>
                 </td>
               </tr>
@@ -103,19 +100,15 @@
                     <li>Management of hypertension and ischemic heart disease</li>
                     <li>Heart failure treatment and follow-up</li>
                     <li>ECG, TMT and echocardiography interpretation</li>
-                    <li>Cardiac risk assessment and lifestyle counseling</li>
+                    <li>Cardiac risk assessment and lifestyle counselling</li>
                     <li>Arrhythmia detection and medical therapy</li>
                     <li>Preoperative cardiac fitness evaluations</li>
                     <li>Chest pain, palpitations and syncope work-up</li>
                     <li>Non-invasive cardiac diagnostics and monitoring</li>
-                    <li>Interventional Cardiology</li>
+                    <li>Interventional cardiology</li>
                   </ul>
                 </td>
-              </tr>
-              <tr>
-                <th style="text-align: justify;"><strong>Academic Qualification</strong></th>
-                <td>He completed his MBBS from a reputed institution in Bangladesh, followed by a Diploma in Cardiology (D-CARD) and later obtained his MRCP (UK) from Royal College of Physicians, UK.</td>
-              </tr>
+              </tr>             
             </tbody>
           </table>
           <form
