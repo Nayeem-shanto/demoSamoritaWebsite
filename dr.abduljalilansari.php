@@ -84,7 +84,7 @@
           <table class="member-table" style="background-color: #f3f6f7;">
             <tbody>
               <tr>
-                <th><strong>Speciality</strong></th>
+                <th><strong>Specialty</strong></th>
                 <td>Endocrinology & Metabolism <br> Internal Medicine </td>
               </tr>
               <tr>
