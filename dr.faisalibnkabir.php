@@ -56,15 +56,14 @@
             <tbody>
               <tr>
                 <td>Saturday - Thursday:</td>
-                <td>9.00 am - 3.00 pm</td>
-              </tr>
-              <tr>
-                <td></td>
-                <td>8.00 pm - 10.00 pm</td>
-              </tr>
+                <td>9.00 am - 3.00 pm
+                  <br> 
+                  8.00 pm - 10.00 pm
+                </td>
+              </tr>           
               <tr>
                 <td>Room No:</td>
-                <td>N/A</td>
+                <td>605</td>
               </tr>
 
             </tbody>
@@ -74,14 +73,11 @@
       </div>
       <div class="col-lg-7">
         <div class="team-content">
-          <h2 class="mb-0 mt-n2">Dr. Mohammad Faisal Ibn Kabir</h2>
+          <h2 class="mb-0 mt-n2"><span style="font-size: xx-large;">Assoc. Prof. Dr. Mohammad Faisal Ibn Kabir</span></h2>
           <p class="text-theme fs-xs">Associate Professor<br>Department of Cardiology</p>
           <div style="text-align: justify;">
             <p class="fs-md text-title">
-              Dr. Mohammad Faisal Ibn Kabir is an experienced and academically accomplished cardiologist with a strong background in both clinical cardiology and teaching. With over 15 years of experience, he is known for his structured and evidence-based approach to diagnosing and managing cardiovascular diseases. As an Associate Professor in the Department of Cardiology, he actively contributes to medical education, clinical research and patient care.
-            </p>
-            <p class="fs-md text-title">
-              He completed his MBBS from a reputed medical college in Bangladesh, followed by FCPS in Medicine and MD in Cardiology. Then he has completed a one-year fellowship in Cardiovascular Intervention from Beijing, China. He currently serves as an Associate Professor in the Department of Cardiology at MH Samorita Hospital & Medical College.
+              <strong>Assoc. Prof. Dr. Mohammad Faisal Ibn Kabir</strong> is an experienced and academically accomplished cardiologist with a strong background in both clinical cardiology and teaching. With over 15 years of experience, he is known for his structured and evidence-based approach to diagnosing and managing cardiovascular diseases. As an Associate Professor in the Department of Cardiology, he actively contributes to medical education, clinical research and patient care.
             </p>
           </div>
           <table class="member-table">
@@ -94,10 +90,10 @@
                 <th><strong>Degrees</strong></th>
                 <td>
                   <ul class="member-info-list">
-                    <li>FELLOSHIP IN CARDIOVASCULAR INTERVENTION (BEIJING, CHINA).</li>
-                    <li>MD (CARDIOLOGY).</li>
-                    <li>FCPS (MEDICINE).</li>
-                    <li>MBBS (DMC).</li>
+                    <li>MBBS – Dhaka Medical College, University of Dhaka</li>
+                    <li>FCPS (MEDICINE) – Bangladesh College of Physicians & Surgeons (BCPS)</li>
+                    <li>MD (CARDIOLOGY) – Bangladesh Medical University (BMU)</li>
+                    <li>FELLOWSHIP IN CARDIOVASCULAR INTERVENTION – CJFH, BEIJING, CHINA</li>
                   </ul>
                 </td>
               </tr>
@@ -114,14 +110,10 @@
                     <li>Preoperative cardiac assessment</li>
                     <li>Lifestyle and preventive cardiology</li>
                     <li>Long-term care for post-stent or post-MI patients</li>
-                    <li>Evaluation and treatment of pulmonary Hypertension</li>
+                    <li>Evaluation and treatment of pulmonary hypertension</li>
                   </ul>
                 </td>
-              </tr>
-              <tr>
-                <th style="text-align: justify;"><strong>Academic Qualification</strong></th>
-                <td>He completed his MBBS from a reputed Medical College in Bangladesh, followed by FCPS in Medicine and then MD in Cardiology. He completed a one-year fellowship in Cardiovascular Intervention from Beijing, China.</td>
-              </tr>
+              </tr>             
             </tbody>
           </table>
           <form
