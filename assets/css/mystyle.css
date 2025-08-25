@@ -1,3 +1,13 @@
+/* google fonts */
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+.montserrat{
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
 /* Styles for chairman message page */
 .chairman-message {
     margin: 50px 200px;
@@ -96,6 +106,12 @@
     grid-template-columns: repeat(2, 1fr);
     gap: 20px;
     
+}
+/* Out Patients Facilities */
+.outpatient-facilities-container{
+    max-width: 1400px;
+    margin: 0 auto;
+   color:var(--theme-color3);
 }
 
 

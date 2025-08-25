@@ -26,6 +26,9 @@
         <div>
             <h3 class="title-of-all-heading">BED & ROOM CATEGORIES</h3>
         </div>
+
+        
+
         <div class="bed-and-room">
             <div class="hospital-bed-image">
                 <img src="./assets/img/hospital-image/hospital-bed-1.jpg" alt="">
