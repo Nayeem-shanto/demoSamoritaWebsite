@@ -20,7 +20,6 @@
     </div>
 </div>
 
-
 <main class="discharge-guide-container" >
     <section>
         <div>
