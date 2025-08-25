@@ -398,7 +398,7 @@
         <li><a href="ent.php">ENT & Head Neck Surgery</a></li>
         <li><a href="#">Gastroenterology</a></li>
         <li><a href="Gyne.php">Gyne & Obs</a></li>
-        <li><a href="#">General Surgery</a></li>
+        <li><a href="#">Surgery</a></li>
         <li><a href="#">Hematology</a></li>
       </ul>
     </li>
