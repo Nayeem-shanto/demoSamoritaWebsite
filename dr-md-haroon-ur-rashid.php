@@ -8,7 +8,7 @@
         data-parallax-image="assets/img/breadcurmb/breadcurmb-1-1.jpg"></div>
     <div class="container z-index-common">
         <div class="breadcumb-content">
-            <h1 class="breadcumb-title">Department of dermatology</h1>
+            <h1 class="breadcumb-title">Department of Dermatology</h1>
             <div class="breadcumb-menu-wrap">
                 <i class="far fa-home-lg"></i>
                 <ul class="breadcumb-menu">
@@ -48,7 +48,7 @@
                 <a href="#"><i class="fab fa-linkedin-in"></i></a> -->
                     </div>
 
-                    <a href="https://verify.bmdc.org.bd/" class="certifate-link"><span style="color: #07ccec; :hover {color: #FFFFFF;}">BMDC Registration Number: A-57399 </span>
+                    <a href="https://verify.bmdc.org.bd/" class="certifate-link"><span style="color: #07ccec; :hover {color: #FFFFFF;}">BMDC Registration Number: A-50263 </span>
                         <i class="far fa-chevron-circle-right"></i></a>
                 </div>
 
@@ -60,11 +60,11 @@
                         <tbody>
                             <tr>
                                 <td>Saturday - Thursday:</td>
-                                <td>9.00 am - 2.00 pm</td>
+                                <td>10.00 am - 1.00 pm</td>
                             </tr>
                             <tr>
                                 <td>Room No:</td>
-                                <td>333</td>
+                                <td>301</td>
                             </tr>
 
                         </tbody>
@@ -74,26 +74,26 @@
             </div>
             <div class="col-lg-7">
                 <div class="team-content">
-                    <h2 class="mb-0 mt-n2">Asst. Prof. Dr. Jinan Bashar</h2>
-                    <p class="text-theme fs-xs">MBBS, MD (Dermatology & Venereology) <br><br> Assistant Professor<br>Department of Dermatology & Venereology</p>
+                    <h2 class="mb-0 mt-n2">Asst. Prof. Dr. Md. Haroon Ur Rashid</h2>
+                    <p class="text-theme fs-xs">MBBS, DDV (Dermatology & Venereology), MACP (USA) <br><br> Assistant Professor<br>Department of Dermatology & Venereology</p>
                     <div style="text-align: justify;">
                         <p class="fs-md text-title">
-                            <strong>Asst. Prof. Dr. Jinan Bashar</strong> is a skilled and knowledgeable dermatologist with over 10 years of experience in Clinical Dermatology, Cosmetology and the management of sexually transmitted infections. As an Assistant Professor in the Department of Dermatology & Venereology at MH Samorita Hospital & Medical College, she is committed to patient-centered care and academic development. She is particularly noted for her work in treating chronic skin diseases and her precise approach to cosmetic dermatologic procedures.
+                            <strong>Asst. Prof. Dr. Md. Haroon Ur Rashid</strong> is a committed and experienced dermatologist with more than 12 years of experience in treating a wide range of skin, hair and sexually transmitted diseases. Also he specializes in cosmetic & aesthetic dermatology (PRP, LASER, Chemical peeling). As an Assistant Professor in the Department of Dermatology & Venereology at MH Samorita Hospital & Medical College, he contributes to both patient care and clinical teaching. He is appreciated for his precise diagnostic approach and thorough follow-up care for chronic skin conditions. A dedicated professional, Dr. Rashid is a member of professional associations and has contributed to dermatological research & patient education.
                         </p>
                     </div>
                     <table class="member-table">
                         <tbody style="background-color: #f3f6f7;">
                             <tr>
                                 <th><strong>Specialty</strong></th>
-                                <td> Clinical & Aesthetic Dermatology, Cosmetology & Venereology</td>
+                                <td> Cosmetic & Aesthetic Dermatology (PRP, LASER, Chemical peeling) & Venereology</td>
                             </tr>
                             <tr>
                                 <th><strong>Degrees</strong></th>
                                 <td>
                                     <ul class="member-info-list">
-                                        <li>MBBS – Ibrahim Medical College, University of Dhaka.</li>
-                                        <li>MD – BMU.</li>
-                                        <li>Advanced training in Dermato Surgery, Dhaka Dermatology Institute, Aurora Pain Center</li>
+                                        <li>MBBS – University of Dhaka (DU).</li>
+                                        <li>DDV (Diploma in Dermatology & Venereology) – BMU.</li>
+                                        <li>MACP (USA).</li>
                                     </ul>
                                 </td>
                             </tr>
@@ -101,15 +101,15 @@
                                 <th><strong>Areas of Expertise</strong></th>
                                 <td>
                                     <ul class="member-info-list">
-                                        <li>Acne, eczema, psoriasis and urticaria</li>
-                                        <li>Fungal, bacterial and viral skin infections</li>
-                                        <li>Hair fall, alopecia and scalp disorders</li>
-                                        <li>Skin pigmentation and melasma treatment</li>
-                                        <li>Skin allergies and drug reactions</li>
-                                        <li>Laser therapy and cosmetic dermatology</li>
-                                        <li>Sexually transmitted infections (STIs)</li>
-                                        <li>Wart, mole and skin tag removal</li>
-                                        <li>Cryotherapy, electrocautery and skin procedures</li>
+                                        <li>Acne, pimples and skin pigmentation</li>
+                                        <li>Fungal infections, eczema and urticaria</li>
+                                        <li>Hair fall and scalp conditions</li>
+                                        <li>Psoriasis and chronic skin disorders</li>
+                                        <li>Skin allergy and contact dermatitis</li>
+                                        <li>Wart and mole removal</li>
+                                        <li>Vitiligo and uneven skin tone</li>
+                                        <li>STIs and sexual health counseling</li>
+                                        <li>Cryotherapy, minor skin procedures and scar care</li>
                                     </ul>
                                 </td>
                             </tr>
