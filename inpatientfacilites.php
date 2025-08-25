@@ -28,23 +28,23 @@
             <div class="container-style7">
                 <div class="row">
                     <div class="col-lg-6 col-md-12 col-sm-12 wow fadeInUp" data-wow-delay="400ms">
-                        <!--  <div class="test-img7">
+                         <div class="test-img7">
                         <img src="assets/img/testimonial/testi7-1.png" alt="">
                         <a href="#" class="plus-btn"><img src="assets/img/testimonial/testi-plus7-1.png" alt=""></a>
-                    </div> -->
-                        <div class="hospital-bed-image">
+                    </div>
+                        <!-- <div class="hospital-bed-image">
                             <img src="./assets/img/hospital-image/hospital-bed-1.jpg" alt="">
                             <img src="./assets/img/hospital-image/hospital-bed-2.jpg" alt="">
                             <img src="./assets/img/hospital-image/hospital-bed-3.jpg" alt="">
                             <img src="./assets/img/hospital-image/hospital-bed-4.jpg" alt="">
 
-                        </div>
+                        </div> -->
                     </div>
                     <div class="col-lg-6 col-md-12 col-sm-12 wow fadeInUp" data-wow-delay="600ms">
                         <div class="testi-content7">
                             <div>
 
-                                <h2>BED & ROOM CATEGORIES</h2>
+                                <h2 class="border-title h4 pt-4 mt-4">BED & ROOM CATEGORIES</h2>
                             </div>
                             <div class="testi-slider arrows-style-7">
                                 <div class="testi-slide">
@@ -55,7 +55,7 @@
                                         <li><i class="fa fa-star"></i></li>
                                         <li><i class="fa fa-star"></i></li>
                                     </ul>
-                                    <p class="text">You may choose from different categories of in-patient beds/rooms of the hospital, including General Ward, AC Ward, Single Bed (AC/ Non AC), Double Bed (AC/Non AC), Deluxe Cabin and VIP Cabin. Beds/Cabins are allotted depending on your choice and availability. We also have a Day Care Unit for patients who have had out-patient procedures. We also have 500 beds specialized state-of-the-art Intensive Care Unit, 10 beds NICU for neonates and 5 beds state-of-the-art Special Care Unit.
+                                    <p class="text;" style="color: var(--theme-color3);">You may choose from different categories of in-patient beds/rooms of the hospital, including General Ward, AC Ward, Single Bed (AC/ Non AC), Double Bed (AC/Non AC), Deluxe Cabin and VIP Cabin. Beds/Cabins are allotted depending on your choice and availability. We also have a Day Care Unit for patients who have had out-patient procedures. We also have 500 beds specialized state-of-the-art Intensive Care Unit, 10 beds NICU for neonates and 5 beds state-of-the-art Special Care Unit.
                                     </p>
                                 </div>
                             </div>
@@ -71,27 +71,29 @@
             <div class="col-xl-9 col-xxl-8">
                 <div class="tab-content mb-25 " id="productTabContent">
                     <div class="tab-pane fade show active" id="description" role="tabpanel" aria-labelledby="description-tab">
-                        <div class="product-desc  ">
-                            <h3 class="border-title h4 pt-4 mt-4">NURSING CARE</h3>
-                            <p>MHSHMC provides 24-hours comprehensive, individualized nursing care for in-patients based on their assessed nursing needs. To provide best quality nursing care, the nursing personnel’s are selected on merit basis and thereafter prepared adequately by education and Hands-on Training. After enrolment, all our nurses are being well-oriented with the clinical services to meet the needs of the organizational goal towards humanitarian services.</p>
+                        <div class="product-desc ">
+                            <div>
+                                <h3 class="border-title h4 pt-4 mt-4">NURSING CARE</h3>
+                            <p style="color: var(--theme-color3);">MHSHMC provides 24-hours comprehensive, individualized nursing care for in-patients based on their assessed nursing needs. To provide best quality nursing care, the nursing personnel’s are selected on merit basis and thereafter prepared adequately by education and Hands-on Training. After enrolment, all our nurses are being well-oriented with the clinical services to meet the needs of the organizational goal towards humanitarian services.</p>
                             <div class="row mt-30">
                                 <div class="col-lg-6 mb-30">
-                                    <img src="assets/img/product/p-d-1-2.jpg" class="w-100" alt="product Image">
+                                    <img src="./assets/img/hospital-image/nurse.jpg" class="w-100" alt="Nurse">
                                 </div>
                                 <div class="col-lg-6 mb-30">
-                                    <img src="assets/img/product/p-d-1-3.jpg" class="w-100" alt="Shop Image">
+                                    <img src="./assets/img/hospital-image/nurse-station" class="w-100" alt="Nurse Station">
                                 </div>
                             </div>
+                            </div>
                             <h3 class="border-title h4 pt-4 mt-4">ACCOMMODATION FOR ATTENDANTS</h3>
-                            <p>One attendant is allowed to stay with the patient in the room after visiting hours (10.30am – 11.30 am and 5.00pm – 7.00 pm). It is mandatory to carry the Attendant Pass issued against each patient at the time of admission. Generally, the attendant should vacate the room/ward when the patient is shifted to SCU/HDU or ICU. However, the attendant may still retain the room, but in this case, the patient will be charged for double occupancy (bed charge + SCU/HDU/ICU charge). This is however, allowed subject to the availability of the rooms.</p>
+                            <p style="color: var(--theme-color3);">One attendant is allowed to stay with the patient in the room after visiting hours (10.30am – 11.30 am and 5.00pm – 7.00 pm). It is mandatory to carry the Attendant Pass issued against each patient at the time of admission. Generally, the attendant should vacate the room/ward when the patient is shifted to SCU/HDU or ICU. However, the attendant may still retain the room, but in this case, the patient will be charged for double occupancy (bed charge + SCU/HDU/ICU charge). This is however, allowed subject to the availability of the rooms.</p>
                             <h3 class="border-title h4 pt-4 mt-4">ENTERTAINMENT</h3>
-                            <p>Single/Double/AC/Non-AC//VIP cabins are provided with television & cable connections. The semi-private and standard ward patients share common TV connection. There is a choice of programs in various languages.</p>
+                            <p style="color: var(--theme-color3);">Single/Double/AC/Non-AC//VIP cabins are provided with television & cable connections. The semi-private and standard ward patients share common TV connection. There is a choice of programs in various languages.</p>
 
                             <h3 class="border-title h4 pt-4 mt-4">NEWSPAPERS & MAGAZINES</h3>
-                            <p>No Newspapers are supplied to the patients. We’ve arrangements to keep some reading magazines in the common waiting area.</p>
+                            <p style="color: var(--theme-color3);">No Newspapers are supplied to the patients. We’ve arrangements to keep some reading magazines in the common waiting area.</p>
 
                             <h3 class="border-title h4 pt-4 mt-4">CONCIERGE SERVICES</h3>
-                            <p>Caring for our guests' needs is part of our commitment. To meet this commitment, we offer the following concierge services: <br>
+                            <p style="color: var(--theme-color3);">Caring for our guests' needs is part of our commitment. To meet this commitment, we offer the following concierge services: <br>
                             <ul>
                                 <li>
                                     <strong>Business Center:</strong>
