@@ -8,7 +8,7 @@
     data-parallax-image="assets/img/breadcurmb/cardiology.jpg"></div>
   <div class="container z-index-common">
     <div class="breadcumb-content">
-      <h1 class="breadcumb-title">Department of Cardiology</h1>
+      <h1 class="breadcumb-title">Department of Anesthesiology</h1>
       <div class="breadcumb-menu-wrap">
         <i class="far fa-home-lg"></i>
         <ul class="breadcumb-menu">
@@ -75,7 +75,7 @@
       <div class="col-lg-7">
         <div class="team-content">
           <h2 class="mb-0 mt-n2">Assoc. Prof. Dr. Kazi Muhammad Mahmudul Hasan</h2>
-          <p class="text-theme fs-xs">Associate Professor<br>Department of Anesthesiology</p>
+          <p class="text-theme fs-xs">MBBS, DA <br><br> Associate Professor<br>Department of Anesthesiology</p>
           <div style="text-align: justify;">
             <p class="fs-md text-title">
               <strong>Assoc. Prof. Dr. Kazi Muhammad Mahmudul Hasan</strong> is a dedicated anesthesiologist with years of experience in providing safe and effective anesthesia care across a wide range of surgical procedures. Currently serving as Associate Professor in the Department of Anesthesiology at MH Samorita Hospital & Medical College, he is actively involved in both patient management and academic training. His clinical focus includes general anesthesia, regional blocks and critical patient monitoring. He is known for his precision and calm leadership in high-pressure environments.

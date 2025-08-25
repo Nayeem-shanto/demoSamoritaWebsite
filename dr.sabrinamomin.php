@@ -8,7 +8,7 @@
     data-parallax-image="assets/img/breadcurmb/breadcurmb-1-1.jpg"></div>
   <div class="container z-index-common">
     <div class="breadcumb-content">
-      <h1 class="breadcumb-title" style="color: whitesmoke;"></h1>
+      <h1 class="breadcumb-title">Department of Medicine</h1>
       <div class="breadcumb-menu-wrap">
         <i class="far fa-home-lg"></i>
         <ul class="breadcumb-menu">
@@ -77,7 +77,7 @@
       <div class="col-lg-7">
         <div class="team-content">
           <h2 class="mb-0 mt-n2">Asst. Prof. Dr. Sabrina Momin</h2>
-          <h3 class="text-theme fs-xs">Assistant Professor<br> Department of Medicine</h3>
+          <h3 class="text-theme fs-xs">MBBS, FCPS (Medicine), MRCP (UK), CCD (BIRDEM) <br><br> Assistant Professor<br> Department of Medicine</h3>
           <p class="fs-md text-title" style="text-align: justify;">
             <strong>Asst. Prof. Dr. Sabrina Momin</strong> is a respected and experienced physician specializing in Internal Medicine. With over 16 years of clinical and academic experience, she is known for her expertise in diagnosing complex medical conditions and managing chronic illnesses with a patient-centered approach. Her calm, thorough and evidence-based treatment plans have made her a trusted name in medicine. Earlier she worked in different hospitals in Dhaka i.e. Evercare Hospital, United Hospital Limited.
           </p>

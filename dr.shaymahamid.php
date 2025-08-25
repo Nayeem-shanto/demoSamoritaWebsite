@@ -8,7 +8,7 @@
     data-parallax-image="assets/img/breadcurmb/breadcurmb-1-1.jpg"></div>
   <div class="container z-index-common">
     <div class="breadcumb-content">
-      <h1 class="breadcumb-title" style="color: whitesmoke;"></h1>
+      <h1 class="breadcumb-title">Department of Medicine</h1>
       <div class="breadcumb-menu-wrap">
         <i class="far fa-home-lg"></i>
         <ul class="breadcumb-menu">
@@ -77,7 +77,7 @@
       <div class="col-lg-7">
         <div class="team-content">
           <h2 class="mb-0 mt-n2">Asst. Prof. Dr. Shayma Hamid </h2>
-          <h3 class="text-theme fs-xs">Assistant Professor<br> Department of Transfusion Medicine</h3>
+          <h3 class="text-theme fs-xs">MBBS, DBS&T, MCPS (Transfusion Medicine), CCD (BIRDEM) <br><br> Assistant Professor<br> Department of Transfusion Medicine</h3>
           <p class="fs-md text-title" style="text-align: justify;">
             <strong>Asst. Prof. Dr. Shayma Hamid</strong> is a dedicated and detail-oriented specialist in Transfusion Medicine, with expertise in managing blood transfusion services, immunohematology and blood banking. With several years of clinical and laboratory experience, she ensures safe, compatible and effective transfusion practices for a wide range of medical and surgical patients. In MH Samorita Hospital & Medical College she oversees blood safety, donor screening and transfusion-related decision-making for inpatients and emergency services.
           </p>

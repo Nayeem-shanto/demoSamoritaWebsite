@@ -8,7 +8,7 @@
     data-parallax-image="assets/img/breadcurmb/cardiology.jpg"></div>
   <div class="container z-index-common">
     <div class="breadcumb-content">
-      <h1 class="breadcumb-title">Department of Cardiology</h1>
+      <h1 class="breadcumb-title">Department of Anesthesiology</h1>
       <div class="breadcumb-menu-wrap">
         <i class="far fa-home-lg"></i>
         <ul class="breadcumb-menu">
@@ -75,7 +75,7 @@
       <div class="col-lg-7">
         <div class="team-content">
           <h2 class="mb-0 mt-n2">Asst. Prof. Dr. Md. Mahbub Hassan</h2>
-          <p class="text-theme fs-xs">MBBS, DA <br> Assistant Professor<br>Department of Anesthesiology</p>
+          <p class="text-theme fs-xs">MBBS, DA <br><br> Assistant Professor<br>Department of Anesthesiology</p>
           <div style="text-align: justify;">
             <p class="fs-md text-title">
               <strong>Asst. Prof. Dr. Md. Mahbub Hassan</strong> is a committed anesthesiologist with sound expertise in modern anesthesia techniques and perioperative patient care. Currently serving as Assistant Professor in the Department of Anesthesiology at MH Samorita Hospital & Medical College, he plays a vital role in clinical anesthesia services and medical education. He is recognized for his calm precision in the operating room and dedication to safety in surgical environments. His academic contributions support the development of future anesthesiologists.

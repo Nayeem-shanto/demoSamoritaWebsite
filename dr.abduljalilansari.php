@@ -8,7 +8,7 @@
     data-parallax-image="assets/img/breadcurmb/breadcurmb-1-1.jpg"></div>
   <div class="container z-index-common">
     <div class="breadcumb-content">
-      <h1 class="breadcumb-title" style="color: whitesmoke;"></h1>
+      <h1 class="breadcumb-title">Department of Medicine</h1>
       <div class="breadcumb-menu-wrap">
         <i class="far fa-home-lg"></i>
         <ul class="breadcumb-menu">
@@ -73,7 +73,7 @@
       <div class="col-lg-7">
         <div class="team-content">
           <h2 class="mb-0 mt-n2">Prof. Dr. Md. Abdul Jalil Ansari</h2>
-          <h3 class="text-theme fs-xs">Principal<br> Head of Department <br>Department of Endocrinology & Lifestyle Medicine </h3>
+          <h3 class="text-theme fs-xs">MBBS, MCPS (Medicine), MD (Endocrinology & Metabolism) <br><br> Principal<br> Head of Department <br>Department of Endocrinology & Lifestyle Medicine </h3>
           <p class="fs-md text-title" style="text-align: justify;">
             <strong>Prof. Dr. Md. Abdul Jalil Ansari</strong> is a senior endocrinologist and medicine specialist with over 35 years with vast experience in treating complex hormonal and metabolic disorders. He is one of the most respected figures in Bangladesh’s endocrinology community and is widely known for his expertise in managing diabetes, thyroid disorders, obesity and hormonal imbalances. His leadership in both clinical practice and medical education has made a lasting impact on the field.
           </p>
