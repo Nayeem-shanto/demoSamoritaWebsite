@@ -48,7 +48,7 @@
                 <a href="#"><i class="fab fa-linkedin-in"></i></a> -->
           </div>
 
-          <a href="https://verify.bmdc.org.bd/" class="certifate-link"><span style="color: #07ccec; :hover {color: #FFFFFF;}">BMDC Registration Number: A- 60823 </span>
+          <a href="https://verify.bmdc.org.bd/" class="certifate-link"><span style="color: #07ccec; :hover {color: #FFFFFF;}">BMDC Registration Number: A-39141 </span>
             <i class="far fa-chevron-circle-right"></i></a>
         </div>
 
@@ -74,27 +74,25 @@
       </div>
       <div class="col-lg-7">
         <div class="team-content">
-          <h2 class="mb-0 mt-n2">Assoc. Prof. Dr. Kazi Muhammad Mahmudul Hasan</h2>
-          <p class="text-theme fs-xs">Associate Professor<br>Department of Anesthesiology</p>
+          <h2 class="mb-0 mt-n2">Asst. Prof. Dr. Md. Mahbub Hassan</h2>
+          <p class="text-theme fs-xs">MBBS, DA <br> Assistant Professor<br>Department of Anesthesiology</p>
           <div style="text-align: justify;">
             <p class="fs-md text-title">
-              <strong>Assoc. Prof. Dr. Kazi Muhammad Mahmudul Hasan</strong> is a dedicated anesthesiologist with years of experience in providing safe and effective anesthesia care across a wide range of surgical procedures. Currently serving as Associate Professor in the Department of Anesthesiology at MH Samorita Hospital & Medical College, he is actively involved in both patient management and academic training. His clinical focus includes general anesthesia, regional blocks and critical patient monitoring. He is known for his precision and calm leadership in high-pressure environments.
+              <strong>Asst. Prof. Dr. Md. Mahbub Hassan</strong> is a committed anesthesiologist with sound expertise in modern anesthesia techniques and perioperative patient care. Currently serving as Assistant Professor in the Department of Anesthesiology at MH Samorita Hospital & Medical College, he plays a vital role in clinical anesthesia services and medical education. He is recognized for his calm precision in the operating room and dedication to safety in surgical environments. His academic contributions support the development of future anesthesiologists.
             </p>
           </div>
           <table class="member-table">
             <tbody style="background-color: #f3f6f7;">
               <tr>
                 <th><strong>Specialty</strong></th>
-                <td> Anesthesiology and Perioperative Care <br>
-                  Special trained in Pain Medicine from Daradia Pain Centre, Inadia
-                </td>
+                <td> Anesthesiology and Surgical Patient Management</td>
               </tr>
               <tr>
                 <th><strong>Degrees</strong></th>
                 <td>
                   <ul class="member-info-list">
-                    <li>MBBS – Enam Medical College, University of Dhaka.</li>
-                    <li>DA (Diploma in Anesthesiology) – Bangladesh Medical University (BMU).</li>
+                    <li>MBBS – Rangpur Medical College, University of Rajshahi.</li>
+                    <li>DA (Diploma in Anesthesiology) – Dhaka Medical College, BMU.</li>
                   </ul>
                 </td>
               </tr>
@@ -102,15 +100,16 @@
                 <th><strong>Areas of Expertise</strong></th>
                 <td>
                   <ul class="member-info-list">
-                    <li>General and regional anesthesia administration</li>
-                    <li>Spinal and epidural anesthesia for major surgeries</li>
-                    <li>Anesthesia for orthopedic, gynecological and laparoscopic procedures</li>
-                    <li>Pain management and postoperative care</li>
-                    <li>Emergency airway management and resuscitation</li>
+                    <li>General and regional anesthesia</li>
+                    <li>Spinal, epidural and nerve block techniques</li>
+                    <li>Intraoperative monitoring and sedation</li>
+                    <li>Postoperative pain management</li>
+                    <li>Anesthesia in laparoscopic and trauma surgeries</li>
                     <li>Pediatric and obstetric anesthesia</li>
-                    <li>Intraoperative monitoring and critical care coordination</li>
-                    <li>Infection control in operating rooms</li>
-                    <li>Skilled in Neurosurgical Anesthesia</li>
+                    <li>Emergency response and critical care coordination</li>
+                    <li>Infection control in anesthesia practice</li>
+                    <li>Neuro anesthesia</li>
+                    <li>Cardiac anesthesia</li>
                   </ul>
                 </td>
               </tr>
