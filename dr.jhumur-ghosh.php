@@ -61,9 +61,6 @@
                 <td>Room No:</td>
                 <td>303</td>
               </tr>
-
-
-
             </tbody>
           </table>
           <a href="tel:66925682596" class="vs-btn style2">+88 02 8878080<i class="fas fa-phone"></i></a>

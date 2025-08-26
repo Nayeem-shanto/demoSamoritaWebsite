@@ -331,41 +331,6 @@
         <div class="team-card-ten">
           <div class="team-img-ten">
             <a href="#"> <!-- image clickable -->
-              <img src="assets/img/team/avatar-male.png" alt="">
-            </a>
-            <span class="share-icon-ten fa fa-share-alt"></span>
-            <div class="social-links-ten">
-              <a href="#"><i class="fab fa-instagram"></i></a>
-              <a href="#"><i class="fab fa-twitter"></i></a>
-              <a href="#"><i class="fab fa-facebook"></i></a>
-            </div>
-          </div>
-          <div class="info-box-ten text-center"> <!-- center aligned content -->
-            <h4 class="name"><a href="dr.mostafijurrahman.php"><span style="font-size: 16px; color:#07ccec;">Dr. Md. Mostafijur Rahaman</span></a></h4>
-            <p class="designation"><br>Registrar<br><span style="font-size: small;">Department of Medicine</span></p>
-            <p class="designation"><span style="color:#07ccec;">Specialty : <br><br></span>General Surgery (in training)</p>
-            <p class="designation"><span style="color:#07ccec;">Degrees : <br><br></span>MBBS, FCPS-1</p>
-
-            <div style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
-              <p class="mt-2" style="margin: 0;">
-                <a href="dr.mostafijurrahman.php" class="btn btn-sm btn-outline-primary">View Profile</a>
-              </p>
-
-              <p class="mt-2" style="margin: 0;">
-                <a href="tel:+88028878080" class="btn btn-sm btn-outline-primary">Get Appointment</a>
-              </p>
-            </div>
-          </div>
-        </div>
-
-      </div>
-      <!-- Doctor 8 end -->
-
-      <!-- Doctor 9 start -->
-      <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay="400ms" style="padding-top: 50px;">
-        <div class="team-card-ten">
-          <div class="team-img-ten">
-            <a href="#"> <!-- image clickable -->
               <img src="assets/img/team/avatar-female.png" alt="">
             </a>
             <span class="share-icon-ten fa fa-share-alt"></span>
@@ -394,6 +359,42 @@
         </div>
 
       </div>
+      <!-- Doctor 8 end -->
+
+      <!-- Doctor 9 start -->
+       <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay="400ms" style="padding-top: 50px;">
+        <div class="team-card-ten">
+          <div class="team-img-ten">
+            <a href="#"> <!-- image clickable -->
+              <img src="assets/img/team/avatar-male.png" alt="">
+            </a>
+            <span class="share-icon-ten fa fa-share-alt"></span>
+            <div class="social-links-ten">
+              <a href="#"><i class="fab fa-instagram"></i></a>
+              <a href="#"><i class="fab fa-twitter"></i></a>
+              <a href="#"><i class="fab fa-facebook"></i></a>
+            </div>
+          </div>
+          <div class="info-box-ten text-center"> <!-- center aligned content -->
+            <h4 class="name"><a href="dr.mostafijurrahman.php"><span style="font-size: 16px; color:#07ccec;">Dr. Md. Mostafijur Rahaman</span></a></h4>
+            <p class="designation"><br>Registrar<br><span style="font-size: small;">Department of Medicine</span></p>
+            <p class="designation"><span style="color:#07ccec;">Specialty : <br><br></span>General Surgery (in training)</p>
+            <p class="designation"><span style="color:#07ccec;">Degrees : <br><br></span>MBBS, FCPS-1</p>
+
+            <div style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
+              <p class="mt-2" style="margin: 0;">
+                <a href="dr.mostafijurrahman.php" class="btn btn-sm btn-outline-primary">View Profile</a>
+              </p>
+
+              <p class="mt-2" style="margin: 0;">
+                <a href="tel:+88028878080" class="btn btn-sm btn-outline-primary">Get Appointment</a>
+              </p>
+            </div>
+          </div>
+        </div>
+
+      </div>
+      
       <!-- Doctor 9 end -->
 
       <!-- Doctor 10 start -->
