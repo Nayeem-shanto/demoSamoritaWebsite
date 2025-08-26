@@ -75,7 +75,7 @@
       <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay="400ms" style="padding-top: 50px;">
         <div class="team-card-ten">
   <div class="team-img-ten">
-    <a href="#"> <!-- image clickable -->
+    <a href="dr.sirajulislam.php"> <!-- image clickable -->
       <img src="assets/img/team/avatar-male.png" alt="">
     </a>
     <span class="share-icon-ten fa fa-share-alt"></span>
@@ -86,7 +86,7 @@
     </div>
   </div>
   <div class="info-box-ten text-center"> <!-- center aligned content -->
-    <h4 class="name"><a href="#"><span style="font-size: 16px; color:#07ccec;">Prof. Dr. Md. Sirajul Islam</span></a></h4>
+    <h4 class="name"><a href="dr.sirajulislam.php"><span style="font-size: 16px; color:#07ccec;">Prof. Dr. Md. Sirajul Islam</span></a></h4>
     <div>
         <p class="designation">Professor (CC) <br><span style="font-size: small;">Department of Anesthesiology</span> </p>
       <p class="designation"><span style="color:#07ccec;">Specialty : <br><br> </span>Anesthesiology</p>
@@ -95,7 +95,7 @@
 
     <div style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
         <p class="mt-2" style="margin: 0;">
-        <a href="#" class="btn btn-sm btn-outline-primary">View Profile</a>
+        <a href="dr.sirajulislam.php" class="btn btn-sm btn-outline-primary">View Profile</a>
       </p>
 
       <p class="mt-2" style="margin: 0;">
