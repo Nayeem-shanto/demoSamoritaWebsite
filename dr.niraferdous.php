@@ -95,7 +95,7 @@
               <table class="member-table">
                 <tbody>
                   <tr>
-                    <th><strong>Speciality</strong></th>
+                    <th><strong>specialty</strong></th>
                     <td>Internal Medicine</td>
                   </tr>
                   <tr>

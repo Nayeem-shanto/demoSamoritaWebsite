@@ -100,7 +100,7 @@
               <table class="member-table" style="background-color: #f3f6f7;">
                 <tbody>
                   <tr>
-                    <th><strong>Speciality</strong></th>
+                    <th><strong>specialty</strong></th>
                     <td>----------------------</td>
                   </tr>
                   <tr>
