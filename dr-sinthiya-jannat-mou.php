@@ -29,7 +29,7 @@
                 <div class="member-header mb-40 overflow-hidden rounded-3 position-relative">
                     <div class="member-details-img">
                         <img
-                            src="assets/img/team/avatar-details-profile.png"
+                            src="assets/img/team/avatar-female.png"
                             alt="Member Image"
                             class="w-100" />
                     </div>
@@ -41,7 +41,7 @@
                     </div>
 
                     <a href="https://verify.bmdc.org.bd/" class="certifate-link">
-                        <span style="color: #07ccec;">BMDC Registration Number: A- 72789</span>
+                        <span style="color: #07ccec;">BMDC Registration Number: A- 110496</span>
                         <i class="far fa-chevron-circle-right"></i>
                     </a>
                 </div>
@@ -52,11 +52,11 @@
                         <tbody>
                             <tr>
                                 <td>Saturday - Thursday</td>
-                                <td>9.00 AM - 1.00 PM</td>
+                                <td>8.00 AM - 2.00 PM</td>
                             </tr>
                             <tr>
                                 <td>Room No:</td>
-                                <td>214</td>
+                                <td>N/A</td>
                             </tr>
                         </tbody>
                     </table>
@@ -68,27 +68,27 @@
 
             <div class="col-lg-7">
                 <div class="team-content">
-                    <h2 class="mb-0 mt-n2">Asst. Prof. Dr. Mofazzal Hossain</h2>
+                    <h2 class="mb-0 mt-n2">Dr. Sinthia Jannat Mou</h2>
                     <h3 class="text-theme fs-xs">
-                        MBBS, MS (ENT)<br><br>
-                        Assistant Professor <br> Department of ENT
+                        MBBS<br><br>
+                        Assistant Registrar<br> Department of ENT
                     </h3>
                     <p class="fs-md text-title" style="text-align: justify;">
-                        <strong>Asst. Prof. Dr. Mofazzal Hossain</strong> is a skilled ENT specialist with over 15 years of experience in diagnosing and managing a wide range of ear, nose and throat conditions. He serves as Assistant Professor (cc) in the Department of ENT at MH Samorita Hospital & Medical College. His clinical interests include Endoscopic Sinus Surgery, Microsurgery of the ear, Bronchoscopy Surgery and Thyroid Surgery. Dr. Hossain is recognized for his compassionate approach, meticulous techniques and dedication to continuous medical education.
+                        <strong>Dr. Sinthia Jannat Mou</strong> is a young and dedicated ENT specialist with focused training in managing common and complex conditions related to the ear, nose and throat. She currently serves as Assistant Registrar in the Department of ENT at MH Samorita Hospital & Medical College. Known for her patient-friendly communication and attention to detail, she actively supports surgical procedures and academic rounds. Her clinical approach combines precision with compassion for patients of all ages.
                     </p>
 
                     <table class="member-table" style="background-color: #f3f6f7;">
                         <tbody>
                             <tr>
                                 <th><strong>Specialty</strong></th>
-                                <td>ENT (Ear, Nose and Throat) and Head-Neck Surgery</td>
+                                <td>ENT (Ear, Nose and Throat)</td>
                             </tr>
                             <tr>
                                 <th><strong>Degrees</strong></th>
                                 <td>
                                     <ul class="member-info-list">
-                                        <li>MBBS – Jahurul Islam Medical College, University of Dhaka</li>
-                                        <li>MS (ENT & Head Neck Surgery) – Bangladesh Medical University (BMU)</li>
+                                        <li>MBBS – MH Samorita Hospital & Medical College, University of Dhaka</li>
+
                                     </ul>
                                 </td>
                             </tr>
@@ -96,19 +96,14 @@
                                 <th><strong>Areas of Expertise</strong></th>
                                 <td>
                                     <ul class="member-info-list">
-                                        <li>Endoscopic Nasal and Sinus Surgery (FESS)</li>
-                                        <li>Ear Microsurgery (Tympanoplasty and Mastoidectomy)</li>
-                                        <li>Tonsillectomy, Adenoidectomy and Septoplasty</li>
-                                        <li>Nasal Blockage and Polyp Treatment</li>
-                                        <li>Thyroid and Salivary Gland Surgery</li>
-                                        <li>Snoring and Sleep Apnea Management</li>
-                                        <li>Pediatric ENT Conditions</li>
-                                        <li>Hearing and Voice Disorders</li>
-                                        <li>Vocal Cord Surgery</li>
-                                        <li>Laryngology</li>
-                                        <li>Tracheostomy</li>
-                                        <li>Microlaryngeal Surgery</li>
-                                        <li>FOL and Bronchoscopy</li>
+                                        <li>Ear infections, wax impaction and hearing loss</li>
+                                        <li>Nasal congestion, sinusitis and allergic rhinitis</li>
+                                        <li>Tonsillitis, adenoid problems and sore throat</li>
+                                        <li>Basic ENT diagnostic procedures</li>
+                                        <li>Endoscopic support and minor surgical assistance</li>
+                                        <li>Pediatric ENT checkups</li>
+                                        <li>Preoperative and postoperative ENT care</li>
+                                        <li>Patient education on ENT hygiene and disease prevention</li>
                                     </ul>
                                 </td>
                             </tr>

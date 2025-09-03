@@ -13,7 +13,7 @@
                 <i class="far fa-home-lg"></i>
                 <ul class="breadcumb-menu">
                     <li><a href="index-4.php">Home</a></li>
-                    <li><a href="alldoctor.php">Doctor Details</a></li>
+                    <li><a href="#">Doctor Details</a></li>
 
                 </ul>
             </div>
