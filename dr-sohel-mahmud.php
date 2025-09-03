@@ -30,7 +30,7 @@
           class="member-header mb-40 overflow-hidden rounded-3 position-relative">
           <div class="member-details-img">
             <img
-              src="assets/img/team/Sabbir-Quadir.png"
+              src="assets/img/team/avatar-details-profile.png"
               alt="Member Image"
               class="w-100" />
           </div>
@@ -41,7 +41,7 @@
             </div>
           </div>
 
-          <a href="https://verify.bmdc.org.bd/" class="certifate-link"><span style="color: #07ccec; :hover {color: #FFFFFF;}">BMDC Registration Number: A-14170</span><i
+          <a href="https://verify.bmdc.org.bd/" class="certifate-link"><span style="color: #07ccec; :hover {color: #FFFFFF;}">BMDC Registration Number:A-48104 </span><i
               class="far fa-chevron-circle-right"></i></a>
         </div>
 
@@ -66,24 +66,28 @@
       </div>
       <div class="col-lg-7">
         <div class="team-content">
-          <h2 class="mb-0 mt-n2">Prof. Dr. Md. Sabbir Quadir</h2>
-          <h3 class="text-theme fs-xs">MBBS, FCPS (Ophthalmology) <br><br>Professor & Head of Department <br>Department of Ophthalmology</h3>
+          <h2 class="mb-0 mt-n2">Asst. Prof. Dr. Sohel Mahmud</h2>
+          <h3 class="text-theme fs-xs">MBBS, DO, MCPS (Ophthalmology) <br><br>Assistant Professor (CC) <br>Department of Ophthalmology</h3>
           <p class="fs-md text-title" style="text-align: justify;">
-            <strong>Prof. Dr. Md. Sabbir Quadir</strong> is a distinguished ophthalmologist and academic leader with decades of experience in eye care, surgery and ophthalmic education. As Professor and Head of the Department of Ophthalmology at MH Samorita Hospital & Medical College, he plays a key role in both patient care and postgraduate training. Dr. Quadir is widely recognized for his surgical excellence, leadership and commitment to advancing the field of ophthalmology in home & abroad. With his extensive clinical and academic background, he is trusted by patients and peers alike for handling complex eye conditions and leading surgical programs.
+            <strong>Asst. Prof. Dr. Sohel Mahmud</strong> is a skilled ophthalmologist currently serving as Assistant Professor (CC) in the Department of Ophthalmology at MH Samorita Hospital & Medical College. He is actively involved in both clinical eye care and academic instruction. Dr. Mahmud is known for his expertise in anterior & posterior segment surgeries, diagnostic accuracy and compassionate patient care. His practice covers a wide range of ophthalmic conditions including cataract, retinal disease, ROP and refractive disorders.
           </p>
 
           <table class="member-table" style="background-color: #f3f6f7;">
             <tbody>
               <tr>
                 <th><strong>Specialty</strong></th>
-                <td>Cataract, Glaucoma, Corneal & Uveal Disease</td>
+                <td>Cataract, Vitreoretinal Surgery, Retinopathy of Prematurity</td>
               </tr>
               <tr>
                 <th><strong>Degrees</strong></th>
                 <td>
                   <ul class="member-info-list">
-                    <li>MBBS – Dhaka Medical College, University of Dhaka</li>
-                    <li>FCPS (Ophthalmology) – Bangladesh College of Physicians & Surgeons (BCPS)</li>
+                    <li>MBBS – Rajshahi Medical College, University of Rajshahi</li>
+                    <li>DO (Diploma in Ophthalmology) – BMU</li>
+                    <li>MCPS (Ophthalmology) – BCPS</li>
+                    <li>Long Term Fellowship (Cataract Surgery) – IIEI&H</li>
+                    <li>Long Term Fellowship (Vitreoretinal Surgery) – IIEI&H</li>
+                    <li>ROP – LV Prashad Eye Institute, Hyderabad, India</li>
                   </ul>
                 </td>
               </tr>
@@ -91,14 +95,16 @@
                 <th><strong>Areas of Expertise</strong></th>
                 <td>
                   <ul class="member-info-list">
-                    <li>Advanced cataract surgery (Phacoemulsification)</li>
-                    <li>Glaucoma diagnosis and surgical management</li>
-                    <li>Diabetic eye disease and retinopathy screening</li>
-                    <li>Refractive disorders and vision correction</li>
-                    <li>Ocular surface and anterior segment diseases</li>
-                    <li>Pediatric ophthalmology</li>
-                    <li>Oculoplastic and eyelid surgery</li>
-                    <li>Academic supervision and surgical training</li>
+                    <li>Cataract surgery</li>
+                    <li>Glaucoma screening and management</li>
+                    <li>Refractive error correction</li>
+                    <li>Ocular surface and lid disorders</li>
+                    <li>Anterior & posterior segment evaluation</li>
+                    <li>Pediatric and adult eye checkups</li>
+                    <li>Retinopathy of Prematurity (ROP) screening</li>
+                    <li>Retinal disease diagnosis, treatment and surgery</li>
+                    <li>Post-operative care and follow-up</li>
+                    <li>Minor ophthalmic procedures</li>
                   </ul>
                 </td>
               </tr>

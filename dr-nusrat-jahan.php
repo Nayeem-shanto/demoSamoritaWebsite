@@ -30,7 +30,7 @@
           class="member-header mb-40 overflow-hidden rounded-3 position-relative">
           <div class="member-details-img">
             <img
-              src="assets/img/team/Sabbir-Quadir.png"
+              src="assets/img/team/avatar-details-profile.png"
               alt="Member Image"
               class="w-100" />
           </div>
@@ -41,7 +41,7 @@
             </div>
           </div>
 
-          <a href="https://verify.bmdc.org.bd/" class="certifate-link"><span style="color: #07ccec; :hover {color: #FFFFFF;}">BMDC Registration Number: A-14170</span><i
+          <a href="https://verify.bmdc.org.bd/" class="certifate-link"><span style="color: #07ccec; :hover {color: #FFFFFF;}">BMDC Registration Number:A-123741 </span><i
               class="far fa-chevron-circle-right"></i></a>
         </div>
 
@@ -66,24 +66,23 @@
       </div>
       <div class="col-lg-7">
         <div class="team-content">
-          <h2 class="mb-0 mt-n2">Prof. Dr. Md. Sabbir Quadir</h2>
-          <h3 class="text-theme fs-xs">MBBS, FCPS (Ophthalmology) <br><br>Professor & Head of Department <br>Department of Ophthalmology</h3>
+          <h2 class="mb-0 mt-n2">Dr. Nusrat Jahan</h2>
+          <h3 class="text-theme fs-xs">MBBS <br><br>Assistant Registrar <br>Department of Ophthalmology</h3>
           <p class="fs-md text-title" style="text-align: justify;">
-            <strong>Prof. Dr. Md. Sabbir Quadir</strong> is a distinguished ophthalmologist and academic leader with decades of experience in eye care, surgery and ophthalmic education. As Professor and Head of the Department of Ophthalmology at MH Samorita Hospital & Medical College, he plays a key role in both patient care and postgraduate training. Dr. Quadir is widely recognized for his surgical excellence, leadership and commitment to advancing the field of ophthalmology in home & abroad. With his extensive clinical and academic background, he is trusted by patients and peers alike for handling complex eye conditions and leading surgical programs.
+            <strong>Dr. Nusrat Jahan</strong> is a dedicated ophthalmologist currently serving as Assistant Registrar in the Department of Ophthalmology at MH Samorita Hospital & Medical College. She is actively involved in outpatient eye care, surgical assistance and academic support. Dr. Jahan is appreciated for her careful clinical approach, precision in diagnosis and commitment to patient well-being. Her clinical responsibilities include managing common and complex eye conditions under the supervision of senior faculty.
           </p>
 
           <table class="member-table" style="background-color: #f3f6f7;">
             <tbody>
               <tr>
                 <th><strong>Specialty</strong></th>
-                <td>Cataract, Glaucoma, Corneal & Uveal Disease</td>
+                <td>Ophthalmology (Eye Diseases and Surgery)</td>
               </tr>
               <tr>
                 <th><strong>Degrees</strong></th>
                 <td>
                   <ul class="member-info-list">
-                    <li>MBBS – Dhaka Medical College, University of Dhaka</li>
-                    <li>FCPS (Ophthalmology) – Bangladesh College of Physicians & Surgeons (BCPS)</li>
+                    <li>MBBS</li>
                   </ul>
                 </td>
               </tr>
@@ -91,14 +90,13 @@
                 <th><strong>Areas of Expertise</strong></th>
                 <td>
                   <ul class="member-info-list">
-                    <li>Advanced cataract surgery (Phacoemulsification)</li>
-                    <li>Glaucoma diagnosis and surgical management</li>
-                    <li>Diabetic eye disease and retinopathy screening</li>
-                    <li>Refractive disorders and vision correction</li>
-                    <li>Ocular surface and anterior segment diseases</li>
-                    <li>Pediatric ophthalmology</li>
-                    <li>Oculoplastic and eyelid surgery</li>
-                    <li>Academic supervision and surgical training</li>
+                    <li>Eye examination and vision assessment</li>
+                    <li>Cataract screening and follow-up</li>
+                    <li>Glaucoma monitoring</li>
+                    <li>Refractive error management</li>
+                    <li>Pre and post-operative patient care</li>
+                    <li>Minor ophthalmic procedures</li>
+                    <li>Patient counseling and education</li>
                   </ul>
                 </td>
               </tr>

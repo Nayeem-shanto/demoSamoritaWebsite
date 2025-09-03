@@ -12,7 +12,7 @@
                     <i class="far fa-home-lg"></i>
                     <ul class="breadcumb-menu">
                         <li><a href="index-4.php">Home</a></li>
-                        <li><a href="ENT.php">Anesthesiology</a></li>
+                        <li><a href="anesthesiology.php">Anesthesiology</a></li>
                     
                     </ul>
                 </div>
@@ -184,7 +184,7 @@ Hasan</span></a></h4>
       <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay="400ms" style="padding-top: 50px;">
         <div class="team-card-ten">
   <div class="team-img-ten">
-    <a href="#"> <!-- image clickable -->
+    <a href="dr.mohiuddin.php"> <!-- image clickable -->
       <img src="assets/img/team/avatar-male.png" alt="">
     </a>
     <span class="share-icon-ten fa fa-share-alt"></span>
@@ -195,14 +195,14 @@ Hasan</span></a></h4>
     </div>
   </div>
   <div class="info-box-ten text-center"> <!-- center aligned content -->
-    <h4 class="name"><a href="#"><span style="font-size: 16px; color:#07ccec;">Dr. Mohiuddin Ahmed</span></a></h4>
+    <h4 class="name"><a href="dr.mohiuddin.php"><span style="font-size: 16px; color:#07ccec;">Dr. Mohiuddin Ahmed</span></a></h4>
     <p class="designation"> Senior Consultant<br> <span style="font-size: small;">Department of Anesthesiology</span></p>
     <p class="designation"><span style="color:#07ccec;">Specialty : <br> <br></span>Anesthesiology</p>
     <p class="designation"><span style="color:#07ccec;">Degrees : <br><br></span> MBBS, FCPS</p>
 
     <div style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
         <p class="mt-2" style="margin: 0;">
-        <a href="#" class="btn btn-sm btn-outline-primary">View Profile</a>
+        <a href="dr.mohiuddin.php" class="btn btn-sm btn-outline-primary">View Profile</a>
       </p>
 
       <p class="mt-2" style="margin: 0;">
@@ -218,7 +218,7 @@ Hasan</span></a></h4>
       <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay="400ms" style="padding-top: 50px;">
         <div class="team-card-ten">
   <div class="team-img-ten">
-    <a href="#"> <!-- image clickable -->
+    <a href="dr.fahmida-hoque.php"> <!-- image clickable -->
       <img src="assets/img/team/avatar-female.png" alt="">
     </a>
     <span class="share-icon-ten fa fa-share-alt"></span>
@@ -229,14 +229,14 @@ Hasan</span></a></h4>
     </div>
   </div>
   <div class="info-box-ten text-center"> <!-- center aligned content -->
-    <h4 class="name"><a href="#"><span style="font-size: 16px; color:#07ccec;">Dr. Fahmida Haque</span></a></h4>
+    <h4 class="name"><a href="dr.fahmida-hoque.php"><span style="font-size: 16px; color:#07ccec;">Dr. Fahmida Haque</span></a></h4>
     <p class="designation"> (Replacement), Registar<br> <span style="font-size: small;">Department of Anesthesiology</span></p>
     <p class="designation"><span style="color:#07ccec;">Specialty : <br> <br></span>Anesthesiology</p>
     <p class="designation"><span style="color:#07ccec;">Degrees : <br><br></span> MBBS, DA</p>
 
     <div style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
         <p class="mt-2" style="margin: 0;">
-        <a href="#" class="btn btn-sm btn-outline-primary">View Profile</a>
+        <a href="dr.fahmida-hoque.php" class="btn btn-sm btn-outline-primary">View Profile</a>
       </p>
 
       <p class="mt-2" style="margin: 0;">
@@ -253,7 +253,7 @@ Hasan</span></a></h4>
       <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay="400ms" style="padding-top: 50px;">
         <div class="team-card-ten">
   <div class="team-img-ten">
-    <a href="#"> <!-- image clickable -->
+    <a href="dr.sumaiya-mukta.php"> <!-- image clickable -->
       <img src="assets/img/team/avatar-female.png" alt="">
     </a>
     <span class="share-icon-ten fa fa-share-alt"></span>
@@ -264,14 +264,14 @@ Hasan</span></a></h4>
     </div>
   </div>
   <div class="info-box-ten text-center"> <!-- center aligned content -->
-    <h4 class="name"><a href="#"><span style="font-size: 16px; color:#07ccec;">Dr. Sumaiya Nahar Mukta (S.L)</span></a></h4>
+    <h4 class="name"><a href="dr.sumaiya-mukta.php"><span style="font-size: 16px; color:#07ccec;">Dr. Sumaiya Nahar Mukta (S.L)</span></a></h4>
     <p class="designation"> Registrar<br> <span style="font-size: small;">Department of Anesthesiology</span></p>
     <p class="designation"><span style="color:#07ccec;">Specialty : <br> <br></span>Anesthesiology</p>
     <p class="designation"><span style="color:#07ccec;">Degrees : <br><br></span> MBBS, DA</p>
 
     <div style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
         <p class="mt-2" style="margin: 0;">
-        <a href="#" class="btn btn-sm btn-outline-primary">View Profile</a>
+        <a href="dr.sumaiya-mukta.php" class="btn btn-sm btn-outline-primary">View Profile</a>
       </p>
 
       <p class="mt-2" style="margin: 0;">

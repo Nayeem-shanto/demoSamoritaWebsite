@@ -71,7 +71,7 @@
         <div class="team-content">
           <h2 class="mb-0 mt-n2">Asst. Prof. Dr. Supriya Sarkar</h2>
           <p class="text-theme fs-xs">MBBS, FCPS (Physical Medicine)
-            <br><br>Assistant Professor <br> Department of Physical Medicine
+            <br><br>Assistant Professor <br> Department of Physical Medicine & Rehabilitation
           </p>
           <p class="fs-md text-title" style="text-align: justify;">
             <strong>Asst. Prof. Dr. Supriya Sarkar</strong> is a skilled and compassionate specialist in Physical Medicine and Rehabilitation, with a focus on restoring function, reducing pain and improving quality of life in patients with musculoskeletal and neurological conditions. With years of experience in non-surgical treatment, she has gained recognition for her patient-centered approach and effective management of physical disabilities and chronic pain.
