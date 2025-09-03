@@ -48,7 +48,7 @@
                 <a href="#"><i class="fab fa-linkedin-in"></i></a> -->
                     </div>
 
-                    <a href="https://verify.bmdc.org.bd/" class="certifate-link"><span style="color: #07ccec; :hover {color: #FFFFFF;}">BMDC Registration Number: </span>
+                    <a href="https://verify.bmdc.org.bd/" class="certifate-link"><span style="color: #07ccec; :hover {color: #FFFFFF;}">BMDC Registration Number: A-12217 </span>
                         <i class="far fa-chevron-circle-right"></i></a>
                 </div>
 

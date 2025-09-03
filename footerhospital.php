@@ -152,6 +152,8 @@
     <!--==============================
         All Js File
     ============================== -->
+    <!-- Bmdc registration -->
+     <script src="assets/js/bmdc.js"></script>
     <!-- Jquery -->
     <script src="assets/js/vendor/jquery-3.6.0.min.js"></script>
     <!-- Slick Slider -->

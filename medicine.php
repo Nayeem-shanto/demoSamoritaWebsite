@@ -439,7 +439,7 @@
 
 <!-- End team-section-two -->
 
-<section style="display: flex; justify-content: center; color:#27477d">
+ <section style="display: flex; justify-content: center; color:#27477d">
   <section>
     <div>
       <h3 style="text-decoration: underline; text-align: center; ">Patient Care Highlights</h3>
@@ -454,6 +454,7 @@
       </div>
     </div>
   </section>
-</section>
+</section> 
+
 
 <?php include 'footerhospital.php'; ?>
