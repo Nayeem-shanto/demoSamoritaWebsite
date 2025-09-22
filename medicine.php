@@ -96,9 +96,7 @@
           </div>
           <div class="info-box-ten text-center"> <!-- center aligned content -->
             <h4 class="name"><a href="dr.abduljalilansari.php"><span style="font-size: 16px; color:#07ccec;">Prof. Dr. Abdul Jalil Ansari</span></a></h4>
-            <p class="designation">Principal <br>Head of Department<br> <span style="font-size: small;">Department of Endocrinology</span> </p>
-            <p class="designation"><span style="color:#07ccec;">Specialty : <br> </span>Medicine, Diabetes and Hormone Specialist</p>
-            <p class="designation"><span style="color:#07ccec;">Degrees : <br></span>MBBS, MCPS (Medical), MD (Endocrinology & Metabolism)</p>
+            <p class="designation" style="font-size: 14px;">MBBS, MCPS (Medicine), MD (Endocrinology & Metabolism) <br> </p>
 
             <div style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
               <p class="mt-2" style="margin: 0;">
@@ -131,9 +129,7 @@
           </div>
           <div class="info-box-ten text-center"> <!-- center aligned content -->
             <h4 class="name"><a href="dr.dilipkumardhar.php"><span style="font-size: 16px; color:#07ccec;">Prof. Dr.Dilip Kumar Dhar</span></a></h4>
-            <p class="designation">Ex. Principal<br> <br><span style="font-size: small;">Department of Medicine</span> </p>
-            <p class="designation"><span style="color:#07ccec;">Specialty : <br> <br></span>Internal Medicine</p>
-            <p class="designation"><span style="color:#07ccec;">Degrees : <br></span>MBBS, FCPS (Medicine), <br> MD (Internal Medicine)</p>
+            <p class="designation" style="font-size: 14px;"><br>MBBS, FCPS (Medicine) <br> </p>
 
             <div style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
               <p class="mt-2" style="margin: 0;">
@@ -165,10 +161,9 @@
             </div>
           </div>
           <div class="info-box-ten text-center"> <!-- center aligned content -->
-            <h4 class="name"><a href="dr.md.sekenderali.php"><span style="font-size: 16px; color:#07ccec;">Dr. Md. Sekender Ali</span></a></h4>
-            <p class="designation">Associate Professor <br><br> <span style="font-size: small;">Department of Medicine</span></p>
-            <p class="designation"><span style="color:#07ccec;">Specialty : <br> <br></span>Internal Medicine</p>
-            <p class="designation"><span style="color:#07ccec;">Degrees : <br><br></span>MBBS, FCPS (Medicine)</p>
+            <h4 class="name"><a href="dr.md.sekenderali.php"><span style="font-size: 14px; color:#07ccec;">Assoc. Prof. Dr. Md. Sekender Ali</span></a></h4>
+            <p class="designation" style="font-size: 13px;"><br>MBBS (DMC), MRCP (UK) <br></p>
+            
 
             <div style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
               <p class="mt-2" style="margin: 0;">
@@ -200,10 +195,8 @@
             </div>
           </div>
           <div class="info-box-ten text-center"> <!-- center aligned content -->
-            <h4 class="name"><a href="dr.niraferdous.php"><span style="font-size: 16px; color:#07ccec;">Dr. Nira Ferdous </span></a></h4>
-            <p class="designation">Associate Professor & Consultant <br><span style="font-size: small;">Department of Medicine</span></p>
-            <p class="designation"><span style="color:#07ccec;">Specialty : <br> <br></span>Internal Medicine</p>
-            <p class="designation"><span style="color:#07ccec;">Degrees : <br><br></span>MBBS, FCPS (Medicine)</p>
+            <h4 class="name"><a href="dr.niraferdous.php"><span style="font-size: 14px; color:#07ccec;">Associate Prof. Dr. Nira Ferdous</span></a></h4>
+            <p class="designation" style="font-size: 13px;">MBBS, FCPS (Medicine), MRCP (UK), FACP (USA)</p>
 
             <div style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
               <p class="mt-2" style="margin: 0;">
@@ -362,7 +355,7 @@
       <!-- Doctor 8 end -->
 
       <!-- Doctor 9 start -->
-       <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay="400ms" style="padding-top: 50px;">
+      <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay="400ms" style="padding-top: 50px;">
         <div class="team-card-ten">
           <div class="team-img-ten">
             <a href="#"> <!-- image clickable -->
@@ -394,7 +387,7 @@
         </div>
 
       </div>
-      
+
       <!-- Doctor 9 end -->
 
       <!-- Doctor 10 start -->
@@ -439,7 +432,7 @@
 
 <!-- End team-section-two -->
 
- <section style="display: flex; justify-content: center; color:#27477d">
+<section style="display: flex; justify-content: center; color:#27477d">
   <section>
     <div>
       <h3 style="text-decoration: underline; text-align: center; ">Patient Care Highlights</h3>
@@ -454,7 +447,7 @@
       </div>
     </div>
   </section>
-</section> 
+</section>
 
 
 <?php include 'footerhospital.php'; ?>

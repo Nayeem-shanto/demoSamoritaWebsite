@@ -82,7 +82,7 @@
           <div class="col-lg-7">
             <div class="team-content">
               <h2 class="mb-0 mt-n2">Prof. Dr. Dilip Kumar Dhar</h2>
-              <h3 class="text-theme fs-xs">MBBS, FCPS (Medicine) <br><br>Professor <br> Department of Medicine <br> Ex-Principal, MH Samorita Hospital & Medical College, Dhaka  <br>Ex-Principal, Sir Salimullah Medical College Mitford Hospital, Dhaka</h3>
+              <h3 class="text-theme fs-xs">MBBS, FCPS (Medicine) <br><br>Professor, Department of Medicine <br> Ex-Principal, MH Samorita Hospital & Medical College, Dhaka  <br>& Sir Salimullah Medical College Mitford Hospital, Dhaka</h3>
               <p class="fs-md text-title" style="text-align: justify;">
                <strong>Prof. Dr. Dilip Kumar Dhar</strong> is one of the most respected figures in Bangladesh medical education and internal medicine community with over 40 years of service. He is renowned for his expertise in complex diagnostic medicine and chronic disease management. As the former Principal of MH Samorita Medical College, he played a major role in shaping the academic foundation of the institution while continuing his clinical leadership as the Head of the Department of Medicine. Throughout his career, he has contributed to national-level health strategies, postgraduate medical training and curriculum development. His legacy as both clinician and academic leader continues to influence the next generation of physicians in Bangladesh.
               </p>
