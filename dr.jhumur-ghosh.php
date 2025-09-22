@@ -74,9 +74,9 @@
             <br><br> Associate Professor and Consultant <br> Department of Hepatology
           </h3>
           <p class="fs-md text-title" style="text-align: justify;">
-            <strong>Assoc. Prof. Dr. Jhumur Ghosh</strong> is a hepatology specialist with more than 10 years of clinical experience in the management of Liver and Gastrointestinal Diseases. She is recognized for diagnostic precision and a compassionate, evidence-based approach to chronic liver disease, viral hepatitis, fatty liver disease and related digestive disorders. Her academic training and commitment to patient care have earned her recognition in both hospital and community settings. Notably, she is acknowledged as Bangladesh’s first female hepatologist and has received two international awards from India & Indonesia for her contributions to the field of fatty liver disease.
+            <strong>Assoc. Prof. Dr. Jhumur Ghosh</strong> is a hepatology specialist with more than 10 years of clinical experience in the management of Liver and Gastrointestinal Diseases. She is recognized for diagnostic precision and a compassionate, evidence-based approach to chronic liver disease, viral hepatitis, fatty liver disease and related digestive disorders. Her academic training and commitment to patient care have earned her recognition in both hospital and community settings. Before joining <strong>MH Samorita Hospital & Medical College</strong>, Dr. Jhumur served in several healthcare institutions, including <strong>US-Bangla Medical College Hospital</strong> and <strong>Ibrahim Medical College</strong>. Notably, she is acknowledged as Bangladesh’s first female hepatologist and has received two international awards from India & Indonesia for her contributions to the field of fatty liver disease
           </p>
-         
+
           <table class="member-table" style="background-color: #f3f6f7;">
             <tbody>
               <tr>
@@ -108,10 +108,10 @@
                 </td>
               </tr>
             </tbody>
-          </table>         
+          </table>
+        </div>
       </div>
     </div>
-  </div>
   </div>
 </section>
 <?php include 'footerhospital.php'; ?>
