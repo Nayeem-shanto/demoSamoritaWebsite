@@ -77,9 +77,9 @@
       <div class="col-lg-7">
         <div class="team-content">
           <h2 class="mb-0 mt-n2">Asst. Prof. Dr. Shayma Hamid </h2>
-          <h3 class="text-theme fs-xs">MBBS, DBS&T, MCPS (Transfusion Medicine), CCD (BIRDEM) <br><br> Assistant Professor<br> Department of Transfusion Medicine</h3>
+          <h3 class="text-theme fs-xs">MBBS, DBS&T, MCPS (Transfusion Medicine), CCD (BIRDEM) <br><br> Assistant Professor, Department of Transfusion Medicine</h3>
           <p class="fs-md text-title" style="text-align: justify;">
-            <strong>Asst. Prof. Dr. Shayma Hamid</strong> is a dedicated and detail-oriented specialist in Transfusion Medicine, with expertise in managing blood transfusion services, immunohematology and blood banking. With several years of clinical and laboratory experience, she ensures safe, compatible and effective transfusion practices for a wide range of medical and surgical patients. In MH Samorita Hospital & Medical College she oversees blood safety, donor screening and transfusion-related decision-making for inpatients and emergency services.
+            <strong>Asst. Prof. Dr. Shayma Hamid</strong> is a dedicated and detail-oriented specialist in Transfusion Medicine, with expertise in managing blood transfusion services, immunohematology and blood banking. With several years of clinical and laboratory experience, she ensures safe, compatible and effective transfusion practices for a wide range of medical and surgical patients. In MH Samorita Hospital & Medical College she oversees blood safety, donor screening and transfusion-related decision-making for inpatients and emergency services. Before joining <strong>MH Samorita Hospital & Medical College</strong>, Dr. Shayma Hamid served in several healthcare institutions, including <strong>Bangladesh Medical University (BMU)</strong>.
           </p>
 
           <table class="member-table" style="background-color: #f3f6f7;">
@@ -92,10 +92,9 @@
                 <th><strong>Degrees</strong></th>
                 <td>
                   <ul class="member-info-list">
-                    <li>MBBS - DU.</li>
-                    <li>MD.</li>
-                    <li>DBS&T (Transfusion Medicine ) – BMU</li>
-                    <li>MCPS (Transfusion Medicine) – BCPS</li>
+                    <li>MBBS - Medical College for Women & Hospital, University of Dhaka</li>
+                    <li>DBS&T (Transfusion Medicine ) – Bangladesh Medical University (BMU) </li>
+                    <li>MCPS (Transfusion Medicine) – Bangladesh College of Physicians & Surgeons (BCPS)</li>
                     <li>CCD - BIRDEM</li>
               </tr>
               <tr>
