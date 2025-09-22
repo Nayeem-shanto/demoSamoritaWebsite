@@ -74,7 +74,7 @@
             <br><br>Assistant Professor <br> Department of Physical Medicine & Rehabilitation
           </p>
           <p class="fs-md text-title" style="text-align: justify;">
-            <strong>Asst. Prof. Dr. Supriya Sarkar</strong> is a skilled and compassionate specialist in Physical Medicine and Rehabilitation, with a focus on restoring function, reducing pain and improving quality of life in patients with musculoskeletal and neurological conditions. With years of experience in non-surgical treatment, she has gained recognition for her patient-centered approach and effective management of physical disabilities and chronic pain.
+            <strong>Asst. Prof. Dr. Supriya Sarker</strong> is a skilled and compassionate specialist in Physical Medicine and Rehabilitation, with a focus on restoring function, reducing pain and improving quality of life in patients with musculoskeletal and neurological conditions. With years of experience in non-surgical treatment, she has gained recognition for her patient-centered approach and effective management of physical disabilities and chronic pain. Before joining <strong>MH Samorita Hospital & Medical College</strong>, Dr. Supriya served in several healthcare institutions, including <strong>Bangladesh Medical University, CARe Medical College Hospital</strong>.
 
           </p>
           <table class="member-table" style="background-color: #f3f6f7;">
@@ -88,7 +88,7 @@
                 <td>
                   <ul class="member-info-list">
                     <li>MBBS – Sylhet M. A. G. Osmani Medical College, Sylhet Medical University </li>
-                    <li>FCPS (Physical Medicine and Rehabilitation) – BCPS</li>
+                    <li>FCPS (Physical Medicine and Rehabilitation) – Bangladesh College of Physicians & Surgeons (BCPS)</li>
                     <li>Fellowship in MSK Ultrasound – Daradia, India</li>
               </tr>
               <tr>
