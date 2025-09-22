@@ -74,10 +74,10 @@
         <div class="team-content">
           <h2 class="mb-0 mt-n2">Dr. Nazmun Haque</h2>
           <h3 class="text-theme fs-xs">MBBS, DBS&T (Transfusion Medicine), CCD (BIRDEM)
-            <br><br>Registrar <br> Department of Transfusion Medicine
+            <br><br>Registrar, Department of Transfusion Medicine
           </h3>
           <p class="fs-md text-title" style="text-align: justify;">
-            <strong>Dr. Nazmun Haque</strong> is a dedicated physician working in the specialized field of Transfusion Medicine. As a Registrar, she plays a vital role in managing daily blood bank operations, donor screening, component separation and transfusion monitoring. Her attention to safety protocols and evidence-based transfusion practices ensures quality and reliability in lifesaving blood services. She is contributing to both clinical transfusion support and academic coordination.
+            <strong>Dr. Nazmun Haque</strong> is a dedicated physician working in the specialized field of <strong>Transfusion Medicine</strong>. As a <span>Registrar</span>, she plays a vital role in managing daily blood bank operations, donor screening, component separation and transfusion monitoring. Her attention to safety protocols and evidence-based transfusion practices ensures quality and reliability in lifesaving blood services. She is contributing to both clinical transfusion support and academic coordination. Before joining <strong>MH Samorita Hospital & Medical College</strong>, Dr. Nazmun served in several healthcare institutions, including <strong>Salauddin Specialized Hospital Ltd., Capital General Hospital Ltd</strong>.
 
           </p>
           <table class="member-table" style="background-color: #f3f6f7;">
@@ -95,8 +95,8 @@
                 <td>
                   <ul class="member-info-list">
                     <li>MBBS – Dhaka National Medical College & Hospital, University of Dhaka</li>
-                    <li>DBS&T (Transfusion Medicine) – BMU</li>
-                    <li>CCD - BIRDEM</li>
+                    <li>DBS&T (Transfusion Medicine) –Bangladesh Medical University BMU</li>
+                    <li>CCD (Certificate Course on Diabetology)  - BIRDEM</li>
               </tr>
               <tr>
                 <th><strong>Areas of Expertise</strong></th>
