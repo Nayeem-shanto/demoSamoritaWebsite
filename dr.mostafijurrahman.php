@@ -56,7 +56,7 @@
             <tbody>
               <tr>
                 <td>Saturday - Thursday</td>
-                <td>8.30 AM - 9.3s0 PM</td>
+                <td>8.30 AM - 9.30 PM</td>
               </tr>
               <tr>
                 <td>Room No:</td>
@@ -74,10 +74,10 @@
         <div class="team-content">
           <h2 class="mb-0 mt-n2">Dr. Md. Mostafijur Rahaman</h2>
           <h3 class="text-theme fs-xs">MBBS, FCPS (Medicine – Part 1)
-            <br><br>Registrar<br> Department of Medicine
+            <br><br>Registrar, Department of Medicine
           </h3>
           <p class="fs-md text-title" style="text-align: justify;">
-           <strong> Dr. Md. Mostafijur Rahman</strong> is a skilled and committed medicine internist who currently serves as a Registrar in the Department of Surgery at MH Samorita Hospital & Medical College. He plays an essential role in patient care, emergency patient support and expert in medical ward procedures. Known for his calm approach and attention to patient care, he is dedicated to both hands-on service and medicine learning under senior faculty guidance. Dr. Rahman regularly participates in medicine ward rounds, educating medical students, arranging CME, supervising and assessing the clinical competence of interns and medical officers, teaching and expanding the knowledge and education of junior colleagues and medical students.
+           <strong>Dr. Md. Mostafijur Rahman</strong> is a skilled and committed medicine internist serving as a Registrar in the Department of Medicine at MH Samorita Hospital & Medical College. He plays an essential role in patient care, emergency patient support and expert in medical ward procedures. Known for his calm approach and attention to patient care, he is dedicated to both hands-on service and medicine learning under senior faculty guidance. Dr. Rahman regularly participates in medicine ward rounds, educating medical students, arranging CME, supervising and assessing the clinical competence of interns and medical officers, teaching and expanding the knowledge and education of junior colleagues and medical students. Before joining <strong>MH Samorita Hospital & Medical College</strong>, Dr. Rahman served in several healthcare institutions across the globe, including <strong>IBN SINA Hospital, Medical College for Women & Hospital, Aysha Memorial Specialised Hospital, Tairunnessa Memorial Medical College & Hospital, Baa Atoll Hospital (Maldives), Universal Medical College & Hospital Ltd</strong>.
 
           </p>
           <table class="member-table" style="background-color: #f3f6f7;">
