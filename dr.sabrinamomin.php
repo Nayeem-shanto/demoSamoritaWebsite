@@ -77,9 +77,9 @@
       <div class="col-lg-7">
         <div class="team-content">
           <h2 class="mb-0 mt-n2">Asst. Prof. Dr. Sabrina Momin</h2>
-          <h3 class="text-theme fs-xs">MBBS, FCPS (Medicine), MRCP (UK), CCD (BIRDEM) <br><br> Assistant Professor<br> Department of Medicine</h3>
+          <h3 class="text-theme fs-xs">MBBS, FCPS (Medicine), MRCP (UK), CCD (BIRDEM) <br><br> Assistant Professor, Department of Medicine</h3>
           <p class="fs-md text-title" style="text-align: justify;">
-            <strong>Asst. Prof. Dr. Sabrina Momin</strong> is a respected and experienced physician specializing in Internal Medicine. With over 16 years of clinical and academic experience, she is known for her expertise in diagnosing complex medical conditions and managing chronic illnesses with a patient-centered approach. Her calm, thorough and evidence-based treatment plans have made her a trusted name in medicine. Earlier she worked in different hospitals in Dhaka i.e. Evercare Hospital, United Hospital Limited.
+            <strong>Asst. Prof. Dr. Sabrina Momin</strong> is a respected and experienced physician specializing in Internal Medicine. With over 16 years of clinical and academic experience, she is known for her expertise in diagnosing complex medical conditions and managing chronic illnesses with a patient-centered approach. Her calm, thorough and evidence-based treatment plans have made her a trusted name in medicine. Before joining <strong>MH Samorita Hospital & Medical College</strong>, Dr. Sabrina served in several healthcare institutions, including <strong>Evercare Hospital, United Hospital Limited, AMZ Hospital Ltd</strong>. and <strong>Al-Biruni Hospital</strong>.
           </p>
 
 
@@ -94,9 +94,9 @@
                 <td>
                   <ul class="member-info-list">
                     <li>MBBS – Dhaka Medical College, University of Dhaka.</li>
-                    <li>FCPS (Medicine) – Bangladesh College of Physicians & Surgeons (BCPS).</li>
                     <li>MRCP – Royal College of Physicians, UK</li>
-                    <li>CCD – BIRDEM</li>
+                    <li>FCPS (Medicine) – Bangladesh College of Physicians & Surgeons (BCPS).</li>
+                    <li>CCD (Certificate Course on Diabetology) – BIRDEM</li>
               </tr>
               <tr>
                 <th><strong>Areas of Expertise</strong></th>
