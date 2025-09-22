@@ -32,7 +32,7 @@
           <div class="member-details-img">
 
             <img
-              src="assets/img/team/abduljalailansari.png"
+              src="assets/img/doctorImage/medicine/drJalilAnsari.JPG"
               alt="Member Image"
               class="w-100" />
           </div>
@@ -73,12 +73,15 @@
       <div class="col-lg-7">
         <div class="team-content">
           <h2 class="mb-0 mt-n2">Prof. Dr. Md. Abdul Jalil Ansari</h2>
-          <h3 class="text-theme fs-xs">MBBS, MCPS (Medicine), MD (Endocrinology & Metabolism) <br><br> Principal<br> Head of Department <br>Department of Endocrinology & Lifestyle Medicine </h3>
+          <h3 class="text-theme fs-xs">MBBS, MCPS (Medicine), MD (Endocrinology & Metabolism) <br><br> Principal<br></h3>
           <p class="fs-md text-title" style="text-align: justify;">
-            <strong>Prof. Dr. Md. Abdul Jalil Ansari</strong> is a senior endocrinologist and medicine specialist with over 35 years with vast experience in treating complex hormonal and metabolic disorders. He is one of the most respected figures in Bangladesh’s endocrinology community and is widely known for his expertise in managing diabetes, thyroid disorders, obesity and hormonal imbalances. His leadership in both clinical practice and medical education has made a lasting impact on the field.
+            <strong>Prof. Dr. Md. Abdul Jalil Ansari</strong> is a senior endocrinologist and medicine specialist with more than 35 years of extensive experience in managing complex hormonal and metabolic disorders. He is regarded as one of the most respected figures in Bangladesh’s endocrinology community, widely recognized for his expertise in diabetes, thyroid disorders, obesity, and hormonal imbalances. His contributions as both a clinician and academic leader have left a lasting impact on the advancement of endocrinology in the country and beyond.
           </p>
           <p class="fs-md text-title" style="text-align: justify;">
-            He completed MBBS from Mymensingh Medical College in 1984, MCPS in Medicine from BCPS and MD in Endocrinology & Metabolism from BIRDEM Academy under University of Dhaka. He has held key academic positions in many Govt. & Non-Govt. medical colleges and hospitals in home & abroad, i.e. MMC, BIRDEM, IPGMR, RMC, DMC, SSMC, SOMC, Shahabuddin Medical College, KSA, UMS. currently serves as Princial & Head of the Department of Endocrinology & Lifestyle Medicine at MH Samorita Hospital & Medical College, Dhaka.
+            Dr. Ansari completed his <strong>MBBS from Mymensingh Medical College (1984)</strong>, followed by <strong>MCPS in Medicine</strong> from the <strong>Bangladesh College of Physicians and Surgeons (BCPS)</strong>, and later earned his <strong>MD in Endocrinology & Metabolism</strong> from <strong>BIRDEM Academy under the University of Dhaka.</strong>
+          </p>
+          <p class="fs-md text-title" style="text-align: justify;">
+            Throughout his career, he has held key academic and clinical positions across numerous government and private medical colleges and hospitals both in Bangladesh and abroad, including <strong>Mymensingh Medical College (MMC), BIRDEM, Institute of Postgraduate Medicine & Research (IPGMR), Rajshahi Medical College (RMC), Dhaka Medical College (DMC), Sir Salimullah Medical College (SSMC), Sylhet MAG Osmani Medical College (SOMC), Shahabuddin Medical College, Baljurashi General Hospital and Al-Baha, KSA, PARAS Central Hospital, Sakaka, KSA, and University Malaysia Sabah, Malaysia.</strong> At present, he serves as <strong>Principal and Head of the Department of Endocrinology & Lifestyle Medicine at MH Samorita Hospital & Medical College, Dhaka,</strong> where he continues to combine his vast clinical expertise with academic leadership to mentor the next generation of physicians and provide compassionate, patient-centered care.
           </p>
 
           <table class="member-table" style="background-color: #f3f6f7;">
@@ -115,83 +118,6 @@
               </tr>
             </tbody>
           </table>
-          <form
-            action="#"
-            class="form-wrap1 shadow-none mb-30 rounded-3 overflow-hidden wow fadeInUp"
-            data-wow-delay="0.3s"
-            data-bg-color="#f3f6f7">
-            <div
-              class="form-title-box bg-title"
-              data-bg-src="assets/img/bg/bg-shape-9.jpg">
-              <div class="row justify-content-between align-items-center">
-                <div class="col-xl-10">
-                  <h2 class="h4 mb-2 text-white">Book An Appointment</h2>
-                  <p class="mb-0 text-white-light">
-                    Scenarios and economically sound ROI. Dynamically seize
-                    cross platform "outside the box" thinking after
-                    enterprise...
-                  </p>
-                </div>
-              </div>
-            </div>
-            <div class="form-box">
-              <div class="row">
-                <div class="col-lg-6 form-group">
-                  <select class="form-select style3">
-                    <option hidden disabled selected>
-                      Select Services
-                    </option>
-                    <option>Aerospace Medicine</option>
-                    <option>Bariatric Surgery</option>
-                    <option>Infectious Diseases</option>
-                    <option>Laboratory Medicine</option>
-                  </select>
-                </div>
-                <div class="col-lg-6 form-group">
-                  <select class="form-select style3">
-                    <option hidden disabled selected>Choose Doctor</option>
-                    <option>Aerospace Medicine</option>
-                    <option>Bariatric Surgery</option>
-                    <option>Infectious Diseases</option>
-                    <option>Laboratory Medicine</option>
-                  </select>
-                </div>
-                <div class="col-lg-6 form-group">
-                  <input
-                    type="text"
-                    class="form-control style3"
-                    placeholder="Your Name" />
-                  <i class="fal small fa-user"></i>
-                </div>
-                <div class="col-lg-6 form-group">
-                  <input
-                    type="email"
-                    class="form-control style3"
-                    placeholder="Email Address" />
-                  <i class="fal small fa-envelope"></i>
-                </div>
-                <div class="col-lg-6 form-group">
-                  <input
-                    type="number"
-                    class="form-control style3"
-                    placeholder="Your Phone" />
-                  <i class="fal small fa-phone"></i>
-                </div>
-                <div class="col-lg-6 form-group">
-                  <input
-                    type="text"
-                    class="dateTime-pick form-control style3"
-                    placeholder="Select Date & Time" />
-                  <i class="fal small fa-calendar-alt"></i>
-                </div>
-                <div class="col-xl-12 text-center">
-                  <button type="submit" class="vs-btn style2">
-                    Make Appointment<i class="far fa-calendar-alt"></i>
-                  </button>
-                </div>
-              </div>
-            </div>
-          </form>
         </div>
       </div>
     </div>

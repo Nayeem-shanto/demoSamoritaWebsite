@@ -85,7 +85,7 @@
         <div class="team-card-ten">
           <div class="team-img-ten">
             <a href="#"> <!-- image clickable -->
-              <img src="assets/img/team/principal.png" alt="">
+              <img src="assets/img/doctorImage/medicine/drJalilAnsariDept.JPG" alt="">
             </a>
             <span class="share-icon-ten fa fa-share-alt"></span>
             <div class="social-links-ten">
