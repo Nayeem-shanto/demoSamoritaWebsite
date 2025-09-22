@@ -75,7 +75,8 @@
           <h2 class="mb-0 mt-n2">Assoc. Prof. Dr. Md. Sekender Ali</h2>
           <h3 class="text-theme fs-xs">MBBS (DMC), MRCP (UK) <br><br>Associate Professor & Head <br> Department of Medicine</h3>
           <p class="fs-md text-title" style="text-align: justify;">
-            <strong>Assoc. Prof. Dr. Md. Sekender Ali</strong> is an experienced and well-respected physician in the field of Internal Medicine, with over 20 years of clinical and academic experience. He is known for his detailed diagnostic skills, clinical judgement and kind bedside manner. Dr. Ali has been serving as a core faculty member at MH Samorita Hospital & Medical College, where he combines his teaching responsibilities with compassionate patient care. He plays a key role in clinical teaching, undergraduate training and postgraduate mentoring.
+            <strong>Assoc. Prof. Dr. Md. Sekendar Ali</strong> is a distinguished physician in the field of Internal Medicine, with over 20 years of extensive clinical and academic experience. Renowned for his strong diagnostic acumen, sound clinical judgment and compassionate bedside manner, he has earned the trust of patients and colleagues alike. Before joining <strong>MH Samorita Hospital & Medical College
+            </strong>, Dr. Ali served in several prestigious healthcare institutions across the globe, including <strong>Mpilo Central Hospital (Zimbabwe), Royal London Hospital (UK), Southend University Hospital (UK), Neath Port Talbot Hospital (UK), Royal Devon and Exeter Hospital (UK), Alice Springs Hospital (Australia), Launceston General Hospital (Australia) and Fremantle Hospital (Australia)</strong>. At MH Samorita Hospital & Medical College, he serves as a core faculty member, contributing significantly to <strong>undergraduate teaching, postgraduate mentoring and clinical training</strong>. Alongside his academic commitments, Dr. Ali continues to deliver compassionate, patient-centered medical care, embodying a rare blend of professional expertise and humanistic values.
           </p>
 
           <table class="member-table" style="background-color: #f3f6f7;">
@@ -89,7 +90,7 @@
                 <td>
                   <ul class="member-info-list">
                     <li>MBBS – Dhaka Medical College, University of Dhaka</li>
-                    <li>MRCP (UK)</li>
+                    <li>MRCP – Royal College of Physicians, UK</li>
 
               </tr>
               <tr>
