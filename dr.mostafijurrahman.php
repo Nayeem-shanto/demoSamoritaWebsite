@@ -32,7 +32,7 @@
           <div class="member-details-img">
 
             <img
-              src="assets/img/team/avatar-details-profile.png"
+              src="./assets/img/doctorImage/medicine/drMostafijurRahman.JPG"
               alt="Member Image"
               class="w-100" />
           </div>

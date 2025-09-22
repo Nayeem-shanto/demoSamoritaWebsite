@@ -32,7 +32,7 @@
           <div class="member-details-img">
 
             <img
-              src="assets/img/team/female-details.jpg"
+              src="./assets/img/doctorImage/medicine/drNazmunHaque.JPG"
               alt="Member Image"
               class="w-100" />
           </div>

@@ -31,7 +31,7 @@
           class="member-header mb-40 overflow-hidden rounded-3 position-relative">
           <div class="member-details-img">
             <img
-              src="assets/img/team/SupriyaSarkar.png"
+              src="./assets/img/doctorImage/medicine/drSupriyaSarkar.JPG"
               alt="Member Image"
               class="w-100" />
           </div>

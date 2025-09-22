@@ -34,7 +34,7 @@
               <div class="member-details-img">
                 
                 <img
-                  src="assets/img/team/dilipkumardhar.png"
+                src="./assets/img/doctorImage/medicine/drDilip.JPG"                 
                   alt="Member Image"
                   class="w-100"
                 />

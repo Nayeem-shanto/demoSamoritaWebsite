@@ -31,7 +31,7 @@
           class="member-header mb-40 overflow-hidden rounded-3 position-relative">
           <div class="member-details-img">
             <img
-              src="assets/img/team/niraferdous.JPG"
+              src="./assets/img/doctorImage/medicine/drNiraFerdous.JPG"
               alt="Member Image"
               class="w-100" />
           </div>
