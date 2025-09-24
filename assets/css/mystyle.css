@@ -150,5 +150,8 @@
     flex-direction: column;
     margin: 2px;
 }
+.headerForMobileResponsive{
+display: flex;
+}
 }
     

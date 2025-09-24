@@ -334,6 +334,7 @@ h6 {
   h2 {
     font-size: 22px;
   }
+
 }
 /*------------------- 1.5. Extend -------------------*/
 /*=================================
@@ -4845,6 +4846,7 @@ textarea.form-control.is-invalid {
   border-left: 1px solid #adb3c2;
   padding: 6px 0 6px 39px;
 }
+
 .header-help__title {
   color: var(--title-color);
   font-size: 14px;

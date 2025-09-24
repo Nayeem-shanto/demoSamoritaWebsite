@@ -46,6 +46,176 @@
 
 
 <!-- Cardiology dept. -->
+
+            <!-- prof. dr. abdul jalil ansari -->
+            <div class="col-md-6 col-xl-4 filter-item cat-1 justify-content text-center" style="margin-bottom: 15px;">
+                <div class="team-card">
+                    <div class="team-head">
+                        <img src="./assets/img/doctorImage/medicine/jalilSir_FD1.jpg" alt="Team Area" class="w-100">
+                        <div class="team-card-links">
+                            <a class="team-links-toggler" href="#"><i class="fas fa-share-alt"></i></a>
+                            <div class="team-social">
+                                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                <a href="#"><i class="fab fa-twitter"></i></a>
+                                <a href="#"><i class="fas fa-basketball-ball"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="team-body" style="padding-top: 10px;">
+                        <h3 class="h4 mb-0" style="font-size: 20px;"><a href="dr.abduljalilansari.php" class="text-reset">Prof. Dr. Md. Abdul Jalil Ansari</a></h3>
+                        <div>
+                            <p class="designation"><span style="color:#07ccec;">MBBS, MCPS (Medicine), MD (Endocrinology & Metabolism)</span> <br> <span>Department of Medicine</span> </p>
+                        </div>
+                        <div style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
+                            <p class="mt-2" style="margin: 0;">
+                                <a href="dr.abduljalilansari.php" class="btn btn-sm btn-outline-primary">View Doctor's Profile</a>
+                            </p>
+
+                            <p class="mt-2" style="margin: 0;">
+                                <a href="tel:+88028878080" class="btn btn-sm btn-outline-primary">
+                                    <i class="fas fa-phone"></i> Call for Appointment
+                                </a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- prof. dr. abdul jalil ansari -->
+            <div class="col-md-6 col-xl-4 filter-item cat-1 justify-content" style="margin-bottom: 15px;">
+                <div class="team-card">
+                    <div class="team-head">
+                        <img src="./assets/img/doctorImage/medicine/jalilSir_FD2.jpg" alt="Team Area" class="w-100">
+                        <div class="team-card-links">
+                            <a class="team-links-toggler" href="#"><i class="fas fa-share-alt"></i></a>
+                            <div class="team-social">
+                                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                <a href="#"><i class="fab fa-twitter"></i></a>
+                                <a href="#"><i class="fas fa-basketball-ball"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="team-body" style="padding-top: 10px;">
+                        <h3 class="h4 mb-0" style="font-size: 20px;"><a href="dr.abduljalilansari.php" class="text-reset">Prof. Dr. Md. Abdul Jalil Ansari</a></h3>
+                        <div>
+                            <p class="designation"><span style="color:#07ccec;">MBBS, MCPS (Medicine), MD (Endocrinology & Metabolism)</span><br> <span>Department of Medicine</span> </p>
+                        </div>
+                        <div style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
+                            <p class="mt-2" style="margin: 0;">
+                                <a href="dr.abduljalilansari.php" class="btn btn-sm btn-outline-primary">View Doctor's Profile</a>
+                            </p>
+
+                            <p class="mt-2" style="margin: 0;">
+                                <a href="tel:+88028878080" class="btn btn-sm btn-outline-primary">
+                                    <i class="fas fa-phone"></i> Call for Appointment
+                                </a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- prof. dr. abdul jalil ansari -->
+            <div class="col-md-6 col-xl-4 filter-item cat-1 justify-content" style="margin-bottom: 15px;">
+                <div class="team-card">
+                    <div class="team-head">
+                        <img src="./assets/img/doctorImage/medicine/jalilSir_FD3.jpg" alt="Team Area" class="w-100">
+                        <div class="team-card-links">
+                            <a class="team-links-toggler" href="#"><i class="fas fa-share-alt"></i></a>
+                            <div class="team-social">
+                                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                <a href="#"><i class="fab fa-twitter"></i></a>
+                                <a href="#"><i class="fas fa-basketball-ball"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="team-body" style="padding-top: 10px;">
+                        <h3 class="h4 mb-0" style="font-size: 20px;"><a href="dr.abduljalilansari.php" class="text-reset">Prof. Dr. Md. Abdul Jalil Ansari</a></h3>
+                        <div>
+                            <p class="designation"><span style="color:#07ccec;">MBBS, MCPS (Medicine), MD (Endocrinology & Metabolism)</span> <br> <span>Department of Medicine</span> </p>
+                        </div>
+                        <div style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
+                            <p class="mt-2" style="margin: 0;">
+                                <a href="dr.abduljalilansari.php" class="btn btn-sm btn-outline-primary">View Doctor's Profile</a>
+                            </p>
+
+                            <p class="mt-2" style="margin: 0;">
+                                <a href="tel:+88028878080" class="btn btn-sm btn-outline-primary">
+                                    <i class="fas fa-phone"></i> Call for Appointment
+                                </a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- prof. dr. abdul jalil ansari -->
+            <div class="col-md-6 col-xl-4 filter-item cat-1 justify-content" style="margin-bottom: 15px;">
+                <div class="team-card">
+                    <div class="team-head">
+                        <img src="./assets/img/doctorImage/medicine/jalilSir_FD4.jpg" alt="Team Area" class="w-100">
+                        <div class="team-card-links">
+                            <a class="team-links-toggler" href="#"><i class="fas fa-share-alt"></i></a>
+                            <div class="team-social">
+                                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                <a href="#"><i class="fab fa-twitter"></i></a>
+                                <a href="#"><i class="fas fa-basketball-ball"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="team-body" style="padding-top: 10px;">
+                        <h3 class="h4 mb-0" style="font-size: 20px;"><a href="dr.abduljalilansari.php" class="text-reset">Prof. Dr. Md. Abdul Jalil Ansari</a></h3>
+                        <div>
+                            <p class="designation"><span style="color:#07ccec;">MBBS, MCPS (Medicine), MD (Endocrinology & Metabolism)</span> <br> <span>Department of Medicine</span> </p>
+                        </div>
+                        <div style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
+                            <p class="mt-2" style="margin: 0;">
+                                <a href="dr.abduljalilansari.php" class="btn btn-sm btn-outline-primary">View Doctor's Profile</a>
+                            </p>
+
+                            <p class="mt-2" style="margin: 0;">
+                                <a href="tel:+88028878080" class="btn btn-sm btn-outline-primary">
+                                    <i class="fas fa-phone"></i> Call for Appointment
+                                </a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- prof. dr. abdul jalil ansari -->
+            <div class="col-md-6 col-xl-4 filter-item cat-1 justify-content" style="margin-bottom: 15px;">
+                <div class="team-card">
+                    <div class="team-head">
+                        <img src="./assets/img/doctorImage/medicine/jalilSir_FD5.jpg" alt="Team Area" class="w-100">
+                        <div class="team-card-links">
+                            <a class="team-links-toggler" href="#"><i class="fas fa-share-alt"></i></a>
+                            <div class="team-social">
+                                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                <a href="#"><i class="fab fa-twitter"></i></a>
+                                <a href="#"><i class="fas fa-basketball-ball"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="team-body" style="padding-top: 10px;">
+                        <h3 class="h4 mb-0" style="font-size: 20px;"><a href="dr.abduljalilansari.php" class="text-reset">Prof. Dr. Md. Abdul Jalil Ansari</a></h3>
+                        <div>
+                            <p class="designation"><span style="color:#07ccec;">MBBS, MCPS (Medicine), MD (Endocrinology & Metabolism)</span> <br> <span>Department of Medicine</span> </p>
+                        </div>
+                        <div style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
+                            <p class="mt-2" style="margin: 0;">
+                                <a href="dr.abduljalilansari.php" class="btn btn-sm btn-outline-primary">View Doctor's Profile</a>
+                            </p>
+
+                            <p class="mt-2" style="margin: 0;">
+                                <a href="tel:+88028878080" class="btn btn-sm btn-outline-primary">
+                                    <i class="fas fa-phone"></i> Call for Appointment
+                                </a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+
+
             <!-- prof. dr. mamum iqbal start -->
             <div class="col-md-6 col-xl-4 filter-item cat-1 justify-content" style="margin-bottom: 15px;">
                 <div class="team-card">
@@ -61,7 +231,7 @@
                         </div>
                     </div>
                     <div class="team-body" style="padding-top: 10px;">
-                        <h3 class="h4 mb-0" style="font-size: 20px;"><a href="dr.mamuniqbal.php" class="text-reset">Prof. Dr. S.M Mamun Iqbal</a></h3>
+                        <h3 class="h4 mb-0" style="font-size: 20px;"><a href="dr.abduljalilansari.php" class="text-reset">Prof. Dr. S.M Mamun Iqbal</a></h3>
                         <div>
                             <p class="designation"><span style="color:#07ccec;">Professor (CC) & Head</span> <br><br> <span>Department of Cardiology</span> </p>
                             <p class="designation"><span style="color:#07ccec;">Specialty :<br> </span>Cardiology</p>
@@ -69,7 +239,7 @@
                         </div>
                         <div style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
                             <p class="mt-2" style="margin: 0;">
-                                <a href="dr.mamuniqbal.php" class="btn btn-sm btn-outline-primary">View Doctor's Profile</a>
+                                <a href="dr.abduljalilansari.php" class="btn btn-sm btn-outline-primary">View Doctor's Profile</a>
                             </p>
 
                             <p class="mt-2" style="margin: 0;">

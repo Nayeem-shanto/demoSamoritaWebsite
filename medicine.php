@@ -85,6 +85,102 @@
         <div class="team-card-ten">
           <div class="team-img-ten">
             <a href="#"> <!-- image clickable -->
+              <img src="assets/img/doctorImage/medicine/drJalilAnsari.JPG" alt="">
+            </a>
+            <span class="share-icon-ten fa fa-share-alt"></span>
+            <div class="social-links-ten">
+              <a href="#"><i class="fab fa-instagram"></i></a>
+              <a href="#"><i class="fab fa-twitter"></i></a>
+              <a href="#"><i class="fab fa-facebook"></i></a>
+            </div>
+          </div>
+          <div class="info-box-ten text-center"> <!-- center aligned content -->
+            <h4 class="name"><a href="dr.abduljalilansari.php"><span style="font-size: 16px; color:#07ccec;">Prof. Dr. Abdul Jalil Ansari</span></a></h4>
+            <p class="designation" style="font-size: 14px;">MBBS, MCPS (Medicine), MD (Endocrinology & Metabolism) <br> </p>
+
+            <div style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
+              <p class="mt-2" style="margin: 0;">
+                <a href="dr.abduljalilansari.php" class="btn btn-sm btn-outline-primary">View Profile</a>
+              </p>
+
+              <p class="mt-2" style="margin: 0;">
+                <a href="tel:+88028878080" class="btn btn-sm btn-outline-primary">Get Appointment</a>
+              </p>
+            </div>
+          </div>
+        </div>
+
+      </div>
+      <!-- doctor card 1 end -->
+      <!-- doctor card 1 start -->
+      <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay="400ms" style="padding-top: 50px;">
+        <div class="team-card-ten">
+          <div class="team-img-ten">
+            <a href="#"> <!-- image clickable -->
+              <img src="assets/img/doctorImage/medicine/jalilSir_option_2.jpg" alt="">
+            </a>
+            <span class="share-icon-ten fa fa-share-alt"></span>
+            <div class="social-links-ten">
+              <a href="#"><i class="fab fa-instagram"></i></a>
+              <a href="#"><i class="fab fa-twitter"></i></a>
+              <a href="#"><i class="fab fa-facebook"></i></a>
+            </div>
+          </div>
+          <div class="info-box-ten text-center"> <!-- center aligned content -->
+            <h4 class="name"><a href="dr.abduljalilansari.php"><span style="font-size: 16px; color:#07ccec;">Prof. Dr. Abdul Jalil Ansari</span></a></h4>
+            <p class="designation" style="font-size: 14px;">MBBS, MCPS (Medicine), MD (Endocrinology & Metabolism) <br> </p>
+
+            <div style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
+              <p class="mt-2" style="margin: 0;">
+                <a href="dr.abduljalilansari.php" class="btn btn-sm btn-outline-primary">View Profile</a>
+              </p>
+
+              <p class="mt-2" style="margin: 0;">
+                <a href="tel:+88028878080" class="btn btn-sm btn-outline-primary">Get Appointment</a>
+              </p>
+            </div>
+          </div>
+        </div>
+
+      </div>
+      <!-- doctor card 1 end -->
+      <!-- doctor card 1 start -->
+      <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay="400ms" style="padding-top: 50px;">
+        <div class="team-card-ten">
+          <div class="team-img-ten">
+            <a href="#"> <!-- image clickable -->
+              <img src="assets/img/doctorImage/medicine/jalilSir_option_3.jpg" alt="">
+            </a>
+            <span class="share-icon-ten fa fa-share-alt"></span>
+            <div class="social-links-ten">
+              <a href="#"><i class="fab fa-instagram"></i></a>
+              <a href="#"><i class="fab fa-twitter"></i></a>
+              <a href="#"><i class="fab fa-facebook"></i></a>
+            </div>
+          </div>
+          <div class="info-box-ten text-center"> <!-- center aligned content -->
+            <h4 class="name"><a href="dr.abduljalilansari.php"><span style="font-size: 16px; color:#07ccec;">Prof. Dr. Abdul Jalil Ansari</span></a></h4>
+            <p class="designation" style="font-size: 14px;">MBBS, MCPS (Medicine), MD (Endocrinology & Metabolism) <br> </p>
+
+            <div style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
+              <p class="mt-2" style="margin: 0;">
+                <a href="dr.abduljalilansari.php" class="btn btn-sm btn-outline-primary">View Profile</a>
+              </p>
+
+              <p class="mt-2" style="margin: 0;">
+                <a href="tel:+88028878080" class="btn btn-sm btn-outline-primary">Get Appointment</a>
+              </p>
+            </div>
+          </div>
+        </div>
+
+      </div>
+      <!-- doctor card 1 end -->
+      <!-- doctor card 1 start -->
+      <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay="400ms" style="padding-top: 50px;">
+        <div class="team-card-ten">
+          <div class="team-img-ten">
+            <a href="#"> <!-- image clickable -->
               <img src="assets/img/doctorImage/medicine/drJalilAnsariDept.JPG" alt="">
             </a>
             <span class="share-icon-ten fa fa-share-alt"></span>

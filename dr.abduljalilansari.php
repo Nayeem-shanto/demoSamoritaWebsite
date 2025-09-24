@@ -32,7 +32,7 @@
           <div class="member-details-img">
 
             <img
-              src="assets/img/doctorImage/medicine/drJalilAnsari.JPG"
+              src="./assets/img/doctorImage/medicine/drJalilAnsari.JPG"
               alt="Member Image"
               class="w-100" />
           </div>
