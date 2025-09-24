@@ -21,10 +21,10 @@
 </div>
 
 
-<main class="outpatient-facilities-container">
+<main class="container" style="text-align: justify">
 
   <section>
-    <h2>Outpatient Facilities</h2>
+    <h2 class="text-center">Outpatient Facilities</h2>
 
     <div>
       <h3>OPD Services</h3>
@@ -112,7 +112,7 @@
     </div>
   </section>
 
-  <section>
+  <section class="">
     <h2>Patient Rights & Responsibilities</h2>
 
     <div>
