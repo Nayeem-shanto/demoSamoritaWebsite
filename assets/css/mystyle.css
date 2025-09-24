@@ -17,6 +17,12 @@
     text-align: justify;
 }
 
+/* Style for mission vision page */
+.mission-vision-container{
+    display: flex;
+    padding: 20px;
+}
+
 /* All department page related styles */
 .department-header-container{
     max-width: 1400px;
@@ -134,6 +140,7 @@
     
     .chairman-message{
         margin: 0;
+        
     }
 
     /* responsive for all department page */

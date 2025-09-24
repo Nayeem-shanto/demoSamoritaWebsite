@@ -246,8 +246,8 @@
       <div class="container">
         <div class="row justify-content-between align-items-center">
           <div class="col">
-            <div class="header-logo">
-              <a href="index.php"><img src="assets/img/logo/Samorita-logo-top.png" alt="Logo" /></a>
+            <div class="header-logo mb-10">
+              <a href="index.php"><img class="img-fluid mx-auto d-block" style="max-width:250px;" src="assets/img/logo/Samorita-logo-top.png" alt="Logo" /></a>
             </div>
           </div>
           <div class="col-auto d-none d-lg-block">
@@ -255,17 +255,13 @@
               <i class="far fa-search"></i>Search Keyword
             </button>
           </div>
-          <div class="col-auto">
-            <div class="header-help">
-              <div class="btn-group" role="group" aria-label="Basic mixed styles example">
-                <button type="button" class="btn btn-danger"><a href="facilities.php">Facilities</a></button>
-                <button type="button" class="btn btn-warning"><a href="finddoctor.php">Find Doctor</a></button>
-                <button type="button" class="btn btn-success"><a href="appointment.php">Appointment</a></button>
-              </div>
-              <!-- <a href="facilities.php" class="vs-btn style1">Facilities</a>
-              <a href="finddoctor.php" class="vs-btn style1">Find Doctor</a>
-              <a href="appointment.php" class="vs-btn style2">Appointment<i class="fal fa-calendar-alt"></i></a> -->
-            </div>
+          <div class="col-auto d-flex flex-wrap gap-3 justify-content-center align-items-center">
+            <a href="appointment.php" class="vs-btn style2">Appointment</a>
+            <a href="finddoctor.php" class="vs-btn style5">Find Doctor</a>
+            <a href="facilities.php" class="vs-btn style5">Facilities</a>
+
+
+
           </div>
           <div class="col-auto d-none d-md-block">
             <div class="infobox-style1">
