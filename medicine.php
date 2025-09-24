@@ -21,19 +21,18 @@
 </div>
 
 <!-- Department details section start -->
-<section style="margin:auto;  padding-left: 150px; padding-right: 150px;">
+<section class="container" style="text-align: justify;">
   <section>
-    <div style="text-align: justify;">
+    <div>
       <p>
-        The Department of medicine at MH Samorita Medical College & Hospital is a center of excellence for
+        <strong>The Department of medicine</strong> at MH Samorita Medical College & Hospital is a center of excellence for
         the diagnosis, treatment, and prevention of cardiovascular diseases. Our team of highly qualified cardiologists,
         supported by skilled medical professionals and advanced diagnostic technology, is dedicated to delivering
         comprehensive cardiac care to both inpatients and outpatients. We offer a full spectrum of cardiac services, including non-invasive, interventional, and preventive medicine, in a patient-focused, compassionate environment. Our medicine department also plays an integral role in academic activities, contributing to the training of future medical professionals.
       </p>
     </div>
   </section>
-
-  <section style="display: flex; justify-content: space-around;">
+  <section class="d-flex flex-column justify-content-evenly flex-lg-row gap-5 p-4">
     <section>
       <h3 style="text-decoration: underline;">Core Services</h3>
       <div>
@@ -85,7 +84,7 @@
         <div class="team-card-ten">
           <div class="team-img-ten">
             <a href="#"> <!-- image clickable -->
-              <img src="assets/img/doctorImage/medicine/drJalilAnsari.JPG" alt="">
+              <img class="" src="assets/img/doctorImage/medicine/drJalilAnsari.JPG" alt="">
             </a>
             <span class="share-icon-ten fa fa-share-alt"></span>
             <div class="social-links-ten">
