@@ -73,6 +73,7 @@ if (isset($_GET['doctor'])) {
           <table class="team-schedule-table">
             <tbody>
               <tr>
+                <td>Dates:</td>
                 <td><?php echo htmlspecialchars($doctor['timeschedule']); ?></td>
               </tr>
               <tr>
@@ -127,4 +128,4 @@ if (isset($_GET['doctor'])) {
   </div>
 </section>
 
-<?php include 'footerhospital.php'; ?>
+<?php include 'footerhospital.php'; ?>

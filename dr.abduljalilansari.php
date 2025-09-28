@@ -55,7 +55,7 @@
           <table class="team-schedule-table">
             <tbody>
               <tr>
-                <td>Saturday - Thursday</td>
+                <td>Sat - Thu</td>
                 <td>10.00 AM - 3.00 PM</td>
               </tr>
               <tr>
