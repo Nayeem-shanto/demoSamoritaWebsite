@@ -116,7 +116,7 @@
 
                   </ul>
                 </td>
-              </tr>            
+              </tr>
             </tbody>
           </table>
           <form

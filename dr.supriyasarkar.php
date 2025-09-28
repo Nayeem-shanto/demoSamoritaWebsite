@@ -52,9 +52,10 @@
           <h3 class="h4 border-title">Time Schedule</h3>
           <table class="team-schedule-table">
             <tbody>
+              
               <tr>
-                <td>Saturday - Thursday:</td>
-                <td>9.00 am - 1.30 pm</td>
+                <td>Sat-Thu:</td>
+                <td>09.00 AM – 1.30 PM</td>
               </tr>
               <tr>
                 <td>Room No:</td>

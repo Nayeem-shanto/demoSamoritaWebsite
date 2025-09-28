@@ -62,6 +62,17 @@
 
 
 <!-- Doctor list -->
+<?php
+// DB connection (change credentials as needed)
+$conn = new mysqli("localhost", "root", "", "dashboard_mh");
+if ($conn->connect_error) {
+    die("Connection failed: " . $conn->connect_error);
+}
+
+// Data fetch
+$sql = "SELECT id, name, degree, image, mobile FROM dr_profile WHERE department = 'Gyne & Obs'";
+$result = $conn->query($sql);
+?>
 
 <!-- team-section-two -->
 
@@ -71,229 +82,49 @@
       <h3>Meet Our Team and Medical<br> Expert Board</h3>
     </span>
   </div>
-
-
-
-
   <div class="container-style8">
     <div class="row justify-content-center">
-
-      <!-- Team block 1 start -->
-      <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay="400ms">
-        <div class="team-card-ten">
-          <div class="team-img-ten">
-            <a href="dr.nahalabari.php"> <!-- image clickable -->
-              <img src="assets/img/team/Dr_Nahala_bari (1).png" alt="">
-            </a>
-            <span class="share-icon-ten fa fa-share-alt"></span>
-            <div class="social-links-ten">
-              <a href="#"><i class="fab fa-instagram"></i></a>
-              <a href="#"><i class="fab fa-twitter"></i></a>
-              <a href="#"><i class="fab fa-facebook"></i></a>
+      <?php if ($result->num_rows > 0): ?>
+        <?php while($row = $result->fetch_assoc()): ?>
+          <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay="400ms">
+            <div class="team-card-ten">
+              <div class="team-img-ten">
+                <a href="#"> <!-- Optional profile link -->
+                  <img src="../samoritadrprofile/upload/<?php echo htmlspecialchars($row['image']); ?>" alt="">
+                </a>
+                <span class="share-icon-ten fa fa-share-alt"></span>
+                <div class="social-links-ten">
+                  <a href="#"><i class="fab fa-instagram"></i></a>
+                  <a href="#"><i class="fab fa-twitter"></i></a>
+                  <a href="#"><i class="fab fa-facebook"></i></a>
+                </div>
+              </div>
+              <div class="info-box-ten text-center">
+                <h4 class="name">
+                  <a href="#"><span style="font-size: 16px; color:#07ccec;">
+                    <?php echo htmlspecialchars($row['name']); ?>
+                  </span></a>
+                </h4>
+                <p class="designation"><br> <?php echo htmlspecialchars($row['degree']); ?></p>
+                <div style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
+                  <p class="mt-2" style="margin: 0;">
+                    <a href="drprofile.php?doctor=<?php echo urlencode($row['id']); ?>" class="btn btn-sm btn-outline-primary">View Profile</a>
+                  </p>
+                  <p class="mt-2" style="margin: 0;">
+                    <a href="tel:<?php echo htmlspecialchars($row['mobile']); ?>" class="btn btn-sm btn-outline-primary">Get Appointment</a>
+                  </p>
+                </div>
+              </div>
             </div>
           </div>
-          <div class="info-box-ten text-center"> <!-- center aligned content -->
-            <h4 class="name"><a href="dr.nahalabari.php"><span style="font-size: 16px; color:#07ccec;">Prof. Dr. Nahla Bari</span></a></h4>
-            <p class="designation"><br> MBBS, MCPS,DGO,FCPS</p>
-            <!-- <p class="designation"><span style="color:#07ccec;">Specialty : <br> </span>Gynecology & Obstetrics</p> -->
-            <!-- <p class="designation"><span style="color:#07ccec;">Degrees : <br></span>MBBS, MCPS,DGO,FCPS</p> -->
-
-            <div style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
-              <p class="mt-2" style="margin: 0;">
-                <a href="dr.nahalabari.php" class="btn btn-sm btn-outline-primary">View Profile</a>
-              </p>
-
-              <p class="mt-2" style="margin: 0;">
-                <a href="tel:+88028878080" class="btn btn-sm btn-outline-primary">Get Appointment</a>
-              </p>
-            </div>
-          </div>
-        </div>
-
-      </div>
-      <!-- Team block 1 end -->
-
-      <!-- Team block 2 start -->
-      <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay="400ms">
-        <div class="team-card-ten">
-          <div class="team-img-ten">
-            <a href="dr.bilkisparvin.php"> <!-- image clickable -->
-              <img src="assets/img/team/Prof._Dr._Bilkis_Parvin (1).png" alt="">
-            </a>
-            <span class="share-icon-ten fa fa-share-alt"></span>
-            <div class="social-links-ten">
-              <a href="#"><i class="fab fa-instagram"></i></a>
-              <a href="#"><i class="fab fa-twitter"></i></a>
-              <a href="#"><i class="fab fa-facebook"></i></a>
-            </div>
-          </div>
-          <div class="info-box-ten text-center"> <!-- center aligned content -->
-            <h4 class="name"><a href="dr.bilkisparvin.php"><span style="font-size: 16px; color:#07ccec;">Prof. Dr. Mosammat Bilkis Parvin</span></a></h4>
-            <p class="designation"><br> MBBS, DGO,
-              FCPS</p>
-            <!-- <p class="designation"><span style="color:#07ccec;">Specialty : <br> </span>Gynecology & Obstetrics</p>
-            <p class="designation"><span style="color:#07ccec;">Degrees : <br></span>MBBS, DGO,
-              FCPS</p> -->
-
-            <div style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
-              <p class="mt-2" style="margin: 0;">
-                <a href="dr.bilkisparvin.php" class="btn btn-sm btn-outline-primary">View Profile</a>
-              </p>
-
-              <p class="mt-2" style="margin: 0;">
-                <a href="tel:+88028878080" class="btn btn-sm btn-outline-primary">Get Appointment</a>
-              </p>
-            </div>
-          </div>
-        </div>
-
-      </div>
-      <!-- Team block 2 end -->
-
-
-      <!-- Team block 3 start-->
-      <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay="400ms">
-        <div class="team-card-ten">
-          <div class="team-img-ten">
-            <a href="dr.golshanarakohinoor.php"> <!-- image clickable -->
-              <img src="assets/img/team/dr._gulshan_ara.png" alt="">
-            </a>
-            <span class="share-icon-ten fa fa-share-alt"></span>
-            <div class="social-links-ten">
-              <a href="#"><i class="fab fa-instagram"></i></a>
-              <a href="#"><i class="fab fa-twitter"></i></a>
-              <a href="#"><i class="fab fa-facebook"></i></a>
-            </div>
-          </div>
-          <div class="info-box-ten text-center"> <!-- center aligned content -->
-            <h4 class="name"><a href="dr.golshanarakohinoor.php"><span style="font-size: 14px; color:#07ccec;">Asst. Prof. Dr. Golshan Ara Kohinoor </span></a></h4>
-            <p class="designation"><br> MBBS, FCPS</p>
-            <!-- <p class="designation"><span style="color:#07ccec;">Specialty : <br> </span>Gynecology & Obstetrics</p>
-            <p class="designation"><span style="color:#07ccec;">Degrees : <br></span>MBBS, FCPS</p> -->
-
-            <div style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
-              <p class="mt-2" style="margin: 0;">
-                <a href="dr.golshanarakohinoor.php" class="btn btn-sm btn-outline-primary">View Profile</a>
-              </p>
-
-              <p class="mt-2" style="margin: 0;">
-                <a href="tel:+88028878080" class="btn btn-sm btn-outline-primary">Get Appointment</a>
-              </p>
-            </div>
-          </div>
-        </div>
-
-      </div>
-      <!-- Team block 3 end-->
-
-      <!-- Team block 4 start -->
-      <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay="400ms">
-        <div class="team-card-ten">
-          <div class="team-img-ten">
-            <a href="dr.shamimahaider.php"> <!-- image clickable -->
-              <img src="assets/img/team/avatar-female.png" alt="">
-            </a>
-            <span class="share-icon-ten fa fa-share-alt"></span>
-            <div class="social-links-ten">
-              <a href="#"><i class="fab fa-instagram"></i></a>
-              <a href="#"><i class="fab fa-twitter"></i></a>
-              <a href="#"><i class="fab fa-facebook"></i></a>
-            </div>
-          </div>
-          <div class="info-box-ten text-center"> <!-- center aligned content -->
-            <h4 class="name"><a href="dr.shamimahaider.php"><span style="font-size: 16px; color:#07ccec;">Asst. Prof. Dr. Shamima Haider</span></a></h4>
-            <p class="designation"><br> MBBS, MS, DMU, FMD</p>
-            <!-- <p class="designation"><span style="color:#07ccec;">Specialty : <br> </span>Gynecology & Obstetrics</p>
-            <p class="designation"><span style="color:#07ccec;">Degrees : <br></span>MBBS, MS, DMU, FMD</p> -->
-
-            <div style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
-              <p class="mt-2" style="margin: 0;">
-                <a href="dr.shamimahaider.php" class="btn btn-sm btn-outline-primary">View Profile</a>
-              </p>
-
-              <p class="mt-2" style="margin: 0;">
-                <a href="tel:+88028878080" class="btn btn-sm btn-outline-primary">Get Appointment</a>
-              </p>
-            </div>
-          </div>
-        </div>
-
-      </div>
-      <!-- Team block 4 end -->
-
-      <!-- Team Block 5 start -->
-      <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay="400ms" style="padding-top: 50px;">
-        <div class="team-card-ten">
-          <div class="team-img-ten">
-            <a href="#"> <!-- image clickable -->
-              <img src="assets/img/team/avatar-female.png" alt="">
-            </a>
-            <span class="share-icon-ten fa fa-share-alt"></span>
-            <div class="social-links-ten">
-              <a href="#"><i class="fab fa-instagram"></i></a>
-              <a href="#"><i class="fab fa-twitter"></i></a>
-              <a href="#"><i class="fab fa-facebook"></i></a>
-            </div>
-          </div>
-          <div class="info-box-ten text-center"> <!-- center aligned content -->
-            <h4 class="name"><a href="dr.suparna.php"><span style="font-size: 16px; color:#07ccec;">Dr. Suparna Chowdhury</span></a></h4>
-            <p class="designation"><br> MBBS, MS</p>
-            <!-- <p class="designation"><span style="color:#07ccec;">Specialty : <br> </span>Gynecology & Obstetrics</p>
-            <p class="designation"><span style="color:#07ccec;">Degrees : <br></span>MBBS, MS</p> -->
-
-            <div style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
-              <p class="mt-2" style="margin: 0;">
-                <a href="dr.suparna.php" class="btn btn-sm btn-outline-primary">View Profile</a>
-              </p>
-
-              <p class="mt-2" style="margin: 0;">
-                <a href="tel:+88028878080" class="btn btn-sm btn-outline-primary">Get Appointment</a>
-              </p>
-            </div>
-          </div>
-        </div>
-
-      </div>
-      <!-- Team Block 5 end -->
-
-      <!-- Team Block 6 start -->
-      <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay="400ms" style="padding-top: 50px;">
-        <div class="team-card-ten">
-          <div class="team-img-ten">
-            <a href="#"> <!-- image clickable -->
-              <img src="assets/img/team/avatar-female.png" alt="">
-            </a>
-            <span class="share-icon-ten fa fa-share-alt"></span>
-            <div class="social-links-ten">
-              <a href="#"><i class="fab fa-instagram"></i></a>
-              <a href="#"><i class="fab fa-twitter"></i></a>
-              <a href="#"><i class="fab fa-facebook"></i></a>
-            </div>
-          </div>
-          <div class="info-box-ten text-center"> <!-- center aligned content -->
-            <h4 class="name"><a href="dr.anjumara.php"><span style="font-size: 16px; color:#07ccec;">Dr. Anjuman Ara</span></a></h4>
-            <p class="designation"><br> MBBS</p>
-            <!-- <p class="designation"><span style="color:#07ccec;">Specialty : <br> </span>Gynecology & Obstetrics</p>
-            <p class="designation"><span style="color:#07ccec;">Degrees : <br></span>MBBS</p> -->
-
-            <div style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
-              <p class="mt-2" style="margin: 0;">
-                <a href="dr.anjumara.php" class="btn btn-sm btn-outline-primary">View Profile</a>
-              </p>
-
-              <p class="mt-2" style="margin: 0;">
-                <a href="tel:+88028878080" class="btn btn-sm btn-outline-primary">Get Appointment</a>
-              </p>
-            </div>
-          </div>
-        </div>
-
-      </div>
-      <!-- Team Block 6 end -->
-
+        <?php endwhile; ?>
+      <?php else: ?>
+        <p>No doctors found.</p>
+      <?php endif; ?>
     </div>
   </div>
 </section>
+
 
 <!-- End team-section-two -->
 

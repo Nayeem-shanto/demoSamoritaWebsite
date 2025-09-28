@@ -1,66 +1,58 @@
 <?php include 'headerhospital.php'; ?>
-
-<!--==============================
-    Breadcumb
-============================== -->
-<div class="breadcumb-wrapper ">
-  <div class="parallax" data-parallax-image="assets/img/breadcurmb/cardiology.jpg"></div>
-  <div class="container z-index-common">
-    <div class="breadcumb-content">
-      <h1 class="breadcumb-title">Department of Cardiology</h1>
-      <div class="breadcumb-menu-wrap">
-        <i class="far fa-home-lg"></i>
-        <ul class="breadcumb-menu">
-          <li><a href="index-4.php">Home</a></li>
-          <li><a href="cardiology.php">Cardiology</a></li>
-
-        </ul>
-      </div>
-    </div>
-  </div>
-</div>
+<?php include 'breadcrumb-gyne.php'; ?>
 
 <!-- Department details section start -->
-<section class="department-header-container">
-    <div>
-      <p class="department-description">
-        The Department of <span class="dept-name-bold">Cardiology</span> at MH Samorita Medical College & Hospital is a center of excellence for
-        the diagnosis, treatment, and prevention of cardiovascular diseases. Our team of highly qualified cardiologists,
-        supported by skilled medical professionals and advanced diagnostic technology, is dedicated to delivering
-        comprehensive cardiac care to both inpatients and outpatients. We offer a full spectrum of cardiac services, including non-invasive, interventional, and preventive cardiology, in a patient-focused, compassionate environment. Our cardiology department also plays an integral role in academic activities, contributing to the training of future medical professionals.
+
+
+<section style="margin:auto;  padding-left: 150px; padding-right: 150px; color: black;">
+  <section>
+    <div style="text-align: justify; color: black">
+      <p style="color: black; font-family: var(--title-font);">
+        The Department of Gynecology & Obstetrics at MH Samorita Medical College & Hospital offers
+        comprehensive care for women’s reproductive health across all stages of life. We are committed
+        to providing patient-centered, evidence-based care with compassion and excellence.
+
+        Our department is equipped with advanced facilities to support a wide range of services — from routine
+        gynecological check-ups to high-risk pregnancy management and complex surgical interventions.
+        With a team of experienced consultants, surgeons, and support staff, we ensure both clinical
+        excellence and emotional support for every patient.
+
+        In addition to clinical care, the department plays a vital academic role in educating future doctors,
+        with hands-on training, case-based learning, and research contributions.
       </p>
     </div>
-  <section class="service-facilities-container">
+  </section>
+
+
+  <section style="display: flex; justify-content: space-around;">
     <section>
-      <h3 class="core-services">Core Services</h3>
+      <h3 style="text-decoration: underline; font-family: var(--title-font);">Core Services</h3>
       <div>
         <ul style="list-style-type: square;">
-          <li>Cardiac Consultation & Risk Assessment.</li>
-          <li>12-Lead ECG (Electrocardiogram).</li>
-          <li>2D & 3D Echocardiography.</li>
-          <li>Treadmill Test (TMT) / Stress ECG.</li>
-          <li>Holter Monitoring.</li>
-          <li>Ambulatory Blood Pressure Monitoring.</li>
-          <li>Coronary Angiography & Angioplasty (PCI).</li>
-          <li>Pacemaker Implantation (Temporary & Permanent).</li>
-          <li>Heart Failure & Hypertension Management.</li>
-          <li>Post-Operative Cardiac Rehabilitation.</li>
+          <li>Antenatal Care & High-Risk Pregnancy Management.</li>
+          <li>Normal & Caesarean Delivery (C-Section).</li>
+          <li>Menstrual Disorders Treatment.</li>
+          <li>Infertility Evaluation & Treatment.</li>
+          <li>Uterine Fibroids & Ovarian Cyst Management.</li>
+          <li>Laparoscopic & Open Gynecologic Surgeries.</li>
+          <li>Pap Smear & Cervical Cancer Screening.</li>
+          <li>Contraceptive & Family Planning Services.</li>
+          <li>Menopausal Health Management.</li>
+          <li>Postnatal Care & Counseling.</li>
         </ul>
       </div>
     </section>
 
-
-
     <section>
-      <h3 class="facilities-and-technology">Facilities & Technology</h3>
+      <h3 style="text-decoration: underline;">Facilities & Technology</h3>
       <div>
         <ul style="list-style-type: square;">
-          <li>Fully equipped Cardiac Catheterization Laboratory (Cath Lab).</li>
-          <li>Digital ECG machines and Doppler echocardiography.</li>
-          <li>High-definition monitors and real-time imaging systems.</li>
-          <li>Cardiac ICU with trained cardiac nurses.</li>
-          <li>A24/7 emergency cardiac response team.</li>
-
+          <li>Well-equipped Labor & Delivery Suite.</li>
+          <li>Fetal Monitoring Systems and Ultrasound Facilities.</li>
+          <li>Dedicated Gynecology OT for major and minor surgeries.</li>
+          <li>24/7 Emergency Obstetric Care.</li>
+          <li>Access to NICU (Neonatal Intensive Care Unit) for high-risk newborns.</li>
+          <li>Sterile environment with infection control protocols.</li>
         </ul>
       </div>
     </section>
@@ -70,8 +62,20 @@
 
 
 <!-- Doctor list -->
+<?php
+// DB connection (change credentials as needed)
+$conn = new mysqli("localhost", "root", "", "dashboard_mh");
+if ($conn->connect_error) {
+    die("Connection failed: " . $conn->connect_error);
+}
+
+// Data fetch
+$sql = "SELECT id, name, degree, image, mobile FROM dr_profile WHERE department = 'Cardiology'";
+$result = $conn->query($sql);
+?>
 
 <!-- team-section-two -->
+
 <section class="team-section-ten space space-md-bottom">
   <div class="title-area-four text-center wow fadeInUp" data-wow-delay="400ms">
     <span class="sub-title8">
@@ -80,135 +84,82 @@
   </div>
   <div class="container-style8">
     <div class="row justify-content-center">
-
-      <!-- doctor card 1 start -->
-      <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay="400ms" style="padding-top: 50px;">
-        <div class="team-card-ten">
-          <div class="team-img-ten">
-            <a href="#"> <!-- image clickable -->
-              <img src="assets/img/team/dr.mamumiqbal.png" alt="">
-            </a>
-            <span class="share-icon-ten fa fa-share-alt"></span>
-            <div class="social-links-ten">
-              <a href="#"><i class="fab fa-instagram"></i></a>
-              <a href="#"><i class="fab fa-twitter"></i></a>
-              <a href="#"><i class="fab fa-facebook"></i></a>
+      <?php if ($result->num_rows > 0): ?>
+        <?php while($row = $result->fetch_assoc()): ?>
+          <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay="400ms">
+            <div class="team-card-ten">
+              <div class="team-img-ten">
+                <a href="#"> <!-- Optional profile link -->
+                  <img src="../samoritadrprofile/upload/<?php echo htmlspecialchars($row['image']); ?>" alt="">
+                </a>
+                <span class="share-icon-ten fa fa-share-alt"></span>
+                <div class="social-links-ten">
+                  <a href="#"><i class="fab fa-instagram"></i></a>
+                  <a href="#"><i class="fab fa-twitter"></i></a>
+                  <a href="#"><i class="fab fa-facebook"></i></a>
+                </div>
+              </div>
+              <div class="info-box-ten text-center">
+                <h4 class="name">
+                  <a href="#"><span style="font-size: 16px; color:#07ccec;">
+                    <?php echo htmlspecialchars($row['name']); ?>
+                  </span></a>
+                </h4>
+                <p class="designation"><br> <?php echo htmlspecialchars($row['degree']); ?></p>
+                <div style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
+                  <p class="mt-2" style="margin: 0;">
+                    <a href="drprofile.php?doctor=<?php echo urlencode($row['id']); ?>" class="btn btn-sm btn-outline-primary">View Profile</a>
+                  </p>
+                  <p class="mt-2" style="margin: 0;">
+                    <a href="tel:<?php echo htmlspecialchars($row['mobile']); ?>" class="btn btn-sm btn-outline-primary">Get Appointment</a>
+                  </p>
+                </div>
+              </div>
             </div>
           </div>
-          <div class="info-box-ten text-center"> <!-- center aligned content -->
-            <h4 class="name"><a href="dr.mamuniqbal.php"><span style="font-size: 16px; color:#07ccec;">Prof. Dr. S. M. Mamun Iqbal</span></a></h4>
-            <div>
-              <p class="designation">Professor (CC) <br> & Consultant <br> <span style="font-size: small;">Department of Cardiology</span> </p>
-              <p class="designation"><span style="color:#07ccec;">Specialty : <br> </span>Cardiology (Clinical & Interventional)</p>
-              <p class="designation"><span style="color:#07ccec;">Degrees : <br></span>MBBS, MD (Cardiology), MRCP (UK), FRCP (Glasgow)
-              </p>
-            </div>
-
-            <div style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
-              <p class="mt-2" style="margin: 0;">
-                <a href="dr.mamuniqbal.php" class="btn btn-sm btn-outline-primary">View Profile</a>
-              </p>
-
-              <p class="mt-2" style="margin: 0;">
-                <a href="tel:+88028878080" class="btn btn-sm btn-outline-primary">Get Appointment</a>
-              </p>
-            </div>
-          </div>
-        </div>
-
-      </div>
-      <!-- doctor card 1 end -->
-
-      <!-- Doctor 2 start -->
-      <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay="400ms" style="padding-top: 50px;">
-        <div class="team-card-ten">
-          <div class="team-img-ten">
-            <a href="#"> <!-- image clickable -->
-              <img src="assets/img/team/avatar-male.png" alt="">
-            </a>
-            <span class="share-icon-ten fa fa-share-alt"></span>
-            <div class="social-links-ten">
-              <a href="#"><i class="fab fa-instagram"></i></a>
-              <a href="#"><i class="fab fa-twitter"></i></a>
-              <a href="#"><i class="fab fa-facebook"></i></a>
-            </div>
-          </div>
-          <div class="info-box-ten text-center"> <!-- center aligned content -->
-            <h4 class="name"><a href="dr.faisalibnkabir.php"><span style="font-size: 16px; color:#07ccec;">Dr. Mohammad Faisal Ibn Kabir</span></a></h4>
-            <div>
-              <p class="designation">Associate Professor<br><br> <span style="font-size: small;">Department of Cardiology</span> </p>
-              <p class="designation"><span style="color:#07ccec;">Specialty :<br><br></span>Cardiology</p>
-              <p class="designation"><span style="color:#07ccec;">Degrees : <br> </span>FELLOWSHIP, MD (CARDIOLOGY), FCPS (MEDICINE),MBBS (DMC) </p>
-            </div>
-
-            <div style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
-              <p class="mt-2" style="margin: 0;">
-                <a href="dr.faisalibnkabir.php" class="btn btn-sm btn-outline-primary">View Profile</a>
-              </p>
-
-              <p class="mt-2" style="margin: 0;">
-                <a href="tel:+88028878080" class="btn btn-sm btn-outline-primary">Get Appointment</a>
-              </p>
-            </div>
-          </div>
-        </div>
-
-      </div>
-      <!-- Doctor 2 end -->
-
-      <!-- Doctor 3 start -->
-      <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay="400ms" style="padding-top: 50px;">
-        <div class="team-card-ten">
-          <div class="team-img-ten">
-            <a href="#"> <!-- image clickable -->
-              <img src="assets/img/team/avatar-male.png" alt="">
-            </a>
-            <span class="share-icon-ten fa fa-share-alt"></span>
-            <div class="social-links-ten">
-              <a href="#"><i class="fab fa-instagram"></i></a>
-              <a href="#"><i class="fab fa-twitter"></i></a>
-              <a href="#"><i class="fab fa-facebook"></i></a>
-            </div>
-          </div>
-          <div class="info-box-ten text-center"> <!-- center aligned content -->
-            <h4 class="name"><a href="dr.ahmedmostofazaman.php"><span style="font-size: 16px; color:#07ccec;">Dr. Ahmed Mostofa Zaman</span></a></h4>
-            <p class="designation">Assistant Professor (CC) <br>Cum Consultant<br> <span style="font-size: small;">Department of Cardiology</span></p>
-            <p class="designation"><span style="color:#07ccec;">Specialty : <br> <br></span>Cardiology</p>
-            <p class="designation"><span style="color:#07ccec;">Degrees :<br></span>MBBS, D-CARD (NICVD), MRCP (UK)</p>
-
-            <div style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
-              <p class="mt-2" style="margin: 0;">
-                <a href="dr.ahmedmostofazaman.php" class="btn btn-sm btn-outline-primary">View Profile</a>
-              </p>
-
-              <p class="mt-2" style="margin: 0;">
-                <a href="tel:+88028878080" class="btn btn-sm btn-outline-primary">Get Appointment</a>
-              </p>
-            </div>
-          </div>
-        </div>
-
-      </div>
-      <!-- Doctor 3 end -->
-
-
+        <?php endwhile; ?>
+      <?php else: ?>
+        <p>No doctors found.</p>
+      <?php endif; ?>
     </div>
   </div>
 </section>
+
+
 <!-- End team-section-two -->
 
-<section class="patient-care-highlight-container">
-  <h3 class="patient-care-title">Patient Care Highlights</h3>
-  <ul class="patient-care-highlight-list">
-    <li>OPD Hours: Sunday – Thursday, 9:00 AM – 5:00 PM.</li>
-    <li>Comprehensive cardiac evaluation for all age groups.</li>
-    <li>Emergency care for heart attacks and cardiac events.</li>
-    <li>Non-invasive cardiac diagnostics.</li>
-    <li>Long-term management for chronic heart conditions.</li>
-    <li>Patient education and cardiac rehabilitation guidance.</li>
-    <li>Multidisciplinary team approach for complex cardiac cases.</li>
-  </ul>
-  <!-- <section style="display: flex; justify-content: center; color:#27477d"> -->
+<section class="vs-about-wrapper space" data-bg-src="assets/img/bg/bg-shape-1.jpg">
+  <div class="container">
+    <div class="row ">
+      <div class="col-lg-6 mb-30 mb-lg-0">
+        <div class="about-img1 wow fadeInUp" data-wow-delay="0.3s">
+          <img src="assets/img/about/about-1-1.png" alt="About Image" class="w-100">
+          <a href="https://www.youtube.com/watch?v=_sI_Ps7JSEk" class="play-btn popup-video"><i class="fas fa-play"></i></a>
+        </div>
+      </div>
+      <div class="col-lg-6 align-self-center">
+        <div class="about-content ps-xl-5 ms-xl-2">
+          <h2 class="h1 mt-n2 mb-3 pb-1">Patient Care Highlights</h2>
+          <ul style="list-style-type: square;">
+            <li>Emphasis on safe motherhood and birth preparedness</li>
+            <li>Individualized birth plans in consultation with expectant mothers</li>
+            <li>Compassionate counseling for reproductive health and mental well-being</li>
+          </ul>
+          <div class="media-style1">
+            <div class="media-icon"><i class="fas fa-phone"></i></div>
+            <div class="media-body">
+              <h3 class="media-title">CALL ANYTIME 24/7</h3>
+              <p class="media-text"><a href="tel:+88 02 8878080">+88 02 8878080</a></p>
+            </div>
+          </div>
+          <a href="about.html" class="vs-btn">OPD Hours: Sunday – Thursday, 9:00 AM – 5:00 PM</a>
+        </div>
+      </div>
+    </div>
+  </div>
 </section>
+
+
+
 
 <?php include 'footerhospital.php'; ?>
