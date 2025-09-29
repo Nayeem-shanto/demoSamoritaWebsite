@@ -257,8 +257,8 @@
           </div>
           <div class="col-auto d-flex flex-wrap gap-3 justify-content-center align-items-center">
             <a href="appointment.php" class="vs-btn style2">Appointment</a>
-            <a href="finddoctor.php" class="vs-btn style5">Find Doctor</a>
-            <a href="facilities.php" class="vs-btn style5">Facilities</a>
+            <a href="finddoctor.php" class="vs-btn ">Find Doctor</a>
+            <a href="facilities.php" class="vs-btn ">Facilities</a>
 
 
 

@@ -66,7 +66,7 @@
 // DB connection (change credentials as needed)
 $conn = new mysqli("localhost", "root", "", "dashboard_mh");
 if ($conn->connect_error) {
-    die("Connection failed: " . $conn->connect_error);
+  die("Connection failed: " . $conn->connect_error);
 }
 
 // Data fetch
@@ -85,7 +85,7 @@ $result = $conn->query($sql);
   <div class="container-style8">
     <div class="row justify-content-center">
       <?php if ($result->num_rows > 0): ?>
-        <?php while($row = $result->fetch_assoc()): ?>
+        <?php while ($row = $result->fetch_assoc()): ?>
           <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay="400ms">
             <div class="team-card-ten">
               <div class="team-img-ten">
@@ -102,8 +102,8 @@ $result = $conn->query($sql);
               <div class="info-box-ten text-center">
                 <h4 class="name">
                   <a href="#"><span style="font-size: 16px; color:#07ccec;">
-                    <?php echo htmlspecialchars($row['name']); ?>
-                  </span></a>
+                      <?php echo htmlspecialchars($row['name']); ?>
+                    </span></a>
                 </h4>
                 <p class="designation"><br> <?php echo htmlspecialchars($row['degree']); ?></p>
                 <div style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
@@ -127,7 +127,7 @@ $result = $conn->query($sql);
 
 
 <!-- End team-section-two -->
-
+<!-- patients care highlights -->
 <section class="vs-about-wrapper space" data-bg-src="assets/img/bg/bg-shape-1.jpg">
   <div class="container">
     <div class="row ">
